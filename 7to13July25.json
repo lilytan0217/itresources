@@ -2751,6 +2751,22 @@
     "internal": 0.0,
     "others": 0.0,
     "hours": 8.0
+  },
+  {
+    "date": "2025-07-12",
+    "name": "Manthan",
+    "team": "FE",
+    "resource": "India",
+    "fr": 0.0,
+    "ibs": 0.0,
+    "par": 0.0,
+    "nm": 0.0,
+    "oneboard": 0.0,
+    "champ": 0.0,
+    "internal": 0.0,
+    "theone": 0.0,
+    "others": 0.0,
+    "hours": 0.0
   }
 ]
 ;
