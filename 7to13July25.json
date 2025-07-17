@@ -1,9 +1,4 @@
 
-DataFrame after aggregation (filtered for 2025-06-23 to 2025-06-27):
-Date	IT Member	Team	Resources	fr	ibs	par	nm	oneboard	champ	theone	internal	others	Total Working Hour
-
-
-const rawData = 
 [
   {
     "date": "2025-07-07",
