@@ -12916,7 +12916,7 @@
     "name": "Chen",
     "team": "FE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 50.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -12924,8 +12924,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 50.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-14",
@@ -13028,16 +13028,16 @@
     "name": "Eric",
     "team": "BE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 50.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 37.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-14",
@@ -13194,10 +13194,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-14",
@@ -13498,10 +13498,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-15",
@@ -13524,13 +13524,13 @@
     "name": "Chen",
     "team": "FE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 50.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 50.0,
     "theone": 0.0,
     "others": 100.0,
     "hours": 8.0
@@ -13636,7 +13636,7 @@
     "name": "Eric",
     "team": "BE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 100.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -13645,7 +13645,7 @@
     "internal": 0.0,
     "theone": 0.0,
     "others": 0.0,
-    "hours": 0.0
+    "hours": 8.0
   },
   {
     "date": "2025-07-15",
@@ -13802,10 +13802,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-15",
@@ -13964,8 +13964,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 100.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-15",
@@ -13981,22 +13981,6 @@
     "internal": 0.0,
     "theone": 0.0,
     "others": 12.5,
-    "hours": 8.0
-  },
-  {
-    "date": "2025-07-15",
-    "name": "Wuh Jet",
-    "team": "BE",
-    "resource": "Malaysia",
-    "fr": 0.0,
-    "ibs": 0.0,
-    "par": 0.0,
-    "nm": 0.0,
-    "oneboard": 0.0,
-    "champ": 0.0,
-    "internal": 0.0,
-    "theone": 0.0,
-    "others": 100.0,
     "hours": 8.0
   },
   {
@@ -14122,10 +14106,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-16",
@@ -14148,7 +14132,7 @@
     "name": "Chen",
     "team": "FE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 75.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -14156,8 +14140,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 25.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-16",
@@ -14260,16 +14244,16 @@
     "name": "Eric",
     "team": "BE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 50.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 37.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-16",
@@ -14388,16 +14372,16 @@
     "name": "Makeskumar",
     "team": "BE",
     "resource": "India",
-    "fr": 0.0,
+    "fr": 25.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 62.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-16",
@@ -14442,10 +14426,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-16",
@@ -14604,8 +14588,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 100.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-16",
@@ -14622,22 +14606,6 @@
     "theone": 0.0,
     "others": 12.5,
     "hours": 8.0
-  },
-  {
-    "date": "2025-07-16",
-    "name": "Wuh Jet",
-    "team": "BE",
-    "resource": "Malaysia",
-    "fr": 0.0,
-    "ibs": 0.0,
-    "par": 0.0,
-    "nm": 0.0,
-    "oneboard": 0.0,
-    "champ": 0.0,
-    "internal": 0.0,
-    "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
   },
   {
     "date": "2025-07-16",
@@ -14756,7 +14724,7 @@
     "name": "Amjad",
     "team": "BE",
     "resource": "India",
-    "fr": 0.0,
+    "fr": 75.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -14764,8 +14732,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 25.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-17",
@@ -14788,7 +14756,7 @@
     "name": "Chen",
     "team": "FE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 75.0,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -14796,8 +14764,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 25.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-17",
@@ -14900,16 +14868,16 @@
     "name": "Eric",
     "team": "BE",
     "resource": "Malaysia",
-    "fr": 0.0,
-    "ibs": 0.0,
+    "fr": 50.0,
+    "ibs": 37.5,
     "par": 0.0,
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-17",
@@ -15034,10 +15002,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-17",
@@ -15082,10 +15050,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-17",
@@ -15244,8 +15212,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 100.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-17",
@@ -15262,22 +15230,6 @@
     "theone": 0.0,
     "others": 12.5,
     "hours": 8.0
-  },
-  {
-    "date": "2025-07-17",
-    "name": "Wuh Jet",
-    "team": "BE",
-    "resource": "Malaysia",
-    "fr": 0.0,
-    "ibs": 0.0,
-    "par": 0.0,
-    "nm": 0.0,
-    "oneboard": 0.0,
-    "champ": 0.0,
-    "internal": 0.0,
-    "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
   },
   {
     "date": "2025-07-17",
@@ -15396,7 +15348,7 @@
     "name": "Amjad",
     "team": "BE",
     "resource": "India",
-    "fr": 0.0,
+    "fr": 87.5,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -15404,8 +15356,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-18",
@@ -15428,7 +15380,7 @@
     "name": "Chen",
     "team": "FE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 87.5,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -15436,8 +15388,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-18",
@@ -15540,7 +15492,7 @@
     "name": "Eric",
     "team": "BE",
     "resource": "Malaysia",
-    "fr": 0.0,
+    "fr": 87.5,
     "ibs": 0.0,
     "par": 0.0,
     "nm": 0.0,
@@ -15548,8 +15500,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-18",
@@ -15674,10 +15626,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-18",
@@ -15722,10 +15674,10 @@
     "nm": 0.0,
     "oneboard": 0.0,
     "champ": 0.0,
-    "internal": 0.0,
+    "internal": 87.5,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 12.5,
+    "hours": 8.0
   },
   {
     "date": "2025-07-18",
@@ -15884,8 +15836,8 @@
     "champ": 0.0,
     "internal": 0.0,
     "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
+    "others": 100.0,
+    "hours": 8.0
   },
   {
     "date": "2025-07-18",
@@ -15902,22 +15854,6 @@
     "theone": 0.0,
     "others": 0.0,
     "hours": 8.0
-  },
-  {
-    "date": "2025-07-18",
-    "name": "Wuh Jet",
-    "team": "BE",
-    "resource": "Malaysia",
-    "fr": 0.0,
-    "ibs": 0.0,
-    "par": 0.0,
-    "nm": 0.0,
-    "oneboard": 0.0,
-    "champ": 0.0,
-    "internal": 0.0,
-    "theone": 0.0,
-    "others": 0.0,
-    "hours": 0.0
   },
   {
     "date": "2025-07-18",
@@ -15952,3 +15888,4 @@
     "hours": 8.0
   }
 ]
+;
