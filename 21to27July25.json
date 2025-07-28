@@ -1,0 +1,77 @@
+[
+  {
+    "date": "2025-07-14",
+    "name": "Abdul Hai",
+    "team": "FE",
+    "resource": "India",
+    "tickets": [
+      { "ticket_type": "FR", "ticket_id": "FR-10104", "contribution_percentage": 50.0 },
+      { "ticket_type": "IBS", "ticket_id": "IBS-20202", "contribution_percentage": 20.0 },
+      { "ticket_type": "Internal", "ticket_id": "INT-3007", "contribution_percentage": 15.0 },
+      { "ticket_type": "Others", "ticket_id": "OT-001", "contribution_percentage": 15.0, "description": "Team Meeting & Planning" }
+    ],
+    "hours": 8.0
+  },
+  {
+    "date": "2025-07-14",
+    "name": "Lily Tan",
+    "team": "BE",
+    "resource": "Malaysia",
+    "tickets": [
+      { "ticket_type": "PAR", "ticket_id": "PAR-4005", "contribution_percentage": 40.0 },
+      { "ticket_type": "NM", "ticket_id": "NM-30045", "contribution_percentage": 30.0 },
+      { "ticket_type": "Others", "ticket_id": "OT-002", "contribution_percentage": 30.0, "description": "Documentation Update" }
+    ],
+    "hours": 7.5
+  },
+  {
+    "date": "2025-07-14",
+    "name": "John Smith",
+    "team": "FE",
+    "resource": "India",
+    "tickets": [
+      { "ticket_type": "FR", "ticket_id": "FR-10092", "contribution_percentage": 60.0 },
+      { "ticket_type": "ONEBOARD", "ticket_id": "ONEBOARD-7001", "contribution_percentage": 25.0 },
+      { "ticket_type": "Others", "ticket_id": "OT-003", "contribution_percentage": 15.0, "description": "Code Review Session" }
+    ],
+    "hours": 8.0
+  },
+  {
+    "date": "2025-07-15",
+    "name": "Abdul Hai",
+    "team": "FE",
+    "resource": "India",
+    "tickets": [
+      { "ticket_type": "FR", "ticket_id": "FR-10118", "contribution_percentage": 70.0 },
+      { "ticket_type": "IBS", "ticket_id": "IBS-20195", "contribution_percentage": 10.0 },
+      { "ticket_type": "Internal", "ticket_id": "INT-3012", "contribution_percentage": 10.0 },
+      { "ticket_type": "Others", "ticket_id": "OT-004", "contribution_percentage": 10.0, "description": "Client Call Prep" }
+    ],
+    "hours": 8.0
+  },
+  {
+    "date": "2025-07-15",
+    "name": "Lily Tan",
+    "team": "BE",
+    "resource": "Malaysia",
+    "tickets": [
+      { "ticket_type": "PAR", "ticket_id": "PAR-4011", "contribution_percentage": 50.0 },
+      { "ticket_type": "THEONE", "ticket_id": "THEONE-5001", "contribution_percentage": 30.0 },
+      { "ticket_type": "Others", "ticket_id": "OT-005", "contribution_percentage": 20.0, "description": "Research New Library" }
+    ],
+    "hours": 7.0
+  },
+  {
+    "date": "2025-07-15",
+    "name": "John Smith",
+    "team": "FE",
+    "resource": "India",
+    "tickets": [
+      { "ticket_type": "FR", "ticket_id": "FR-10104", "contribution_percentage": 40.0 },
+      { "ticket_type": "CHAMP", "ticket_id": "CHAMP-6001", "contribution_percentage": 30.0 },
+      { "ticket_type": "Internal", "ticket_id": "INT-3009", "contribution_percentage": 20.0 },
+      { "ticket_type": "Others", "ticket_id": "OT-006", "contribution_percentage": 10.0, "description": "Mentoring Junior Dev" }
+    ],
+    "hours": 8.0
+  }
+]
