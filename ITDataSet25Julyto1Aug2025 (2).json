@@ -1,0 +1,4276 @@
+[
+    {
+        "date": "2025-07-28",
+        "name": "Eric",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Yee Sheng",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10164"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Makeskumar",
+        "team": "BE",
+        "resource": "India",
+        "hours": 9.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 11.11,
+                "ticket_id": "IBS-48456"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 66.67,
+                "ticket_id": "IBS-45867"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 22.22,
+                "ticket_id": "BPT-4123"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Faisal",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4087"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Praksha sheth",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4089"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Vijaya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 43.75,
+                "ticket_id": "IBS-46282"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 43.75,
+                "ticket_id": "BPT-4246"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Seow Imm",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10279"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 18.75,
+                "ticket_id": "Others-1",
+                "description": "Check Nex789 Hot Game"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 18.75,
+                "ticket_id": "Others-2",
+                "description": "siam212 manual patch user"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-3",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Qi Lun",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-9186"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10632"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "PAR-1495"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2022"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2020"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 25.0,
+                "ticket_id": "NM-818"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Vijay P",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Amjad",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 81.25,
+                "ticket_id": "FR-9423"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Victor",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10523"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10327"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Yuan Kang",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4242"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Eugene",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10744"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10735"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10728"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 31.25,
+                "ticket_id": "ONEBOARD-166"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 25.0,
+                "ticket_id": "ONEBOARD-41"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 6.25,
+                "ticket_id": "ONEBOARD-159"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Clarence",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "YC",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 87.5,
+                "ticket_id": "ONEBOARD-152"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Lam",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FPT-3596"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FPT-3574"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Leon",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10650"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10572"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Chen",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10574"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "aw8 Production Iframe Issue"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Kartik",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 50.0,
+                "ticket_id": "IBS-48335"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48682"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48611"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48437"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48728"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Abdul Hai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-9186"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Harsh",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10565"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10739"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FPT-3593"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Vamshi",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 75.0,
+                "ticket_id": "NM-818"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FPT-3460"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Ramya",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10658"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-7370"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FPT-3619"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Vivaswan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FR-10231"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Phoebe",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.5,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10430"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Deep",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10747"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48678"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FPT-3443"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Danny",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-9909"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 25.0,
+                "ticket_id": "NM-818"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FPT-3595"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Eason",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10723"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10726"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10733"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Manthan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 10.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 20.0,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 30.0,
+                "ticket_id": "FPT-3588"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FPT-3621"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Akash",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10738"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FPT-3598"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Devendran",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10695"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Sai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10583"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10754"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10753"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FPT-3449"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "name": "Ritika",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-9123"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10586"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Eric",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Yee Sheng",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "PAR-1839"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Makeskumar",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10543"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10546"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 12.5,
+                "ticket_id": "BPT-3959"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 62.5,
+                "ticket_id": "BPT-4123"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Faisal",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4087"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Praksha sheth",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4089"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Vijaya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 43.75,
+                "ticket_id": "IBS-48829"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 43.75,
+                "ticket_id": "BPT-4272"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Seow Imm",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10279"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Qi Lun",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10670"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "PAR-2023"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "PAR-2025"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2027"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 6.25,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "Meeting Telegram Bot"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Allauddin",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4088"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Vijay P",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Amjad",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10294"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10807"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10704"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Victor",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10523"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10327"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Yuan Kang",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4242"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Sanjay",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 12.5,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 25.0,
+                "ticket_id": "NM-818"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "BPT-4263"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "BPT-4163"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Aishwarya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 25.0,
+                "ticket_id": "IBS-48691"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48709"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48688"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "BPT-4195"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Eugene",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10557"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FR-10602"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 25.0,
+                "ticket_id": "ONEBOARD-100"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 12.5,
+                "ticket_id": "ONEBOARD-238"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 25.0,
+                "ticket_id": "ONEBOARD-166"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Clarence",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 12.5,
+                "ticket_id": "ONEBOARD-244"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 12.5,
+                "ticket_id": "ONEBOARD-243"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 25.0,
+                "ticket_id": "ONEBOARD-242"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "YC",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 87.5,
+                "ticket_id": "ONEBOARD-152"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Lam",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.5,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 47.06,
+                "ticket_id": "FR-10711"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 11.76,
+                "ticket_id": "FPT-3019"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 41.18,
+                "ticket_id": "FPT-3596"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Leon",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.5,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 11.76,
+                "ticket_id": "FR-10139"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 82.35,
+                "ticket_id": "FR-10572"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 5.88,
+                "ticket_id": "NM-797"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Chen",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 87.5,
+                "ticket_id": "Others-1",
+                "description": "aw8 Production Iframe Issue"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Kartik",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-8018"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-9926"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FR-10762"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Abdul Hai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10670"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Harsh",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10740"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10762"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FPT-3593"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Vamshi",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10613"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FPT-3460"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Ramya",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-7370"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Vivaswan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10231"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Phoebe",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FR-10430"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "PAR-2008"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Deep",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10760"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10747"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FPT-3443"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 18.75,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Danny",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10746"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 50.0,
+                "ticket_id": "NM-818"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Eason",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10725"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10745"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10676"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10747"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Manthan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 9.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 66.67,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 33.33,
+                "ticket_id": "FPT-3621"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Akash",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10741"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FPT-3598"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Devendran",
+        "team": "FE",
+        "resource": "India",
+        "hours": 12.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 33.33,
+                "ticket_id": "FR-10695"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 66.67,
+                "ticket_id": "FR-10765"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Sai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10749"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FPT-3449"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "name": "Ritika",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FR-9123"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Eric",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Yee Sheng",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10164"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Makeskumar",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4270"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4286"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Faisal",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4087"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Praksha sheth",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4089"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Vijaya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "BPT-4295"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4296"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Seow Imm",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10778"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10779"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-9909"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "PAR-2016"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Qi Lun",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 56.25,
+                "ticket_id": "FR-10898"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2029"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2031"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2033"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 12.5,
+                "ticket_id": "NM-822"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Allauddin",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4088"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Arjun",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4293"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Vijay P",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Amjad",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10704"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4298"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Victor",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10523"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10327"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Yuan Kang",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4242"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Sanjay",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 87.5,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Aishwarya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 75.0,
+                "ticket_id": "IBS-48766"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 12.5,
+                "ticket_id": "BPT-725"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Eugene",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10768"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10763"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "PAR-1837"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 37.5,
+                "ticket_id": "ONEBOARD-100"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 12.5,
+                "ticket_id": "ONEBOARD-239"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Clarence",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Lam",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10327"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10711"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 31.25,
+                "ticket_id": "FPT-3596"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Leon",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10651"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 6.25,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Chen",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 9.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 77.77,
+                "ticket_id": "FR-10574"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 11.11,
+                "ticket_id": "Others-1",
+                "description": "aw8 Production Iframe Issue"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Kartik",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10762"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-8018"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 37.5,
+                "ticket_id": "IBS-48935"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 6.25,
+                "ticket_id": "IBS-48795"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Abdul Hai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FR-10670"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FPT-2901"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Harsh",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10717"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Vamshi",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10613"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FPT-3460"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Ramya",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-7370"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FPT-3286"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Vivaswan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10231"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Phoebe",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FPT-2904"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Deep",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10760"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 37.5,
+                "ticket_id": "IBS-48892"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 37.5,
+                "ticket_id": "IBS-48735"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Danny",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-9909"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Eason",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FR-10725"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10776"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FR-10774"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10745"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Manthan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10281"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Akash",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10279"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FPT-3598"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Devendran",
+        "team": "FE",
+        "resource": "India",
+        "hours": 12.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10765"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Sai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10780"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10801"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48888"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "name": "Ritika",
+        "team": "FE",
+        "resource": "India",
+        "hours": 11.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 27.27,
+                "ticket_id": "FR-10577"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 27.27,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 45.45,
+                "ticket_id": "NM-822"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Eric",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 6.25,
+                "ticket_id": "BPT-4291"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 6.25,
+                "ticket_id": "BPT-4292"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 6.25,
+                "ticket_id": "BPT-4301"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Yee Sheng",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10164"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Makeskumar",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4123"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Faisal",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4087"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Praksha sheth",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4089"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Vijaya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 31.25,
+                "ticket_id": "IBS-48913"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 31.25,
+                "ticket_id": "IBS-48865"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "BPT-4296"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Seow Imm",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-9909"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10279"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "PAR-2016"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "Check Roiluck99"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-2",
+                "description": "Add Game"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Qi Lun",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-8676"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2037"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2036"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2035"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 56.25,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Allauddin",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4088"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Hitang",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 37.5,
+                "ticket_id": "IBS-48766"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "BPT-4307"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Arjun",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4293"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4121"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Vijay P",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4163"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Amjad",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FR-10704"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Victor",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10523"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10327"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48953"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Yuan Kang",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4242"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Sanjay",
+        "team": "BE",
+        "resource": "India",
+        "hours": 10.0,
+        "tickets": [
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 25.0,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4300"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "BPT-4163"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Aishwarya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 25.0,
+                "ticket_id": "IBS-48766"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48688"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-48709"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 25.0,
+                "ticket_id": "Others-1",
+                "description": "AW8 s3 issue"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Eugene",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10791"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "PAR-1459"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 62.5,
+                "ticket_id": "ONEBOARD-144"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Clarence",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "YC",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 87.5,
+                "ticket_id": "ONEBOARD-190"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Lam",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FR-10722"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10710"
+            },
+            {
+                "ticket_type": "CHAMP",
+                "contribution_percentage": 25.0,
+                "ticket_id": "CHAMP-1000"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FPT-3596"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Leon",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10651"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 6.25,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Chen",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 3.5,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 42.86,
+                "ticket_id": "FR-10574"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 28.57,
+                "ticket_id": "Others-1",
+                "description": "aw8 Production Iframe Issue"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 28.57,
+                "ticket_id": "Others-2",
+                "description": "Assist on Rewards Module"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Kartik",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.5,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 47.06,
+                "ticket_id": "FR-9926"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 23.53,
+                "ticket_id": "FR-8018"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 17.65,
+                "ticket_id": "IBS-49031"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 5.88,
+                "ticket_id": "IBS-48795"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 5.88,
+                "ticket_id": "IBS-48625"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Abdul Hai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10670"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10453"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 56.25,
+                "ticket_id": "FPT-2901"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Harsh",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10717"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Vamshi",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10613"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10805"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FPT-3460"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Ramya",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10477"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 43.75,
+                "ticket_id": "FR-7370"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-8018"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Vivaswan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10231"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Phoebe",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 37.5,
+                "ticket_id": "NM-822"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FPT-2904"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Deep",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10783"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10806"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FR-10811"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 25.0,
+                "ticket_id": "IBS-48892"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Danny",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-9909"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FPT-3595"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Eason",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10793"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FR-10536"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Manthan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10281"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Akash",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 43.75,
+                "ticket_id": "FR-10279"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10784"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FPT-3598"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Devendran",
+        "team": "FE",
+        "resource": "India",
+        "hours": 11.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10765"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "name": "Sai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.5,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 23.53,
+                "ticket_id": "FR-10749"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 58.82,
+                "ticket_id": "FR-8676"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 17.65,
+                "ticket_id": "FR-10786"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Eric",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Yee Sheng",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10722"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10710"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FR-10826"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 18.75,
+                "ticket_id": "FR-10781"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Faisal",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 100.0,
+                "ticket_id": "BPT-4087"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Praksha sheth",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4089"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Vijaya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 31.25,
+                "ticket_id": "IBS-45869"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 31.25,
+                "ticket_id": "IBS-48865"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "BPT-4309"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Seow Imm",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 100.0,
+                "ticket_id": "Others-1",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Qi Lun",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10800"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10577"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2043"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2045"
+            },
+            {
+                "ticket_type": "PAR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "PAR-2046"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 6.25,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 12.5,
+                "ticket_id": "NM-822"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Allauddin",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10689"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 50.0,
+                "ticket_id": "BPT-4088"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Hitang",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 37.5,
+                "ticket_id": "BPT-4308"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 62.5,
+                "ticket_id": "BPT-4314"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Arjun",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 25.0,
+                "ticket_id": "IBS-49158"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 25.0,
+                "ticket_id": "IBS-49002"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 37.5,
+                "ticket_id": "IBS-49255"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Vijay P",
+        "team": "BE",
+        "resource": "India",
+        "hours": 9.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 88.89,
+                "ticket_id": "BPT-4163"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 11.11,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Amjad",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FR-10704"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10807"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Victor",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10523"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10327"
+            },
+            {
+                "ticket_type": "CHAMP",
+                "contribution_percentage": 37.5,
+                "ticket_id": "CHAMP-1032"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Yuan Kang",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 87.5,
+                "ticket_id": "BPT-4242"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Sanjay",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "BPT-4306"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 75.0,
+                "ticket_id": "BPT-4163"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Aishwarya",
+        "team": "BE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 18.75,
+                "ticket_id": "IBS-48688"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 25.0,
+                "ticket_id": "IBS-48709"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 31.25,
+                "ticket_id": "IBS-49152"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "No Reason Stated"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-2",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Eugene",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10803"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Clarence",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "YC",
+        "team": "BE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 81.25,
+                "ticket_id": "ONEBOARD-190"
+            },
+            {
+                "ticket_type": "ONEBOARD",
+                "contribution_percentage": 6.25,
+                "ticket_id": "ONEBOARD-257"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Lam",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10724"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10577"
+            },
+            {
+                "ticket_type": "CHAMP",
+                "contribution_percentage": 50.0,
+                "ticket_id": "CHAMP-1000"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Chen",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10574"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Kartik",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-9926"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10787"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-49267"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-49171"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-49170"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Abdul Hai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 93.75,
+                "ticket_id": "FPT-2901"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "No Reason Stated"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Vamshi",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FR-10805"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FPT-3460"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FPT-3585"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Harsh",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FR-10717"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10546"
+            },
+            {
+                "ticket_type": "IBS",
+                "contribution_percentage": 12.5,
+                "ticket_id": "IBS-49158"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Ramya",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 75.0,
+                "ticket_id": "FR-7370"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10477"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Vivaswan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 87.5,
+                "ticket_id": "FR-10231"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 12.5,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Phoebe",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 12.0,
+        "tickets": [
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 58.33,
+                "ticket_id": "NM-822"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 41.67,
+                "ticket_id": "FPT-2904"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Deep",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10814"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 6.25,
+                "ticket_id": "FR-10783"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 62.5,
+                "ticket_id": "FR-10811"
+            },
+            {
+                "ticket_type": "Others",
+                "contribution_percentage": 6.25,
+                "ticket_id": "Others-1",
+                "description": "1 Hour Leisure Time"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Danny",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 9.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 33.33,
+                "ticket_id": "FR-9909"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 11.11,
+                "ticket_id": "FR-10788"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 11.11,
+                "ticket_id": "NM-797"
+            },
+            {
+                "ticket_type": "NM",
+                "contribution_percentage": 11.11,
+                "ticket_id": "NM-822"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 11.11,
+                "ticket_id": "FPT-3410"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 22.22,
+                "ticket_id": "FPT-3595"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Eason",
+        "team": "FE",
+        "resource": "Malaysia",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10536"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10795"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 25.0,
+                "ticket_id": "FR-10796"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Manthan",
+        "team": "FE",
+        "resource": "India",
+        "hours": 9.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 22.22,
+                "ticket_id": "FR-10281"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 44.44,
+                "ticket_id": "FR-9403"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 33.33,
+                "ticket_id": "FR-10017"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Akash",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10765"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Devendran",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 100.0,
+                "ticket_id": "FR-10765"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "name": "Sai",
+        "team": "FE",
+        "resource": "India",
+        "hours": 8.0,
+        "tickets": [
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 50.0,
+                "ticket_id": "FR-10786"
+            },
+            {
+                "ticket_type": "FR",
+                "contribution_percentage": 37.5,
+                "ticket_id": "FR-10490"
+            },
+            {
+                "ticket_type": "Internal",
+                "contribution_percentage": 12.5,
+                "ticket_id": "FPT-3621"
+            }
+        ]
+    }
+]
