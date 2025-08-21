@@ -285,20 +285,6 @@
   },
   {
     "date": "2025-08-11",
-    "name": "Jagan M",
-    "team": "BE",
-    "resource": "India",
-    "hours": 7,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 85.71,
-        "ticket_id": "FR-9909"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-11",
     "name": "kartik",
     "team": "FE",
     "resource": "India",
@@ -1004,20 +990,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4429"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-12",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 1.5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 33.33,
-        "ticket_id": "FR-10884"
       }
     ]
   },
@@ -1742,20 +1714,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4429"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-13",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 0.5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 100,
-        "ticket_id": "FR-10884"
       }
     ]
   },
