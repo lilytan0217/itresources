@@ -10,12 +10,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 93.75,
         "ticket_id": "NM-820"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -65,12 +59,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "FPT-3769"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -115,12 +103,6 @@
         "contribution_percentage": 6.25,
         "ticket_id": "Others-1",
         "description": "No Reason Stated"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -145,12 +127,6 @@
         "ticket_type": "IBS",
         "contribution_percentage": 25,
         "ticket_id": "IBS-50207"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -165,12 +141,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "FPT-3710"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -219,12 +189,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 43.75,
         "ticket_id": "FPT-3443"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -282,12 +246,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "BPT-4429"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -322,57 +280,6 @@
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 12.5,
         "ticket_id": "ONEBOARD-41"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-11",
-    "name": "Faisal Alam SIddiqui",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-11",
-    "name": "Harsh Jaiswal",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-11",
-    "name": "Hitang Patel",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -387,27 +294,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 85.71,
         "ticket_id": "FR-9909"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 14.29,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-11",
-    "name": "Kai Lun Chew",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-9"
       }
     ]
   },
@@ -443,12 +329,6 @@
         "contribution_percentage": 6.25,
         "ticket_id": "Others-1",
         "description": "Working on issue INTT-3"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -539,12 +419,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4089"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -589,12 +463,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 6.25,
         "ticket_id": "NM-832"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -609,12 +477,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10890"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -644,21 +506,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 6.25,
         "ticket_id": "FPT-3740"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-11",
-    "name": "Sai krishna",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -756,12 +603,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10327"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -795,12 +636,6 @@
         "ticket_type": "IBS",
         "contribution_percentage": 50,
         "ticket_id": "IBS-50286"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -834,12 +669,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-9123"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -864,12 +693,6 @@
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 37.5,
         "ticket_id": "ONEBOARD-190"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -895,12 +718,6 @@
         "contribution_percentage": 25,
         "ticket_id": "Others-1",
         "description": "No Reason Stated"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -920,12 +737,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 81.25,
         "ticket_id": "FR-8382"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -940,12 +751,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 93.75,
         "ticket_id": "NM-820"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -981,12 +786,6 @@
         "contribution_percentage": 6.25,
         "ticket_id": "Others-1",
         "description": "No Reason Stated"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1001,12 +800,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "FPT-3769"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1040,12 +833,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "BPT-4373"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1160,12 +947,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 43.75,
         "ticket_id": "FPT-3443"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1223,12 +1004,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4429"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1243,12 +1018,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 33.33,
         "ticket_id": "FR-10884"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 66.67,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1283,51 +1052,6 @@
   },
   {
     "date": "2025-08-12",
-    "name": "Faisal Alam SIddiqui",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-12",
-    "name": "Harsh Jaiswal",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-12",
-    "name": "Hitang Patel",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-12",
     "name": "Kai Lun Chew",
     "team": "BE",
     "resource": "Malaysia",
@@ -1337,12 +1061,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10874"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1410,12 +1128,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4123"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1468,12 +1180,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4089"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1523,12 +1229,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 12.5,
         "ticket_id": "NM-837"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1543,12 +1243,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10890"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1573,21 +1267,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-7370"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-12",
-    "name": "Sai krishna",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -1641,12 +1320,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "BPT-3588"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1666,12 +1339,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 75,
         "ticket_id": "NM-832"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1686,12 +1353,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10327"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1720,12 +1381,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4051"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1764,12 +1419,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-9123"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1800,12 +1449,6 @@
         "contribution_percentage": 31.25,
         "ticket_id": "Others-1",
         "description": "No Reason Stated"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1844,12 +1487,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-8382"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1864,12 +1501,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 93.75,
         "ticket_id": "NM-820"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1918,12 +1549,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "FPT-3769"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -1958,12 +1583,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "No Reason Stated"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2008,12 +1627,6 @@
         "contribution_percentage": 50,
         "ticket_id": "Others-1",
         "description": "Merchant Deployment - Code Review"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2038,12 +1651,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 37.5,
         "ticket_id": "FPT-3768"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2078,12 +1685,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "FPT-3443"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2141,12 +1742,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4429"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2190,57 +1785,6 @@
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
         "ticket_id": "ONEBOARD-311"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-13",
-    "name": "Faisal Alam SIddiqui",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-13",
-    "name": "Harsh Jaiswal",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-13",
-    "name": "Hitang Patel",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -2255,27 +1799,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10874"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-13",
-    "name": "kartik",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -2314,12 +1837,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4123"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2372,12 +1889,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4089"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2422,12 +1933,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 6.25,
         "ticket_id": "NM-820"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2442,12 +1947,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10928"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2467,21 +1966,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "FPT-3800"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-13",
-    "name": "Sai krishna",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -2526,12 +2010,6 @@
         "contribution_percentage": 81.25,
         "ticket_id": "Others-1",
         "description": "Help for Double Pay Issue"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2556,12 +2034,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "FPT-3799"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2576,12 +2048,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10327"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2615,12 +2081,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 43.75,
         "ticket_id": "BPT-4405"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2635,12 +2095,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10874"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2655,12 +2109,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-9123"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2675,12 +2123,6 @@
         "ticket_type": "PAR",
         "contribution_percentage": 87.5,
         "ticket_id": "PAR-1167"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2695,12 +2137,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-9909"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2715,12 +2151,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-8382"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2740,12 +2170,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 25,
         "ticket_id": "NM-841"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2776,57 +2200,6 @@
         "contribution_percentage": 18.75,
         "ticket_id": "Others-1",
         "description": "Deposit Export - Summary Error"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "Akash A",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "Allaudhin",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "amjad",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -2838,27 +2211,19 @@
     "hours": 8,
     "tickets": [
       {
+        "ticket_type": "IBS",
+        "contribution_percentage": 37.5,
+        "ticket_id": "IBS-50740"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 25,
+        "ticket_id": "IBS-50600"
+      },
+      {
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "BPT-4427"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 37.5,
-        "ticket_id": "Others-1",
-        "description": "IBS-50740"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 25,
-        "ticket_id": "Others-2",
-        "description": "IBS-50600"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-3",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2874,12 +2239,6 @@
         "contribution_percentage": 87.5,
         "ticket_id": "Others-1",
         "description": "Telegram Auto Login"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2933,12 +2292,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "FPT-3745"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -2996,72 +2349,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4429"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "EUGENE TENG ZI HAN",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "Faisal Alam SIddiqui",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "Harsh Jaiswal",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "Hitang Patel",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -3081,27 +2368,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 37.5,
         "ticket_id": "FR-10787"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "kartik",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -3178,21 +2444,6 @@
   },
   {
     "date": "2025-08-14",
-    "name": "Praksha Sheth",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
     "name": "Qi Lun",
     "team": "BE",
     "resource": "Malaysia",
@@ -3232,21 +2483,6 @@
   },
   {
     "date": "2025-08-14",
-    "name": "Rahul Shaik",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
     "name": "Ramya Gayala",
     "team": "FE",
     "resource": "India",
@@ -3261,21 +2497,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "FPT-3800"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-14",
-    "name": "Sai krishna",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -3334,12 +2555,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "BPT-3588"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3359,12 +2574,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 62.5,
         "ticket_id": "FPT-3799"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3379,12 +2588,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10327"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3413,12 +2616,6 @@
         "ticket_type": "IBS",
         "contribution_percentage": 87.5,
         "ticket_id": "IBS-50599"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3433,12 +2630,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10231"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3453,12 +2644,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-9123"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3478,12 +2663,6 @@
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
         "ticket_id": "ONEBOARD-314"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3498,12 +2677,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-9909"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3518,12 +2691,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-8382"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3545,12 +2712,6 @@
         "contribution_percentage": 37.5,
         "ticket_id": "Others-2",
         "description": "Merchant Deployment - Code Review"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-3",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3559,18 +2720,12 @@
     "name": "Danny YKC",
     "team": "FE",
     "resource": "Malaysia",
-    "hours": 8,
+    "hours": 4,
     "tickets": [
       {
         "ticket_type": "FR",
-        "contribution_percentage": 50,
+        "contribution_percentage": 100,
         "ticket_id": "FR-8382"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 50,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -3624,27 +2779,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "BPT-4449"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-15",
-    "name": "EUGENE TENG ZI HAN",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -3660,12 +2794,6 @@
         "contribution_percentage": 87.5,
         "ticket_id": "Others-1",
         "description": "No Reason Stated"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3743,12 +2871,6 @@
         "ticket_type": "NM",
         "contribution_percentage": 12.5,
         "ticket_id": "NM-841"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3788,12 +2910,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 12.5,
         "ticket_id": "BPT-3588"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3808,12 +2924,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-10327"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3828,12 +2938,6 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-9123"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3853,12 +2957,6 @@
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 18.75,
         "ticket_id": "ONEBOARD-260"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3898,12 +2996,6 @@
         "ticket_type": "IBS",
         "contribution_percentage": 12.5,
         "ticket_id": "IBS-50903"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 6.25,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
@@ -3923,12 +3015,6 @@
         "ticket_type": "Internal",
         "contribution_percentage": 68.75,
         "ticket_id": "BPT-4430"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
       }
     ]
   }
