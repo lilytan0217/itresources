@@ -4195,5 +4195,111 @@
         "ticket_name": "[ZBET] Display mix max error message"
       }
     ]
+     {
+    "date": "2025-08-20",
+    "name": "EUGENE TENG ZI HAN",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 25,
+        "ticket_id": "ONEBOARD-329",
+        "ticket_name": "CHECK > MSSTHAIPAY ADD FEATURE VERIFY KYC MEMBERS [THB] (ALL MERCHANTS)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "description": "1 Hour Leisure Time"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10941",
+        "ticket_name": "[ALL MERCHANT BO3] Periodic Deposit Retention Report Enhancement"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10933",
+        "ticket_name": "[ALL SGD MERCHANT] Add Matchmove Pay to Bank List Setting"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-10978",
+        "ticket_name": "[AW8 VND IDR] membersite > deposit> add ratio 1:1000"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-21",
+    "name": "EUGENE TENG ZI HAN",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 56.25,
+        "ticket_id": "BPT-4486",
+        "ticket_name": "[all transfer] all payment gateway provider error send to a new telegram group"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 6.25,
+        "ticket_id": "ONEBOARD-120",
+        "ticket_name": "Integrate onepg"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "description": "1 Hour Leisure Time"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10941",
+        "ticket_name": "[ALL MERCHANT BO3] Periodic Deposit Retention Report Enhancement"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-21",
+    "name": "EUGENE TENG ZI HAN",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 6.25,
+        "ticket_id": "ONEBOARD-339",
+        "ticket_name": "CHECK: PAYOUT FAILED FPAY CRYPTO > MSSLOT (THB)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 6.25,
+        "ticket_id": "ONEBOARD-256",
+        "ticket_name": "AMOPAY - ROOKING (AUD)"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 25,
+        "ticket_id": "IBS-51284"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "description": "1 hour leisure Time"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 50,
+        "ticket_id": "FR-10941",
+        "ticket_name": "[ALL MERCHANT BO3] Periodic Deposit Retention Report Enhancement"
+      }
+    ]
   }
 ]
