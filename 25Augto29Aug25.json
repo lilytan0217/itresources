@@ -2809,7 +2809,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 100,
         "ticket_id": "BPT-4543",
-        "description": "HTTP_CF_IPCOUNTRY = MM then use S3"
+        "ticket_name": "HTTP_CF_IPCOUNTRY = MM then use S3"
       }
     ]
   },
