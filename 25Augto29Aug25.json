@@ -3572,7 +3572,8 @@
       {
         "ticket_type": "CHAMP",
         "contribution_percentage": 75,
-        "ticket_id": "CHAMP-1304"
+        "ticket_id": "CHAMP-1304",
+        "ticket_name": "Update crm subscribe api to 2.0"
       }
     ]
   },
