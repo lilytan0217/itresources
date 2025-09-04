@@ -2249,7 +2249,8 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 33.33,
-        "ticket_id": "FR-11037"
+        "ticket_id": "FR-11037",
+        "ticket_name": "Enhancement in “Member” Notification from the BO3"
       },
       {
         "ticket_type": "FR",
@@ -3182,7 +3183,8 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 25,
-        "ticket_id": "FR-11037"
+        "ticket_id": "FR-11037",
+        "ticket_name": "Enhancement in “Member” Notification from the BO3"
       },
       {
         "ticket_type": "Others",
@@ -4094,7 +4096,8 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 25,
-        "ticket_id": "FR-11037"
+        "ticket_id": "FR-11037",
+        "ticket_name": "Enhancement in “Member” Notification from the BO3"
       }
     ]
   },
