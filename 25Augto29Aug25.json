@@ -1377,7 +1377,8 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 41.67,
-        "ticket_id": "FR-11098"
+        "ticket_id": "FR-11098",
+        "ticket_name": "[BO] Add Delete Function for Editing Bank Details"
       },
       {
         "ticket_type": "FR",
@@ -1789,7 +1790,8 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 37.5,
-        "ticket_id": "FR-11098"
+        "ticket_id": "FR-11098",
+        "ticket_name": "[BO] Add Delete Function for Editing Bank Details"
       },
       {
         "ticket_type": "FR",
@@ -1813,7 +1815,8 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 75,
-        "ticket_id": "FR-11098"
+        "ticket_id": "FR-11098",
+        "ticket_name": "[BO] Add Delete Function for Editing Bank Details"
       },
       {
         "ticket_type": "Others",
@@ -2680,12 +2683,14 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 22.22,
-        "ticket_id": "FR-11121"
+        "ticket_id": "FR-11121",
+        "ticket_name": "[BOV3] VIP setting default Number Fields to 0 if Empty"
       },
       {
         "ticket_type": "FR",
         "contribution_percentage": 44.44,
-        "ticket_id": "FR-11121"
+        "ticket_id": "FR-11121",
+        "ticket_name": "[BOV3] VIP setting default Number Fields to 0 if Empty"
       },
       {
         "ticket_type": "IBS",
@@ -4103,7 +4108,8 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 50,
-        "ticket_id": "FR-11098"
+        "ticket_id": "FR-11098",
+        "ticket_name": "[BO] Add Delete Function for Editing Bank Details"
       },
       {
         "ticket_type": "FR",
