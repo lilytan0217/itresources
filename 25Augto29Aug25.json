@@ -432,17 +432,20 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 62.5,
-        "ticket_id": "FR-11032"
+        "ticket_id": "FR-11032",
+        "ticket_name": "[[ALL NEX TEMPLATE] Website tutorial after registered"
       },
       {
         "ticket_type": "FR",
         "contribution_percentage": 12.5,
-        "ticket_id": "FR-10651"
+        "ticket_id": "FR-10651",
+        "ticket_name": "[ALL MERCHANTS] Enhance UI & Add CTA of the Sign-in task (Journey mission)"
       },
       {
         "ticket_type": "FR",
         "contribution_percentage": 12.5,
-        "ticket_id": "FR-10941"
+        "ticket_id": "FR-10941",
+        "ticket_name": "[ALL MERCHANT BO3] Periodic Deposit Retention Report Enhancement"
       },
       {
         "ticket_type": "Others",
