@@ -172,7 +172,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "FPT-3988",
-        "ticket_name": "\"[MS] cross check all menuStore.data > params condition"
+        "ticket_name": "[MS] cross check all menuStore.data > params condition"
       },
       {
         "ticket_type": "Others",
@@ -263,13 +263,13 @@
         "ticket_type": "FR",
         "contribution_percentage": 75,
         "ticket_id": "FR-10787",
-        "ticket_name": "\"[jaya11 (BDT"
+        "ticket_name": "[jaya11 (BDT,NPR)]Zbet2 Deposit UI Enhancement + Withdrawal UI"
       },
       {
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-11075",
-        "ticket_name": "\"[ALL THB] membersite > Express deposit QR code photo upload"
+        "ticket_name": "[ALL THB] membersite > Express deposit QR code photo upload"
       }
     ]
   },
@@ -359,7 +359,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-10917",
-        "ticket_name": "\"[BO3] Add \"\"Withdrawal\"\" Events in BO3 > CMS > Frontend Setting > Tracker (D)\""
+        "ticket_name": "[BO3] Add 'Withdrawal'Events in BO3 > CMS > Frontend Setting > Tracker (D)"
       },
       {
         "ticket_type": "Others",
@@ -503,7 +503,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 6.25,
         "ticket_id": "FR-11129",
-        "ticket_name": "\"[PESO88 PHP] Change main domain"
+        "ticket_name": "[PESO88 PHP] Change main domain"
       },
       {
         "ticket_type": "IBS",
@@ -864,7 +864,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 62.5,
         "ticket_id": "BPT-4586",
-        "ticket_name": "\"V1 - Demolition - Issue fixes"
+        "ticket_name": "V1 - Demolition - Issue fixes"
       },
       {
         "ticket_type": "Others",
@@ -1023,7 +1023,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 100,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition"
       }
     ]
   },
@@ -1116,7 +1116,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 12.5,
         "ticket_id": "FPT-1831",
-        "ticket_name": "\"[All BOV3] Move the \"\"Provider Transfer\"\" to new sub menu of \"\"Member\"\"\""
+        "ticket_name": "[All BOV3] Move the 'Provider Transfer' to new sub menu of 'Member'"
       },
       {
         "ticket_type": "Others",
@@ -1642,7 +1642,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 50,
         "ticket_id": "FR-10956",
-        "ticket_name": "\"[*ALL MYR* ] bo > merchant bank setting / bank list setting add \"\"alrajhi bank\"\"\""
+        "ticket_name": "[ALL MYR] bo > merchant bank setting / bank list setting add "alrajhi bank""
       },
       {
         "ticket_type": "IBS",
@@ -1767,7 +1767,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 37.5,
         "ticket_id": "BPT-4586",
-        "ticket_name": "\"V1 - Demolition - Issue fixes"
+        "ticket_name": "V1 - Demolition - Issue fixes"
       },
       {
         "ticket_type": "Others",
@@ -1904,7 +1904,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 100,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition"
       }
     ]
   },
@@ -2256,7 +2256,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "BPT-4430",
-        "ticket_name": "\"[all v3 transfer] test"
+        "ticket_name": "[all v3 transfer] test"
       },
       {
         "ticket_type": "Internal",
@@ -2778,7 +2778,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition"
       },
       {
         "ticket_type": "Internal",
@@ -2865,7 +2865,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 18.75,
         "ticket_id": "FR-8695",
-        "ticket_name": "\"[All BOV3] Move the \"\"Provider Transfer\"\" to new sub menu of \"\"Member\"\"\""
+        "ticket_name": "[All BOV3] Move the 'Provider Transfer' to new sub menu of 'Member'"
       },
       {
         "ticket_type": "Internal",
@@ -2985,7 +2985,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 50,
         "ticket_id": "FR-11174",
-        "ticket_name": "\"[8MBETS NPR] membersite > add youtube video"
+        "ticket_name": "[8MBETS NPR] membersite > add youtube video"
       },
       {
         "ticket_type": "FR",
@@ -3152,7 +3152,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 75,
         "ticket_id": "BPT-4430",
-        "ticket_name": "\"[all v3 transfer] test"
+        "ticket_name": "[all v3 transfer] test, tune and reopen v3 aff generate com"
       },
       {
         "ticket_type": "Internal",
@@ -3725,7 +3725,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "FPT-1831",
-        "ticket_name": "\"[All BOV3] Move the \"\"Provider Transfer\"\" to new sub menu of \"\"Member\"\"\""
+        "ticket_name": "[All BOV3] Move the 'Provider Transfer' to new sub menu of 'Member'"
       },
       {
         "ticket_type": "Internal",
@@ -3848,7 +3848,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 12.5,
         "ticket_id": "FR-11174",
-        "ticket_name": "\"[8MBETS NPR] membersite > add youtube video"
+        "ticket_name": "[8MBETS NPR] membersite > add youtube video"
       },
       {
         "ticket_type": "Others",
@@ -3875,7 +3875,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 50,
         "ticket_id": "FR-11186",
-        "ticket_name": "\"[ALL BDT & NPR Merchant] Export data of August"
+        "ticket_name": "[ALL BDT & NPR Merchant] Export data of August"
       },
       {
         "ticket_type": "IBS",
@@ -4041,7 +4041,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 87.5,
         "ticket_id": "BPT-4430",
-        "ticket_name": "\"[all v3 transfer] test"
+        "ticket_name": "[all v3 transfer] test"
       },
       {
         "ticket_type": "Others",
