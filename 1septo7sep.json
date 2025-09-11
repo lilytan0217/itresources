@@ -1666,19 +1666,13 @@
     "name": "Faisal Alam SIddiqui",
     "team": "BE",
     "resource": "India",
-    "hours": 8,
+    "hours": 4,
     "tickets": [
       {
         "ticket_type": "Internal",
-        "contribution_percentage": 50,
+        "contribution_percentage": 100,
         "ticket_id": "BPT-4579",
         "ticket_name": "V3 - BO - Member trace batch info filter issue"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 50,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
