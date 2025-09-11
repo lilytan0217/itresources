@@ -263,13 +263,13 @@
         "ticket_type": "FR",
         "contribution_percentage": 75,
         "ticket_id": "FR-10787",
-        "ticket_name": "[jaya11 (BDT,NPR)]Zbet2 Deposit UI Enhancement + Withdrawal UI"
+        "ticket_name": "\"[jaya11 (BDT"
       },
       {
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-11075",
-        "ticket_name": "[ALL THB] membersite > Express deposit QR code photo upload"
+        "ticket_name": "\"[ALL THB] membersite > Express deposit QR code photo upload"
       }
     ]
   },
@@ -755,17 +755,20 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 50,
-        "ticket_id": "ONEBOARD-193"
+        "ticket_id": "ONEBOARD-193",
+        "ticket_name": "INTEGRATION > TARSPAY - FUJI9 (BDT)"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 25,
-        "ticket_id": "ONEBOARD-120"
+        "ticket_id": "ONEBOARD-120",
+        "ticket_name": "ONEPG INTEGRATION"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 12.5,
-        "ticket_id": "ONEBOARD-383"
+        "ticket_id": "ONEBOARD-383",
+        "ticket_name": "CHECK > SPEEDPAY ADD NEW PAYMENT CHANNEL REFQR [EP88] (MYR)"
       },
       {
         "ticket_type": "Others",
@@ -887,17 +890,20 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 12.5,
-        "ticket_id": "ONEBOARD-385"
+        "ticket_id": "ONEBOARD-385",
+        "ticket_name": "CHECK > FPAY CRYPTO DEPOSIT TICKET NO SHOW IN BO [AW8] (VND)"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 25,
-        "ticket_id": "ONEBOARD-412"
+        "ticket_id": "ONEBOARD-412",
+        "ticket_name": "CHECK > TRUEPAY2 ISSUE (MYR)"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 12.5,
-        "ticket_id": "ONEBOARD-411"
+        "ticket_id": "ONEBOARD-411",
+        "ticket_name": "CHECK > AW8 MYR FPAY ISSUE"
       },
       {
         "ticket_type": "Others",
@@ -1043,17 +1049,20 @@
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2191"
+        "ticket_id": "PAR-2191",
+        "ticket_name": "IT[Qi Lun] Open Provider - SIAM369 THB PROD"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2192"
+        "ticket_id": "PAR-2192",
+        "ticket_name": "IT[Qi Lun] Deploy and Open Provider - GOAT77 SGD PROD"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 12.5,
-        "ticket_id": "PAR-2189"
+        "ticket_id": "PAR-2189",
+        "ticket_name": "IT[Qi Lun] Deploy and Open Provider - MYRX1 MYR PROD"
       },
       {
         "ticket_type": "Others",
@@ -1166,12 +1175,14 @@
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2193"
+        "ticket_id": "PAR-2193",
+        "ticket_name": "IT[Seow Imm] Provider Issue Checking - MYRX1 MYR PROD"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2187"
+        "ticket_id": "PAR-2187",
+        "ticket_name": "IT[Seow Imm] Provider Issue Checking - MAGAR33 NPR PROD"
       },
       {
         "ticket_type": "Internal",
@@ -1641,17 +1652,20 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 12.5,
-        "ticket_id": "ONEBOARD-120"
+        "ticket_id": "ONEBOARD-120",
+        "ticket_name": "ONEPG INTEGRATION"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 12.5,
-        "ticket_id": "ONEBOARD-267"
+        "ticket_id": "ONEBOARD-267",
+        "ticket_name": "INTEGRATION > TOPPAY - AW8 (IDR)"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
-        "ticket_id": "ONEBOARD-310"
+        "ticket_id": "ONEBOARD-310",
+        "ticket_name": "ALL MERCHANT V3 BO ADD NEW PAYMENT GATEWAY PAYTYPE AND IMAGE NOT MATCH ISSUES."
       },
       {
         "ticket_type": "Others",
@@ -1666,7 +1680,7 @@
     "name": "Faisal Alam SIddiqui",
     "team": "BE",
     "resource": "India",
-    "hours": 4,
+    "hours": 8,
     "tickets": [
       {
         "ticket_type": "Internal",
@@ -1778,12 +1792,14 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 12.5,
-        "ticket_id": "ONEBOARD-413"
+        "ticket_id": "ONEBOARD-413",
+        "ticket_name": "CHECK > RAPIDPAY IFRAME ISSUE"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 50,
-        "ticket_id": "ONEBOARD-377"
+        "ticket_id": "ONEBOARD-377",
+        "ticket_name": "INTEGRATION > XPAY [BANK BOT] - NEX191 (THB)"
       },
       {
         "ticket_type": "Others",
@@ -1920,17 +1936,20 @@
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2194"
+        "ticket_id": "PAR-2194",
+        "ticket_name": "IT[Qi Lun] Open Provider - Siam345 THB PROD"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2195"
+        "ticket_id": "PAR-2195",
+        "ticket_name": "IT[Qi Lun] Sync AW8 IDR gamelist to Jagat Cuan IDR - Crowdplay"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2196"
+        "ticket_id": "PAR-2196",
+        "ticket_name": "IT[Qi Lun] Deploy and Open Provider - Jagat Cuan IDR PROD"
       },
       {
         "ticket_type": "Internal",
@@ -2019,7 +2038,8 @@
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2198"
+        "ticket_id": "PAR-2198",
+        "ticket_name": "IT[Seow Imm] Pull Balance Booongo - AW8 IDR PROD"
       },
       {
         "ticket_type": "Internal",
@@ -2175,7 +2195,8 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 37.5,
-        "ticket_id": "ONEBOARD-219"
+        "ticket_id": "ONEBOARD-219",
+        "ticket_name": "INTEGRATION > XXXPAY - 1JUDI (MYR)"
       },
       {
         "ticket_type": "Others",
@@ -2213,7 +2234,8 @@
       {
         "ticket_type": "CHAMP",
         "contribution_percentage": 18.75,
-        "ticket_id": "CHAMP-1304"
+        "ticket_id": "CHAMP-1304",
+        "ticket_name": "Update crm subscribe api to 2.0"
       },
       {
         "ticket_type": "Others",
@@ -2489,17 +2511,20 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
-        "ticket_id": "ONEBOARD-120"
+        "ticket_id": "ONEBOARD-120",
+        "ticket_name": "ONEPG INTEGRATION"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
-        "ticket_id": "ONEBOARD-276"
+        "ticket_id": "ONEBOARD-276",
+        "ticket_name": "TOPPAY - JAGAT CUAN (IDR)"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
-        "ticket_id": "ONEBOARD-401"
+        "ticket_id": "ONEBOARD-401",
+        "ticket_name": "CHECK > WEPAY ADD DUITNOW PAYMENT METHOD (MYR) FOR THESE 2 MERCHANT"
       },
       {
         "ticket_type": "Others",
@@ -2637,7 +2662,8 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 25,
-        "ticket_id": "ONEBOARD-377"
+        "ticket_id": "ONEBOARD-377",
+        "ticket_name": "INTEGRATION > XPAY [BANK BOT] - NEX191 (THB)"
       },
       {
         "ticket_type": "Others",
@@ -2784,7 +2810,8 @@
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2201"
+        "ticket_id": "PAR-2201",
+        "ticket_name": "IT[Qi Lun] Provider Issue Checking - GOAT77 SGD PROD"
       },
       {
         "ticket_type": "Others",
@@ -3383,17 +3410,20 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 56.25,
-        "ticket_id": "ONEBOARD-360"
+        "ticket_id": "ONEBOARD-360",
+        "ticket_name": "INTEGRATION > RMPAY - NEX8 (MMK) [NEW API DOC]"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
-        "ticket_id": "ONEBOARD-227"
+        "ticket_id": "ONEBOARD-227",
+        "ticket_name": "LNWPAY - GOLDBET888 (KUSD)"
       },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 6.25,
-        "ticket_id": "ONEBOARD-407"
+        "ticket_id": "ONEBOARD-407",
+        "ticket_name": "CHECK > MSSTHAIPAY [THB] REMOVE THE KYC FEATURES FOR ALL MERCHANT"
       },
       {
         "ticket_type": "Others",
@@ -3502,7 +3532,8 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 87.5,
-        "ticket_id": "ONEBOARD-377"
+        "ticket_id": "ONEBOARD-377",
+        "ticket_name": "INTEGRATION > XPAY [BANK BOT] - NEX191 (THB)"
       },
       {
         "ticket_type": "Others",
@@ -3633,22 +3664,26 @@
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2202"
+        "ticket_id": "PAR-2202",
+        "ticket_name": "IT[Qi Lun] Open provider - GOJUDI MYR PROD"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2204"
+        "ticket_id": "PAR-2204",
+        "ticket_name": "IT[Qi Lun] Add vpn logo - GOAT77 SGD PROD"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 12.5,
-        "ticket_id": "PAR-2203"
+        "ticket_id": "PAR-2203",
+        "ticket_name": "IT[Qi Lun] Provider Issue Checking - 885WON USD PROD"
       },
       {
         "ticket_type": "NM",
         "contribution_percentage": 12.5,
-        "ticket_id": "NM-841"
+        "ticket_id": "NM-841",
+        "ticket_name": "NPR > MAGAR33"
       },
       {
         "ticket_type": "Internal",
@@ -3951,7 +3986,8 @@
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 37.5,
-        "ticket_id": "ONEBOARD-404"
+        "ticket_id": "ONEBOARD-404",
+        "ticket_name": "INTEGRATION > UANG GO PAY - AW8 (IDR)"
       },
       {
         "ticket_type": "Others",
