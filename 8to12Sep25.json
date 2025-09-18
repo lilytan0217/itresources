@@ -3897,10 +3897,29 @@
     "hours": 8,
     "tickets": [
       {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "IBS-54077 - 1\nIBS-54089 - 1\nIBS-50116 - 1\nIBS53343 - 1\nONEBOARD - 4"
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-54077"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-54089"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-50116"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-53343"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 50,
+        "ticket_id": "ONEBOARD"
       }
     ]
   },
@@ -3973,27 +3992,6 @@
         "contribution_percentage": 100,
         "ticket_id": "BPT-4367",
         "ticket_name": "\"V1 demolition"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-12",
-    "name": "Qi Lun",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 87.5,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "1 Hour Leisure Time"
       }
     ]
   },
