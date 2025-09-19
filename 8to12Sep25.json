@@ -329,7 +329,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-10787",
-        "ticket_name": "\"[jaya11 (BDT"
+        "ticket_name": "[jaya11 (BDT,NPR)]Zbet2 Deposit UI Enhancement + Withdrawal UI"
       },
       {
         "ticket_type": "IBS",
@@ -427,7 +427,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 47.06,
         "ticket_id": "FR-10787",
-        "ticket_name": "\"[jaya11 (BDT"
+        "ticket_name": "[jaya11 (BDT,NPR)]Zbet2 Deposit UI Enhancement + Withdrawal UI"
       },
       {
         "ticket_type": "Internal",
@@ -463,7 +463,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition , bugs compared to v1"
       },
       {
         "ticket_type": "Internal",
@@ -496,7 +496,7 @@
         "ticket_type": "PAR",
         "contribution_percentage": 12.5,
         "ticket_id": "PAR-2210",
-        "ticket_name": "\"IT[Qi Lun] Update Provider Game Name"
+        "ticket_name": "IT[Qi Lun] Update Provider Game Name"
       },
       {
         "ticket_type": "PAR",
@@ -702,7 +702,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-11186",
-        "ticket_name": "\"[ALL BDT & NPR Merchant] Export data of August"
+        "ticket_name": "[ALL BDT & NPR Merchant] Export data of August"
       },
       {
         "ticket_type": "FR",
@@ -1307,7 +1307,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 100,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition , bugs compared to v1"
       }
     ]
   },
@@ -1439,7 +1439,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 12.5,
         "ticket_id": "FR-11218",
-        "ticket_name": "\"[Magar33 NPR] Change membersite NPR currency logo to \"\"NPR\"\"\""
+        "ticket_name": "[Magar33 NPR] Change membersite NPR currency logo to NPR"
       },
       {
         "ticket_type": "IBS",
@@ -2030,7 +2030,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-8303",
-        "ticket_name": "\"[ALL BOV1 BOV3] Remove \"\"THB Express Deposit Limitation\"\"\""
+        "ticket_name": "[ALL BOV1 BOV3] Remove THB Express Deposit Limitation"
       },
       {
         "ticket_type": "FR",
@@ -2081,7 +2081,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-8303",
-        "ticket_name": "\"[ALL BOV1 BOV3] Remove \"\"THB Express Deposit Limitation\"\"\""
+        "ticket_name": "[ALL BOV1 BOV3] Remove THB Express Deposit Limitation"
       },
       {
         "ticket_type": "FR",
@@ -2278,7 +2278,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 50,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition , bugs compared to v1"
       }
     ]
   },
@@ -2380,7 +2380,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 12.5,
         "ticket_id": "FR-11218",
-        "ticket_name": "\"[Magar33 NPR] Change membersite NPR currency logo to \"\"NPR\"\"\""
+        "ticket_name": "[Magar33 NPR] Change membersite NPR currency logo to NPR"
       },
       {
         "ticket_type": "FR",
@@ -2922,7 +2922,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 75,
         "ticket_id": "FR-8303",
-        "ticket_name": "\"[ALL BOV1 BOV3] Remove \"\"THB Express Deposit Limitation\"\"\""
+        "ticket_name": "[ALL BOV1 BOV3] Remove THB Express Deposit Limitation"
       },
       {
         "ticket_type": "Internal",
@@ -3135,7 +3135,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 100,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition , bugs compared to v1"
       }
     ]
   },
@@ -3991,7 +3991,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 100,
         "ticket_id": "BPT-4367",
-        "ticket_name": "\"V1 demolition"
+        "ticket_name": "V1 demolition , bugs compared to v1"
       }
     ]
   },
