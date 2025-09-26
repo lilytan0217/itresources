@@ -3396,7 +3396,398 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
+      },
+      {
+    "date": "2025-09-18",
+    "name": "Abdul Hai Siddiki Ansary",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "NM",
+        "contribution_percentage": 93.75,
+        "ticket_id": "NM-820",
+        "ticket_name": "THB > 22WIN (transfer)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
       }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "name": "Chen",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "Master BO requirements gathering"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "Master BO prototyping"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 75,
+        "ticket_id": "Others-3",
+        "description": "Merchant Deploment - Code Review"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "name": "Harsh Jaiswal",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11029",
+        "ticket_name": "[ALL BOv3] Provider Setting Enhancement"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11177",
+        "ticket_name": "[ALL BOV3] Add “Minimum Deposit” and “Maximum Deposit” fields in BO3 > Merchant Bank Settings > Express Deposit"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-8303",
+        "ticket_name": "\"[ALL BOV1 BOV3] Remove \"\"THB Express Deposit Limitation\"\"\""
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-54665"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "name": "kartik",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-9876",
+        "ticket_name": "[ALL THB IN-HOUSE MERCHANT] Member site > Standardise bottom menu bar"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-7370",
+        "ticket_name": "[ALL V3] 'Require VPN' setting in BO > Provider Setting"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-9876",
+        "ticket_name": "[ALL THB IN-HOUSE MERCHANT] Member site > Standardise bottom menu bar"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "FPT-4156",
+        "ticket_name": "[MS] Reward Center - create middleware checking"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "name": "Leon",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-11007",
+        "ticket_name": "[All Nex Template] Recently played"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11141",
+        "ticket_name": "[ALL] tune CTA UI for general settings in Mission Dairy"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "name": "Raymond Tam",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 100,
+        "ticket_id": "Others-1",
+        "description": "Assisting along Kavin for task / internal R&D"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "name": "YL LEE",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-9909",
+        "ticket_name": "[BOv1 & v3] 2FA Login - Google Authentication Back Office Login"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10327",
+        "ticket_name": "[ALL] Campaign Management"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10722",
+        "ticket_name": "[BOV3] Add Registration IP Filter in Referral Setting"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 37.5,
+        "ticket_id": "IBS-50474"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "name": "Abdul Hai Siddiki Ansary",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 93.75,
+        "ticket_id": "FR-11275",
+        "ticket_name": "[22win] UI Enhancement"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "name": "Chen",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 25,
+        "ticket_id": "Others-1",
+        "description": "Merchant Deploment - Code Review"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 75,
+        "ticket_id": "Others-2",
+        "description": "Dynamic Domains Injection Trial Run"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "name": "Harsh Jaiswal",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11279",
+        "ticket_name": "[ALL] Convert MS v1 API to v3 API [Batch 4]"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11298",
+        "ticket_name": "[NEX Template] Wording color tuning"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11029",
+        "ticket_name": "[ALL BOv3] Provider Setting Enhancement"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "name": "kartik",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-9876",
+        "ticket_name": "[ALL THB IN-HOUSE MERCHANT] Member site > Standardise bottom menu bar"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-7370",
+        "ticket_name": "[ALL V3] 'Require VPN' setting in BO > Provider Setting"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11211",
+        "ticket_name": "\"[TK8 MYR] Change UI for referral"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-53196"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4156",
+        "ticket_name": "[MS] Reward Center - create middleware checking"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "name": "Leon",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11167",
+        "ticket_name": "[ALL MS] Signup and Forget password add cloudflare captcha checking"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11045",
+        "ticket_name": "[UI/UX][All Nex Template] Withdrawal animation UI"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 50,
+        "ticket_id": "FR-11007",
+        "ticket_name": "[All Nex Template] Recently played"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "name": "Raymond Tam",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 100,
+        "ticket_id": "Others-1",
+        "description": "Assisting along Kavin for task / internal R&D"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "name": "YL LEE",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 9.5,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 15.79,
+        "ticket_id": "FR-10915",
+        "ticket_name": "[ALL BOV3]  Break down details in Total Bonus and Total Rebate in report"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 21.05,
+        "ticket_id": "IBS-51313"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 15.79,
+        "ticket_id": "IBS-51220"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 10.53,
+        "ticket_id": "IBS-50474"
+      },
+      {
+        "ticket_type": "NM",
+        "contribution_percentage": 15.79,
+        "ticket_id": "NM-831",
+        "ticket_name": "IDR > JAGAT CUAN"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 21.05,
+        "ticket_id": "FPT-3846",
+        "ticket_name": "ADHOC - W34 - Lam"
+      }
+    ]
+  }
+]
     ]
   }
 ]
