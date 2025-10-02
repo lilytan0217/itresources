@@ -594,7 +594,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 12.5,
         "ticket_id": "FPT-4157",
-        "ticket_name": [MS] [UFUN KUSD] Disconnect domain"
+        "ticket_name": "[MS] [UFUN KUSD] Disconnect domain"
       },
       {
         "ticket_type": "Others",
@@ -3688,7 +3688,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "FPT-4294",
-        "ticket_name": "\"[BOV3] [ALL] Add New Announcement Type Option: \"\"Before Login\"\"\""
+        "ticket_name": "[BOV3] [ALL] Add New Announcement Type Option: Before Login"
       },
       {
         "ticket_type": "Internal",
