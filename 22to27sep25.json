@@ -474,16 +474,14 @@
         "ticket_name": "[MSSLOT] [THB] new bottom menu bar"
       },
       {
-        "ticket_type": "Others",
+        "ticket_type": "IBS",
         "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "IBS-54979"
+        "ticket_id": "IBS-54979"
       },
       {
-        "ticket_type": "Others",
+        "ticket_type": "IBS",
         "contribution_percentage": 12.5,
-        "ticket_id": "Others-2",
-        "description": "IBS-54814"
+        "ticket_id": "IBS-54814"
       }
     ]
   },
@@ -1470,10 +1468,9 @@
         "ticket_name": "[TK8 MYR] Change UI for referral"
       },
       {
-        "ticket_type": "Others",
+        "ticket_type": "IBS",
         "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "IBS-55109"
+        "ticket_id": "IBS-55109"
       }
     ]
   },
@@ -1509,10 +1506,9 @@
         "ticket_name": "[All Nex Template] Recently played"
       },
       {
-        "ticket_type": "Others",
+        "ticket_type": "IBS",
         "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "IBS-55014"
+        "ticket_id": "OIBS-55014"
       }
     ]
   },
@@ -4433,10 +4429,9 @@
         "ticket_name": "[ALL BOv3] Provider Setting Enhancement"
       },
       {
-        "ticket_type": "Others",
+        "ticket_type": "IBS",
         "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "IBS-55041"
+        "ticket_id": "IBS-55041"
       },
       {
         "ticket_type": "Others",
