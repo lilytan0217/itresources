@@ -2333,9 +2333,10 @@
         "ticket_name": "[Zbet THB] Sync PG QR display"
       },
       {
-        "ticket_type": "IBS",
+        "ticket_type": "Others",
         "contribution_percentage": 12.5,
-        "ticket_id": "INTT-4"
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
       },
       {
         "ticket_type": "ONEBOARD",
