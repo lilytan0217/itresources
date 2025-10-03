@@ -375,21 +375,6 @@
   },
   {
     "date": "2025-09-22",
-    "name": "HING ZI HUI",
-    "team": "FE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-9"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-22",
     "name": "Hitang Patel",
     "team": "BE",
     "resource": "India",
