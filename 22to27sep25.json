@@ -158,21 +158,6 @@
   },
   {
     "date": "2025-09-22",
-    "name": "Chen",
-    "team": "FE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-22",
     "name": "Danny YKC",
     "team": "FE",
     "resource": "Malaysia",
@@ -901,21 +886,6 @@
         "contribution_percentage": 100,
         "ticket_id": "BPT-4665",
         "ticket_name": "Member site API Implementation"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-22",
-    "name": "vijaya prabakaran",
-    "team": "BE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
@@ -2217,21 +2187,6 @@
   },
   {
     "date": "2025-09-24",
-    "name": "Chen",
-    "team": "FE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-24",
     "name": "Danny YKC",
     "team": "FE",
     "resource": "Malaysia",
@@ -2935,7 +2890,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 43.75,
         "ticket_id": "FR-11237",
-        "ticket_name": "[Aw8"
+        "ticket_name": "[Aw8, Tasmama, and 22win Transfer Sign Up Templates] Enable to Display Sign Up and Login Banners on Member Site"
       },
       {
         "ticket_type": "Others",
@@ -3988,7 +3943,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 87.5,
         "ticket_id": "FR-11237",
-        "ticket_name": "[Aw8"
+        "ticket_name": "[Aw8, Tasmama, and 22win Transfer Sign Up Templates] Enable to Display Sign Up and Login Banners on Member Site"
       },
       {
         "ticket_type": "Others",
@@ -4330,21 +4285,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-26",
-    "name": "Deep",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
       }
     ]
   },
