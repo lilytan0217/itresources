@@ -785,21 +785,6 @@
   },
   {
     "date": "2025-09-29",
-    "name": "Vamshi",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-29",
     "name": "Victor Lee Chee Chun",
     "team": "BE",
     "resource": "Malaysia",
