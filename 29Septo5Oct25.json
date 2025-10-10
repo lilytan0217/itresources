@@ -2164,25 +2164,6 @@
       }
     ]
   },
-  {
-    "date": "2025-10-01",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 5.5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 54.55,
-        "ticket_id": "FR-11365",
-        "ticket_name": "[ALL] Pop Up Reward Tuning"
-      },
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 36.36,
-        "ticket_id": "FR-11154",
-        "ticket_name": "[JOLIBET PHP] vip mall function > need request api from merchant to pass player deposit amount"
-      },
       {
         "ticket_type": "ONEBOARD",
         "contribution_percentage": 9.09,
@@ -2976,33 +2957,6 @@
   },
   {
     "date": "2025-10-02",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 40,
-        "ticket_id": "FR-11410",
-        "ticket_name": "[BETA345 (ROO99) THB] Rebrand to Roo99"
-      },
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 40,
-        "ticket_id": "FR-11333",
-        "ticket_name": "[BETA289 (RUI66) THB] Change brand name & logo & template colour"
-      },
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 20,
-        "ticket_id": "FR-11401",
-        "ticket_name": "[ROOKING BDT] Close BDT currency start on 1st October 2025"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-02",
     "name": "EUGENE TENG ZI HAN",
     "team": "BE",
     "resource": "Malaysia",
@@ -3634,32 +3588,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-03",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 3,
-    "tickets": [
-      {
-        "ticket_type": "IBS",
-        "contribution_percentage": 33.33,
-        "ticket_id": "IBS-55970"
-      },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 33.33,
-        "ticket_id": "ONEBOARD-526",
-        "ticket_name": "CHECK > PLAYER CLAIM BONUS [MAFA191]"
-      },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 33.33,
-        "ticket_id": "ONEBOARD-523",
-        "ticket_name": "007SMS - ROO99 (THB) NEW"
       }
     ]
   },
