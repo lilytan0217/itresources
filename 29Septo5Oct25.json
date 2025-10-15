@@ -574,7 +574,7 @@
   {
     "date": "2025-09-29",
     "name": "Qi Lun",
-    "team": "BE",
+    "team": "Woon BE Team",
     "resource": "Malaysia",
     "hours": 8,
     "tickets": [
@@ -601,6 +601,30 @@
         "contribution_percentage": 6.25,
         "ticket_id": "PAR-2271",
         "ticket_name": "IT[Qi Lun] Open Provider - JW8 SGD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2279",
+        "ticket_name": "IT[Qi Lun] Create SBO Agent Username - BK9 AUD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2270",
+        "ticket_name": "IT[Qi Lun] Open/Close Provider - JW8 MYR PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "PAR-2268",
+        "ticket_name": "IT[Qi Lun] Deploy and Open/Close Provider - JW8 AUD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "PAR-2273",
+        "ticket_name": "IT[Qi Lun] Deploy and Open/Close Provider - JW8 HKD PROD"
       },
       {
         "ticket_type": "NM",
@@ -1578,7 +1602,7 @@
   {
     "date": "2025-09-30",
     "name": "Qi Lun",
-    "team": "BE",
+    "team": "Woon BE Team",
     "resource": "Malaysia",
     "hours": 8,
     "tickets": [
@@ -1592,7 +1616,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 12.5,
         "ticket_id": "FR-11288",
-        "ticket_name": "[JW8, AW8] Integrate telegram casino bot"
+        "ticket_name": "\"[JW8"
       },
       {
         "ticket_type": "FR",
@@ -1617,6 +1641,30 @@
         "contribution_percentage": 6.25,
         "ticket_id": "PAR-2277",
         "ticket_name": "IT[Qi Lun] Open Provider - AW8 MYR PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2278",
+        "ticket_name": "IT[Qi Lun] Deploy and Open Provider - AW8 SGD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2287",
+        "ticket_name": "IT[Qi Lun] Open provider - GOLDBET888 USD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2281",
+        "ticket_name": "IT[Qi Lun] Deploy and Open Provider - BK9 AUD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2288",
+        "ticket_name": "IT[Qi Lun] Create SBO Agent Username - 22FUN BDT PROD"
       },
       {
         "ticket_type": "NM",
@@ -2436,10 +2484,10 @@
       }
     ]
   },
-  {
+ {
     "date": "2025-10-01",
     "name": "Qi Lun",
-    "team": "BE",
+    "team": "Woon BE Team",
     "resource": "Malaysia",
     "hours": 8,
     "tickets": [
@@ -2466,6 +2514,36 @@
         "contribution_percentage": 6.25,
         "ticket_id": "PAR-2284",
         "ticket_name": "IT[Qi Lun] Deploy and Open provider - 22FUN INR PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2282",
+        "ticket_name": "IT[Qi Lun] Open/Close Provider - 22FUN SGD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2280",
+        "ticket_name": "IT[Qi Lun] Open/Close Provider - 22FUN THB PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2293",
+        "ticket_name": "IT[Qi Lun] Deploy - BK9 AUD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2298",
+        "ticket_name": "IT[Qi Lun] Create SBO Agent Username - BK9 AUD PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "PAR-2299",
+        "ticket_name": "IT [Qi Lun] Check Bet Record - 8MBETS NPR"
       },
       {
         "ticket_type": "NM",
@@ -3133,10 +3211,10 @@
       }
     ]
   },
-  {
+ {
     "date": "2025-10-02",
     "name": "Qi Lun",
-    "team": "BE",
+    "team": "Woon BE Team",
     "resource": "Malaysia",
     "hours": 8,
     "tickets": [
@@ -3163,6 +3241,18 @@
         "contribution_percentage": 6.25,
         "ticket_id": "PAR-2294",
         "ticket_name": "IT[Qi Lun] Deploy and Open Provider - DIS88 MYR PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2296",
+        "ticket_name": "IT[Qi Lun] Deploy and Open/Close Provider - GOAT77 MYR PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2300",
+        "ticket_name": "IT[Qi Lun] Deploy - BK9 AUD PROD"
       },
       {
         "ticket_type": "NM",
@@ -3873,10 +3963,10 @@
       }
     ]
   },
-  {
+   {
     "date": "2025-10-03",
     "name": "Qi Lun",
-    "team": "BE",
+    "team": "Woon BE Team",
     "resource": "Malaysia",
     "hours": 8,
     "tickets": [
@@ -3909,6 +3999,30 @@
         "contribution_percentage": 6.25,
         "ticket_id": "PAR-2307",
         "ticket_name": "IT[Qi Lun] Open Provider - SIAM66 THB PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2309",
+        "ticket_name": "IT[Qi Lun] Open/Close Provider - SIAM855 THB PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2310",
+        "ticket_name": "IT[Qi Lun] Create SBO Agent Username - JAYABAJI BDT PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2311",
+        "ticket_name": "IT[Qi Lun] Open Provider to Merchants Member Site."
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2314",
+        "ticket_name": "IT[Qi Lun] Close Provider - NPR Merchant"
       },
       {
         "ticket_type": "Internal",
