@@ -4679,32 +4679,42 @@
       {
         "ticket_type": "FR",
         "contribution_percentage": 25,
-        "ticket_id": "FR-11324",
-        "ticket_name": "[YUFA88 THB] Rebrand to CHOKFA88"
+        "ticket_id": "FR-11324"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2263",
-        "ticket_name": "IT[Qi Lun] Open Booongov1 - JW8 PKR PROD & 22FUN PKR PROD"
+        "ticket_id": "PAR-2263"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2255",
-        "ticket_name": "IT[Qi Lun] Open Saba Cricket - LUCKYTAJ INR PROD"
+        "ticket_id": "PAR-2255"
       },
       {
         "ticket_type": "PAR",
         "contribution_percentage": 6.25,
-        "ticket_id": "PAR-2262",
-        "ticket_name": "IT [Qi Lun] Open Provider - Dream Exchange STAGING"
+        "ticket_id": "PAR-2262"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2264"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "PAR-2266"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "PAR-2265"
       },
       {
         "ticket_type": "NM",
         "contribution_percentage": 12.5,
-        "ticket_id": "NM-853",
-        "ticket_name": "AUD > BK9"
+        "ticket_id": "NM-853"
       },
       {
         "ticket_type": "Others",
