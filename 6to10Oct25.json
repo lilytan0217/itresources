@@ -4403,32 +4403,6 @@
       }
     ]
   },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 6.25,
-        "ticket_id": "ONEBOARD-86",
-        "ticket_name": "INTEGRATION > THAISLIPPAY [GCWIN] (THB)"
-      },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 50,
-        "ticket_id": "ONEBOARD-430",
-        "ticket_name": "INTEGRATION > GOPAY - JAYABAJI (BDT)"
-      },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 25,
-        "ticket_id": "ONEBOARD-583",
-        "ticket_name": "CHECK > QR DEPOSIT"
-      },
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
   {
     "date": "2025-10-10",
     "name": "Harsh Jaiswal",
