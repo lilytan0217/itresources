@@ -255,27 +255,6 @@
       "type": "FPT"
     }
   ],
-    {
-      "id": "ONEBOARD-549",
-      "name": "CHECK > [JW8 & AW8] UNABLE TO WITHDRAW (MYR) FOR 911PAY",
-      "type": "ONEBOARD"
-    },
-    {
-      "id": "PAR-1134",
-      "name": "PAYMENT GATEWAY > WINPAY - 8MBETS (BDT)",
-      "type": "PAR"
-    },
-    {
-      "id": "ONEBOARD-535",
-      "name": "CHECK > PAYMENT GATEWAY REQUIRES TO PASS NAME.",
-      "type": "ONEBOARD"
-    },
-    {
-      "id": "ONEBOARD-521",
-      "name": "CHECK > BO v3 WITHDRAW OPTION NO SHOW PASSPAY (INR)",
-      "type": "ONEBOARD"
-    }
-  ],
   "Yc": [
     {
       "id": "BPT-4029",
