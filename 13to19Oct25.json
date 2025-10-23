@@ -1409,20 +1409,6 @@
   },
   {
     "date": "2025-10-14",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 3,
-    "tickets": [
-      {
-        "ticket_type": "IBS",
-        "contribution_percentage": 100,
-        "ticket_id": "IBS-57024"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-14",
     "name": "EUGENE TENG ZI HAN",
     "team": "BE",
     "resource": "Malaysia",
