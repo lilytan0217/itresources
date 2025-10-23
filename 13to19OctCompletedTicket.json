@@ -1,0 +1,632 @@
+{
+  "Vamshi": [
+    {
+      "id": "FPT-4520",
+      "name": "[MS] [AW8 THB] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4521",
+      "name": "[AFF] [AW8 THB] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4426",
+      "name": "[SING55 THB] add live chat > assist to integrate live chat",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4483",
+      "name": "[855WON KUSD] Disconnect domain and setup membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-4994",
+      "name": "[v3 bo] game statistic and provider report winloss not tally",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4914",
+      "name": "[ALL IDR] membersite > change IDR language rebate and referral",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4815",
+      "name": "[v3 transfer] MongoDB implement TTL Auto expired/deletion",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4922",
+      "name": "[ALL IIDR ] change idr language words",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4837",
+      "name": "[ALL BOV3] Affiliate Pop Up Banner Setting move to CMS > Banner Setting Page & Rename Button",
+      "type": "BPT"
+    }
+  ],
+  "Sai krishna": [
+    {
+      "id": "FPT-4523",
+      "name": "[JW8 INR] Update domain setting",
+      "type": "FPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-4525",
+      "name": "[EP88 MYR] Update XML Sitemap",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4446",
+      "name": "[ALL IDR] membersite > change IDR language rebate and referral",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4486",
+      "name": "[EP88 MYR] Update XML SITEMAP",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4472",
+      "name": "[BOV3] [PERFECT BET SGD] setup membersite, bo membersite , callback",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4470",
+      "name": "[MS] [PERFECT BET SGD] setup membersite, bo membersite , callback",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4473",
+      "name": "[AFF] [PERFECT BET SGD] setup membersite, bo membersite , callback",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3974",
+      "name": "[Aw8, Tasmama, and 22win Transfer Sign Up Templates] Enable to Display Sign Up and Login Banners on Member Site",
+      "type": "FPT"
+    }
+  ],
+  "arjun": [
+    {
+      "id": "BPT-4863",
+      "name": "Error Handlin in BO (Aff,Promo,referal)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4957",
+      "name": "jw8 stage Affilate",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4982",
+      "name": "jw8 stage Promotion",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4943",
+      "name": "jw8 stage Referral issue",
+      "type": "BPT"
+    }
+  ],
+  "Allaudhin": [
+    {
+      "id": "BPT-4992",
+      "name": "[IBS-57162] BO - 22winthb - CashBack Issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4564",
+      "name": "BO-v3 Export in s3.",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4864",
+      "name": "Error Handling in BO (Rebate,angbao,Ver-reward).",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4871",
+      "name": "V3-BO AW8 Postback export / listing slow",
+      "type": "BPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-4500",
+      "name": "[MS] [WINSTREAK MYR] Rebranding to “TopBet”",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4501",
+      "name": "[BOV1] [WINSTREAK MYR] Rebranding to “TopBet”",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4502",
+      "name": "[BOV3] [WINSTREAK MYR] Rebranding to “TopBet”",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4503",
+      "name": "[AFF] [WINSTREAK MYR] Rebranding to “TopBet”",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4356",
+      "name": "[ALL MS] Mobile view hold and drag issue",
+      "type": "FPT"
+    }
+  ],
+  "yiying": [
+    {
+      "id": "BPT-4978",
+      "name": "[WINSTREAK MYR] Rebranding to “TopBet”",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4932",
+      "name": "[NEX855 THB] memebrsite > deposit > change sequence > move promptpay qr to 1st",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4933",
+      "name": "[22WIN THB] Clone Provider Games",
+      "type": "BPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4519",
+      "name": "FE: Open lottery_all.json.gz",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4401",
+      "name": "[MS] [EW8 AUD]Add new currency",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4402",
+      "name": "[AFF] [EW8 AUD]Add new currency",
+      "type": "FPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "BPT-4987",
+      "name": "Check promotion logic request by mum wai",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4979",
+      "name": "guide yiying do rebrand",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4974",
+      "name": "Set up staging lucktaj",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4945",
+      "name": "[PERFECT BET SGD] setup membersite, bo membersite , callback",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4047",
+      "name": "[SIAM66 THB] Change signup & login page UI",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4420",
+      "name": "THB > 22WIN (transfer)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4723",
+      "name": "AUD > BK9",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4807",
+      "name": "[BETA289 (RUI66) THB] Change brand name & logo & template colour",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4880",
+      "name": "THB > BER8",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4885",
+      "name": "[EW8 AUD]Add new currency",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4934",
+      "name": "[22WIN THB] Clone Provider Games (Guide)",
+      "type": "BPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-4474",
+      "name": "[JW8 INR] add gtm to this domain jw8inr.com",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4471",
+      "name": "[BOV1] [PERFECT BET SGD] setup membersite, bo membersite , callback",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4452",
+      "name": "[ALL IIDR ] change idr language words",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4462",
+      "name": "[AW8 IDR] create download apk",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4447",
+      "name": "ADHOC - W41 - Danny",
+      "type": "FPT"
+    }
+  ],
+  "Abdul Hai Siddiki Ansary": [
+    {
+      "id": "FPT-4514",
+      "name": "[MS] [JW8 INR] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4515",
+      "name": "[AFF] [JW8 INR] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4487",
+      "name": "[Goat77 SGD] Setup membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Lim Jia Ming": [
+    {
+      "id": "FPT-4518",
+      "name": "[MS] Dynamic S3 URL path based on cf-ipcountry function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4488",
+      "name": "SmartLook - Gojudi MYR Jayabaji BDT",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4460",
+      "name": "[MS] SmartLook Restructure",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4453",
+      "name": "[BOV3] fix client side issue - 12",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4445",
+      "name": "[BOV3] fix client side issue - 11",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4444",
+      "name": "[BOV3] fix client side issue - 10",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4439",
+      "name": "[BOV3] fix client side issue - 9",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4438",
+      "name": "[BOV3] fix client side issue - 8",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4422",
+      "name": "[BOV3] fix client side issue - 7",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4421",
+      "name": "[BOV3] fix client side issue - 6",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4411",
+      "name": "[BOV3] fix client side issue - 1",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-24",
+      "name": "BETA191 - TMX CRYPTO",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4855",
+      "name": "CHECK > BO v3 WITHDRAW OPTION NO SHOW PASSPAY (INR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3683",
+      "name": "PAYMENT GATEWAY > RCPAY USDT - CD88 (THB)",
+      "type": "BPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-4506",
+      "name": "[MS] sync download APK & IOS domain method",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4507",
+      "name": "[MS] public folder & asset folder, delete unused image files",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4467",
+      "name": "[MS] [ALL] fonticon dynamic icon set",
+      "type": "FPT"
+    }
+  ],
+  "Rahul Shaik": [
+    {
+      "id": "BPT-4574",
+      "name": "Testing and debugging report [laivechat]",
+      "type": "BPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-4499",
+      "name": "[Gojudi MYR] Update Domain Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4377",
+      "name": "[ROO99 THB] Update Domain Setting",
+      "type": "FPT"
+    }
+  ],
+  "Jun Fu": [
+    {
+      "id": "NM-861",
+      "name": "GD > JIT66 > Create Logo Asset",
+      "type": "NM"
+    }
+  ],
+  "vijaya prabakaran": [
+    {
+      "id": "BPT-4938",
+      "name": "V3 - BO -wallet transfer",
+      "type": "BPT"
+    }
+  ],
+  "Kavin": [
+    {
+      "id": "FPT-4481",
+      "name": "[JW8 INR] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4478",
+      "name": "FE: Upload Provider Logo - RSG Slot",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4459",
+      "name": "IT[Kavin] Upload Logo & Provider Image for Provider 5G",
+      "type": "FPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-4398",
+      "name": "[AW8 IDR] Membersite > mobile / web > top right part add redirected icon button",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4343",
+      "name": "[MSSLOT thb] membersite > mobile > bottom menu bar > change according to image attached",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4349",
+      "name": "[ALL] check community button on topbar",
+      "type": "FPT"
+    }
+  ],
+  "Eslyn": [
+    {
+      "id": "BPT-4977",
+      "name": "[M3 MYR] BO > Angpow > Leaderboard Data, Order By Ascending - Date",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4960",
+      "name": "[22WIN ] Change BO Merchant Code",
+      "type": "BPT"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-4949",
+      "name": "INTEGRATION > AW8 - HENGPAYQR (SGD)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4874",
+      "name": "[ALL] Enhancement on Affiliate Comm’ Rebate Expenses",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4889",
+      "name": "[ROO99 THB] affiliate site > change the invite new member link to roo99v1.com",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4902",
+      "name": "[RUI66 THB] affiliate site > share link change domain to rui66v1.com",
+      "type": "BPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-4342",
+      "name": "[BOv1] [Seamless Transfer] IP in IP restricted Page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4391",
+      "name": "GUIDE - Max",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4086",
+      "name": "VPN tag icon re-do",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4418",
+      "name": "ADHOC - W41 - Lam",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4387",
+      "name": "ADHOC - W41 - Manthan",
+      "type": "FPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "BPT-4929",
+      "name": "Finance Report for September",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4839",
+      "name": "add 168-ibs.com request by kt",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4743",
+      "name": "[22WIN THB] Migration to transfer system",
+      "type": "BPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4279",
+      "name": "[ALL] Pop Up Reward Display Logic",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4463",
+      "name": "[ALL MERCHANT ] membersite > mystery reward > change the dollar sign to respective currency sign",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4424",
+      "name": "[22FUN GCWIN99 SIAM66 SIAM855 JW8 MSSLOT I828 AW8 SIAM345 SIAM369 22WIN(TRANSFER) SIAM191] Switch side menu to new version",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4427",
+      "name": "[DIS88 UMG8 WAWIN8 MAMUBAJI JOLIBET NEX8 PAPUA BETA191] Switch side menu to new version",
+      "type": "FPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-4824",
+      "name": "[22WIN THB] bo > merchant bank setting > GSB purpose add express deposit",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4935",
+      "name": "Guide chong bao CHECK > MSSTHAIPAY ORDER POSTBACK FAILED [SIAM66 & 22FUN] (THB)",
+      "type": "BPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-4331",
+      "name": "[ALL BOV3] Affiliate Pop Up Banner Setting move to CMS > Banner Setting Page & Rename Button",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4073",
+      "name": "[TK8 MYR] Change UI for referral ,reward center , Profile and bottom menu bar",
+      "type": "FPT"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-4767",
+      "name": "[22WIN THB] Migration to transfer system",
+      "type": "BPT"
+    }
+  ],
+  "Yc": [
+    {
+      "id": "BPT-4491",
+      "name": "PG > GOODPAY - BETA191 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4854",
+      "name": "INTEGRATION > YEEPAY - AW8 (VND)",
+      "type": "BPT"
+    }
+  ],
+  "yuankang": [
+    {
+      "id": "BPT-4930",
+      "name": "Guide Chong Bao for PG",
+      "type": "BPT"
+    }
+  ],
+  "Hitang Patel": [
+    {
+      "id": "BPT-4939",
+      "name": "Daily Activity 26-09-2025",
+      "type": "BPT"
+    }
+  ],
+  "Sanjay K": [
+    {
+      "id": "BPT-4925",
+      "name": "Daily Activity 10-10-2025",
+      "type": "BPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-4443",
+      "name": "ADHOC - W41 - Akash",
+      "type": "FPT"
+    }
+  ]
+}
