@@ -1185,21 +1185,6 @@
   },
   {
     "date": "2025-10-14",
-    "name": "Chen",
-    "team": "FE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-14",
     "name": "Chow Chong Bao",
     "team": "BE",
     "resource": "Malaysia",
@@ -1298,7 +1283,7 @@
       {
         "ticket_type": "IBS",
         "contribution_percentage": 12.5,
-        "ticket_id": "INTT-4"
+        "ticket_id": "Ticket ID No Stated"
       },
       {
         "ticket_type": "Others",
@@ -2232,7 +2217,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
-        "description": "Merchant Deploment - Code Review"
+        "description": "Merchant deployment - Code Review"
       }
     ]
   },
@@ -2481,7 +2466,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 18.75,
         "ticket_id": "Others-1",
-        "description": "Meeting for NEW UI Payment Gateway"
+        "description": "Meeting for new UI Payment Gateway"
       },
       {
         "ticket_type": "Others",
@@ -2645,7 +2630,7 @@
       {
         "ticket_type": "IBS",
         "contribution_percentage": 25,
-        "ticket_id": "INTT-4"
+        "ticket_id": "Ticket ID No Stated"
       },
       {
         "ticket_type": "Internal",
@@ -3108,7 +3093,7 @@
       {
         "ticket_type": "IBS",
         "contribution_percentage": 31.25,
-        "ticket_id": "INTT-4"
+        "ticket_id": "Ticket ID No Stated"
       },
       {
         "ticket_type": "ONEBOARD",
@@ -3706,7 +3691,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 68.75,
         "ticket_id": "Others-2",
-        "description": "Server down unable to deploy any task nor test on staging"
+        "description": "AWS downtime unable to deploy any task nor test on staging"
       }
     ]
   },
@@ -3726,7 +3711,7 @@
       {
         "ticket_type": "IBS",
         "contribution_percentage": 25,
-        "ticket_id": "INTT-4"
+        "ticket_id": "Ticket ID No Stated"
       },
       {
         "ticket_type": "Internal",
@@ -3780,7 +3765,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 100,
         "ticket_id": "Others-1",
-        "description": "server down"
+        "description": "AWS downtime"
       }
     ]
   },
@@ -3843,7 +3828,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 100,
         "ticket_id": "Others-1",
-        "description": "server down"
+        "description": "AWS downtime"
       }
     ]
   },
@@ -3858,7 +3843,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 100,
         "ticket_id": "Others-1",
-        "description": "Server down"
+        "description": "AWS downtime"
       }
     ]
   },
@@ -3971,7 +3956,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 87.5,
         "ticket_id": "Others-1",
-        "description": "Server Down"
+        "description": "AWS downtime"
       },
       {
         "ticket_type": "Others",
@@ -4348,7 +4333,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 100,
         "ticket_id": "Others-1",
-        "description": "Merchant Deploment - Code Review"
+        "description": "Merchant deployment - Code Review"
       }
     ]
   },
@@ -4705,7 +4690,7 @@
       {
         "ticket_type": "IBS",
         "contribution_percentage": 37.5,
-        "ticket_id": "INTT-4"
+        "ticket_id": "Ticket ID No Stated"
       },
       {
         "ticket_type": "Internal",
@@ -4878,7 +4863,7 @@
       {
         "ticket_type": "IBS",
         "contribution_percentage": 14.29,
-        "ticket_id": "INTT-4"
+        "ticket_id": "Ticket ID No Stated"
       },
       {
         "ticket_type": "NM",
