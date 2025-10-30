@@ -1,97 +1,372 @@
 {
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-4585",
+      "name": "[MS] [MSSLOT THB] setup membersite and affiliate site domain <http://www.ufamst.com/>",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4586",
+      "name": "[AFF] [MSSLOT THB] setup membersite and affiliate site domain <http://www.ufamst.com/>",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4496",
+      "name": "ADHOC - W42 - Kartik",
+      "type": "FPT"
+    }
+  ],
   "Vamshi": [
     {
       "id": "FPT-4539",
-      "name": "[Gojudi MYR] Update Domain Setting",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4542",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4543",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "name": "[I828 THB] Update Domain Setting",
       "type": "FPT"
     },
     {
       "id": "FPT-4545",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "name": "[MS] [AW8 VND] Setup domain as membersite and affiliate site",
       "type": "FPT"
     },
     {
-      "id": "FPT-4544",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    }
-  ],
-  "Raymond Tam": [
-    {
-      "id": "FPT-4542",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4543",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4545",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4544",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    }
-  ],
-  "Ramya Gayala": [
-    {
-      "id": "FPT-4542",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4543",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4545",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
-      "type": "FPT"
-    },
-    {
-      "id": "FPT-4544",
-      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "id": "FPT-4522",
+      "name": "ADHOC - W42 - Lam",
       "type": "FPT"
     }
   ],
   "Chow Chong Bao": [
     {
+      "id": "BPT-4996",
+      "name": "[all idr] event tracking money related amount fired and “000”",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5012",
+      "name": "[LUCKYTAJ INR] Change game category sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4916",
+      "name": "INTEGRATION > QRPAY - FUJI9 (PHP)",
+      "type": "BPT"
+    },
+    {
       "id": "FPT-4223",
-      "name": "[Zbet THB] Sync PG QR display ",
+      "name": "[Zbet THB] Sync PG QR display",
       "type": "FPT"
     },
     {
-      "id": "BPT-4725",
-      "name": "[Zbet THB] Sync PG QR display ",
+      "id": "BPT-4985",
+      "name": "Guide yiyinf for the egames category",
       "type": "BPT"
+    }
+  ],
+  "arjun": [
+    {
+      "id": "BPT-5027",
+      "name": "Nex 191, nex8v2 -> member/add/bank",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5023",
+      "name": "Rebate release issue fix",
+      "type": "BPT"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-4373",
+      "name": "[BOV3] Add Currency Setting For Announcement",
+      "type": "FPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-4823",
+      "name": "[BOV3] Add Currency Setting For Announcement",
+      "type": "BPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-4542",
+      "name": "[MS] [JOLIBET PHP] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4543",
+      "name": "[AFF] [JOLIBET PHP] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4549",
+      "name": "[MS] live page base image structure change to new way",
+      "type": "FPT"
+    },
+    {
+      "id": "BPT-4965",
+      "name": "007SMS - NEX212 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "ONEBOARD-498",
+      "name": "AMOPAY - SANUK99 (THB)",
+      "type": "ONEBOARD"
+    }
+  ],
+  "Chen": [
+    {
+      "id": "FPT-4351",
+      "name": "[ALL] Pop Up Reward Tuning - 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4551",
+      "name": "[TOPBET MYR] Change Meta Image for all domain",
+      "type": "FPT"
+    }
+  ],
+  "Deep": [
+    {
+      "id": "FPT-4535",
+      "name": "[ROOKING AUD] membersite > Mobile > middle navigation bar change mission diary button to download apk button",
+      "type": "FPT"
+    },
+    {
+      "id": "FR-11598",
+      "name": "[ALL] Remove \"Number of Click\" on Aff site",
+      "type": "FR"
+    },
+    {
+      "id": "BPT-4998",
+      "name": "[SANUK99 THB] membersite > register > add mobile otp",
+      "type": "BPT"
+    },
+    {
+      "id": "FR-11289",
+      "name": "[MYR] 7-11 and Egames app download display",
+      "type": "FR"
+    },
+    {
+      "id": "BPT-4764",
+      "name": "[MYR] 7-11 and Egames app download display",
+      "type": "BPT"
+    },
+    {
+      "id": "FPT-4173",
+      "name": "[MYR] 7-11 and Egames app download display",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "ONEBOARD-617",
+      "name": "CHECK > SPLIT OUT UPI AND UPI QR [JW8] (INR) ",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "ONEBOARD-512",
+      "name": "SMS PROVIDER > ESMS (SGD)",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "ONEBOARD-503",
+      "name": "INTEGRATION > Y TECH [BANKBOT]",
+      "type": "ONEBOARD"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-4565",
+      "name": "[MS] [JW8 SGD] setup membersite and affiliate site domain <https://jw8sgd2.com/>",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4566",
+      "name": "[AFF] [JW8 SGD] setup membersite and affiliate site domain <https://jw8sgd2.com/>",
+      "type": "FPT"
+    },
+    {
+      "id": "ONEBOARD-597",
+      "name": "CHECK > ADD PAYNOW QR IN PAYMENT METHOD FOR HENGPAY QR (SGD)",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "FPT-4544",
+      "name": "[AFF] [AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-4558",
+      "name": "[AFF] [ALL] add noindex nofollow at maintenance page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4512",
+      "name": "[MS] sync all input apply autocapitalize=\"off\"",
+      "type": "FPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-4571",
+      "name": "[PESO88 PHP] Add GTM to this domain peso88ph1.com",
+      "type": "FPT"
+    }
+  ],
+  "Phoebe Mah": [
+    {
+      "id": "FPT-4188",
+      "name": "[MS] AUD > BK9",
+      "type": "FPT"
+    }
+  ],
+  "Yc": [
+    {
+      "id": "BPT-4789",
+      "name": "INTEGRATION > LUXEPAY - JM8 (MYR)",
+      "type": "BPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "ONEBOARD-429",
+      "name": "PG > GOPAY (BDT)",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "FR-11308",
+      "name": "[Zbet THB] Sync PG QR display ",
+      "type": "FR"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "BPT-4808",
+      "name": "INTEGRATION > GOPAY - JAYABAJI (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "FPT-4527",
+      "name": "[MS Performance] - All Image to have alt tag added with proper value",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4560",
+      "name": "[MS] [AW8 IDR] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FR-11595",
+      "name": "[DIS88 MYR] Setup APK firebase and sent invitation to attached email",
+      "type": "FR"
     }
   ],
   "Manthan": [
     {
-      "id": "FPT-4223",
-      "name": "[Zbet THB] Sync PG QR display ",
+      "id": "BPT-4725",
+      "name": "[Zbet THB] Sync PG QR display",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4927",
+      "name": "[JW8 AUD]Add payID column in member bank",
+      "type": "BPT"
+    },
+    {
+      "id": "FPT-4491",
+      "name": "ADHOC - W42 - Akash",
       "type": "FPT"
     },
     {
-      "id": "BPT-4725",
-      "name": "[Zbet THB] Sync PG QR display ",
+      "id": "FPT-4465",
+      "name": "ADHOC - W42 - Manthan",
+      "type": "FPT"
+    }
+  ],
+  "yuankang": [
+    {
+      "id": "BPT-4859",
+      "name": "INTEGRATION > Y TECH [BANKBOT]",
       "type": "BPT"
+    },
+    {
+      "id": "FR-11546",
+      "name": "[UI/UX][Jaya11] 79z9 contact us UI",
+      "type": "FR"
+    },
+    {
+      "id": "FR-11537",
+      "name": "[WINSTREAK MYR] Rebranding > Design new logo for “TopBet”",
+      "type": "FR"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-5018",
+      "name": "22 Oct Guide new joiner",
+      "type": "BPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "BPT-4840",
+      "name": "help ah bao set up laptop",
+      "type": "BPT"
+    }
+  ],
+  "yiying": [
+    {
+      "id": "FPT-4561",
+      "name": "[AFF] [AW8 IDR] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "BPT-4913",
+      "name": "007SMS - MAFA789 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4962",
+      "name": "007SMS - BETA855 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4964",
+      "name": "007SMS - NEX369 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "FPT-4078",
+      "name": "[BOV3] Premium Game Report - add summary date column for daily report",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4538",
+      "name": "[MSSLOT THB] [domain whitelist] mstslot2.com 301 redirect to mstslot3.com, mstslot.co 301 redirect to mstslot.win, mstslot88.com 301 redirect to mstslot.pro",
+      "type": "FPT"
+    },
+    {
+      "id": "FR-11584",
+      "name": "[Gojudi MYR] Update Domain Setting",
+      "type": "FR"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "FPT-4534",
+      "name": "[MSSLOT THB] [canonical] mstslot2.com 301 redirect to mstslot3.com, mstslot.co 301 redirect to mstslot.win, mstslot88.com 301 redirect to mstslot.pro",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4386",
+      "name": "[ALL] menu.json add versioning",
+      "type": "FPT"
     }
   ],
   "James W.": [
@@ -101,16 +376,71 @@
       "type": "FPT"
     }
   ],
-  "Deep": [
+  "Seow Imm Beh": [
     {
-      "id": "FPT-4173",
-      "name": "[MYR] 7-11 and Egames app download display",
+      "id": "FR-11614",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FR"
+    },
+    {
+      "id": "FR-11592",
+      "name": "[UI/UX][Zbet deposit] Adding \"summary\" breakdown for deposit and withdrawal",
+      "type": "FR"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FR-11590",
+      "name": "[UI/UX][ZBET deposit] Implementing promotion",
+      "type": "FR"
+    },
+    {
+      "id": "BPT-4975",
+      "name": "check fa77 bo login",
+      "type": "BPT"
+    },
+    {
+      "id": "FR-11530",
+      "name": "[ALL IDR] membersite > change IDR language rebate and referral",
+      "type": "FR"
+    }
+  ],
+  "agnesthoong": [
+    {
+      "id": "FPT-4420",
+      "name": "[BOV3] fix client side issue - 5",
+      "type": "FPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FR-11559",
+      "name": "[Euro Template] Display extra promo amount in deposit",
+      "type": "FR"
+    }
+  ],
+  "Abdul Hai Siddiki Ansary": [
+    {
+      "id": "FPT-4495",
+      "name": "ADHOC - W42 - Vamshi",
       "type": "FPT"
     },
     {
-      "id": "BPT-4764",
-      "name": "[MYR] 7-11 and Egames app download display",
-      "type": "BPT"
+      "id": "FPT-4464",
+      "name": "ADHOC - W42 - Abdul",
+      "type": "FPT"
+    }
+  ],
+  "Harsh Jaiswal": [
+    {
+      "id": "FPT-4480",
+      "name": "ADHOC - W42 - Vivaswan",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4461",
+      "name": "ADHOC - W42 - Harsh",
+      "type": "FPT"
     }
   ]
 }
