@@ -1,0 +1,3611 @@
+[
+  {
+    "date": "2025-10-20",
+    "name": "Raymond Tam",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4466",
+        "ticket_name": "[MS] [ALL] Middleware enhancement"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Abdul Hai Siddiki Ansary",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "NM",
+        "contribution_percentage": 93.75,
+        "ticket_id": "NM-859",
+        "ticket_name": "BDT > JIT66"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Akash A",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 50,
+        "ticket_id": "FR-11614",
+        "ticket_name": "[AW8 VND] Setup domain as membersite and affiliate site"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FPT-4491",
+        "ticket_name": "ADHOC - W42 - Akash"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Allaudhin",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "BPT-4253",
+        "ticket_name": "[ALL MERCHANTS] Currency on/off setting in BO. (Drafting Requirement)"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "BPT-4988",
+        "ticket_name": "Export new format (shell command)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Chen",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FPT-3710",
+        "ticket_name": "\"[MS] Dynamic Environment Config for Domain"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 37.5,
+        "ticket_id": "Others-1",
+        "description": "Merchant Deployment - Code Review"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Chow Chong Bao",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 50,
+        "ticket_id": "PAR-1105",
+        "ticket_name": "SMS PROVIDER > TEXTEDGE - WON66 (AUD)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 37.5,
+        "ticket_id": "ONEBOARD-486",
+        "ticket_name": "ONBUKA - JW8 (PKR)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Christy Liu",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "FPT-4532",
+        "ticket_name": "[MS Performance] - image webp - Part 1 - convert all merchant public image become webp and compare with png the size reduced how muchj"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 37.5,
+        "ticket_id": "Others-1",
+        "description": "no task"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Danny YKC",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11583",
+        "ticket_name": "[ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10755",
+        "ticket_name": "[ALL MERCHANTS] Currency on/off setting in BO."
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FPT-4493",
+        "ticket_name": "[Master BO] finance report page & download page"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Deep",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 43.75,
+        "ticket_id": "FR-11598",
+        "ticket_name": "\"[ALL] Remove \"\"Number of Click\"\" on Aff site\""
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11608",
+        "ticket_name": "[ROOKING AUD] membersite > Mobile > middle navigation bar change mission diary button to download apk button"
+      },
+      {
+        "ticket_type": "CHAMP",
+        "contribution_percentage": 25,
+        "ticket_id": "CHAMP-1320",
+        "ticket_name": "Merchant BO V3 - Show Luckysport Premium Report"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Devendran M",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11558",
+        "ticket_name": "[ALL INHOUSE] membersite > activity pop up change the display language to respective language"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11553",
+        "ticket_name": "[ALL MERCHANT ] membersite >  mystery reward > change the dollar sign to respective currency sign"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Eason",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FPT-4527",
+        "ticket_name": "[MS Performance] - All Image to have alt tag added with proper value"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Eslyn",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 6.75,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 14.81,
+        "ticket_id": "FR-11553",
+        "ticket_name": "[ALL MERCHANT ] membersite >  mystery reward > change the dollar sign to respective currency sign"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 7.41,
+        "ticket_id": "FR-11605",
+        "ticket_name": "[SANUK99 THB] membersite > register > add mobile otp"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 77.78,
+        "ticket_id": "IBS-56572"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "HING ZI HUI",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-11010",
+        "ticket_name": "[BO3] System Maintenance Setting"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10770",
+        "ticket_name": "[ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Hitang Patel",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "BPT-4953",
+        "ticket_name": "Membersite batch 9 APIs"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "BPT-4988",
+        "ticket_name": "Export new format (shell command)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Kai Lun Chew",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11385",
+        "ticket_name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 25,
+        "ticket_id": "ONEBOARD-508",
+        "ticket_name": "APCPAY - MSSLOT (THB)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "kartik",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11555",
+        "ticket_name": "[TK8 MYR ] Membersite > rebate page change UI"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11369",
+        "ticket_name": "\"[8MBETS BDT"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 37.5,
+        "ticket_id": "Others-1",
+        "description": "IBS Checking"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Leon",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-11397",
+        "ticket_name": "[ALL] Add Favorite Game (bookmark) feature"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4017",
+        "ticket_name": "[ALL MS] Signup and Forget password add cloudflare captcha checking"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Lim Jia Ming",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4528",
+        "ticket_name": "[MS Performance] - All Button reader friendly"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Manthan",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FPT-4531",
+        "ticket_name": "ADHOC - W43 - Manthan"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Max Tham",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FPT-4529",
+        "ticket_name": "[MS Performance] - Links with discernible name"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4260",
+        "ticket_name": "[MS] [ALL] Campaign Management"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Qi Lun",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11571",
+        "ticket_name": "[22WIN ] Add Currency PHP"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11436",
+        "ticket_name": "[AW8 THB] Add telegram casino signup/login bot"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 31.25,
+        "ticket_id": "FR-11622",
+        "ticket_name": "[JW8 PKR] membersite > change game sequence"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11167",
+        "ticket_name": "[ALL MS] Signup and Forget password add cloudflare captcha checking"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 18.75,
+        "ticket_id": "PAR-2351",
+        "ticket_name": "IT: Open TC Gaming Lottery"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Ramya Gayala",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11616",
+        "ticket_name": "[NEX8 MMK] Change Domain Configure"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11621",
+        "ticket_name": "[TOPBET MYR] Change Meta Image for all domain"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11604",
+        "ticket_name": "\"[All][Zbet Deposit]Remove \"\"Channel\"\" title and replace with bank name"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Raymond Tam",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4562",
+        "ticket_name": "[MS] classlist undefined bug issue - fix"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Seow Imm Beh",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-10770",
+        "ticket_name": "[ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 25,
+        "ticket_id": "IBS-57612"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Vamshi",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 50,
+        "ticket_id": "FR-11611",
+        "ticket_name": "[I828 THB] Update Domain Setting"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 37.5,
+        "ticket_id": "IBS-57549"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Victor Lee Chee Chun",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 10,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 40,
+        "ticket_id": "FR-11153",
+        "ticket_name": "[ALL] master affiliate function > add key words to identify the source of each affiliate"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 40,
+        "ticket_id": "FR-10327",
+        "ticket_name": "[ALL] Campaign Management"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 10,
+        "ticket_id": "IBS-57631"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 10,
+        "ticket_id": "IBS-57689"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "vijaya prabakaran",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8.5,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 5.88,
+        "ticket_id": "IBS-57467"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 5.88,
+        "ticket_id": "IBS-57698"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 5.88,
+        "ticket_id": "IBS-57627"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 70.59,
+        "ticket_id": "BPT-5013",
+        "ticket_name": "MS - siam855 - leaderboard issue"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 11.76,
+        "ticket_id": "Others-1",
+        "description": "To check local issue in get-member-bet-history api from jw8"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Vivaswan Kurwatti",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 43.75,
+        "ticket_id": "FR-11612",
+        "ticket_name": "[TOPBET MYR] Rename all the “Winstreak” sentences to “Topbet” from page source"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 43.75,
+        "ticket_id": "FR-11620",
+        "ticket_name": "[JAYABAJI JW8 BDT ] membersite > withdrawal > add otp verification"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Yap Yee Sheng",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-11257",
+        "ticket_name": "[BO3] Reward Event Setting"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "yiying",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 81.25,
+        "ticket_id": "IBS-56419"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 18.75,
+        "ticket_id": "PAR-1510",
+        "ticket_name": "PAYMENT GATEWAY > AKTRAXPAY - PESO88 (PHP)"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "YL LEE",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57453"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57434"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57476"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57467"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57390"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-58578"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57621"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "name": "yuankang",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "BPT-4255",
+        "ticket_name": "[ALL MERCHANTS] Enhancement in BO > Cashback received record"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "BPT-5006",
+        "ticket_name": "Setup for new joiner"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Abdul Hai Siddiki Ansary",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-11619",
+        "ticket_name": "[JAYABAJI BDT NPR] membersite > change homepage contact display"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Aiswarya V V",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 18.75,
+        "ticket_id": "BPT-4195",
+        "ticket_name": "Add mongo logs"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 75,
+        "ticket_id": "BPT-5017",
+        "ticket_name": "Report Module Export - New format"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Akash A",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11385",
+        "ticket_name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Allaudhin",
+    "team": "BE",
+    "resource": "India",
+    "hours": 9,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 88.89,
+        "ticket_id": "BPT-5007",
+        "ticket_name": "[ALL MERCHANTS] Currency on/off setting in BO."
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 11.11,
+        "ticket_id": "BPT-4967",
+        "ticket_name": "OCV4 - check array_sum() not accepting string as a number"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "arjun",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 75,
+        "ticket_id": "BPT-5016",
+        "ticket_name": "Finance Module export - New Format"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 18.75,
+        "ticket_id": "BPT-4967",
+        "ticket_name": "OCV4 - check array_sum() not accepting string as a number"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Chen",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4536",
+        "ticket_name": "\"[MS Performance] - json file dont wait Dashboard API"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Chow Chong Bao",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11617",
+        "ticket_name": "[LUCKYTAJ INR] Change game category sequence"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 50,
+        "ticket_id": "ONEBOARD-577",
+        "ticket_name": "INTEGRATION > KAAZPAY - AW8 (MYR)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Christy Liu",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "FPT-4559",
+        "ticket_name": "[MS Performance] - standardize merchant logo with only 4 types"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 37.5,
+        "ticket_id": "Others-1",
+        "description": "no task"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Danny YKC",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-10755",
+        "ticket_name": "[ALL MERCHANTS] Currency on/off setting in BO."
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4505",
+        "ticket_name": "[MS] [ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Deep",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11608",
+        "ticket_name": "[ROOKING AUD] membersite > Mobile > middle navigation bar change mission diary button to download apk button"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Devendran M",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Eason",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FPT-4527",
+        "ticket_name": "[MS Performance] - All Image to have alt tag added with proper value"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Eric Hong",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "BPT-4995",
+        "ticket_name": "[v3 cron] revamp report game statistic cron in v3"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Eslyn",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 4,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 75,
+        "ticket_id": "FR-10757",
+        "ticket_name": "[ALL MERCHANTS] Rebate Enhancement on release date and time"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 25,
+        "ticket_id": "IBS-57812"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "EUGENE TENG ZI HAN",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 18.75,
+        "ticket_id": "FR-10835",
+        "ticket_name": "[Zbet Deposit] Implementing promotion function to deposit"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 50,
+        "ticket_id": "ONEBOARD-534",
+        "ticket_name": "INTEGRATION > JW8 - GLOBALPAY (INR)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 18.75,
+        "ticket_id": "ONEBOARD-430",
+        "ticket_name": "INTEGRATION > GOPAY - JAYABAJI (BDT)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "HING ZI HUI",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11615",
+        "ticket_name": "[ALL] Promotion Content – “Claim Now” Button Logic Update"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 50,
+        "ticket_id": "FR-11010",
+        "ticket_name": "[BO3] System Maintenance Setting"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Hitang Patel",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 62.5,
+        "ticket_id": "BPT-4988",
+        "ticket_name": "Export new format (shell command)"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "BPT-5048",
+        "ticket_name": "Daily Activity 22-10-2025"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Kai Lun Chew",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11385",
+        "ticket_name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 12.5,
+        "ticket_id": "ONEBOARD-503",
+        "ticket_name": "INTEGRATION > Y TECH [BANKBOT]"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 37.5,
+        "ticket_id": "ONEBOARD-603",
+        "ticket_name": "\"CHECK > GOD345 EXPRESS DEPOSIT WHY PAYMENT GATEWAY \"\"NO RECORD\"\"\""
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "kartik",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11629",
+        "ticket_name": "[AW8 IDR] Setup membersite and affiliate site"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 25,
+        "ticket_id": "IBS-57815"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 37.5,
+        "ticket_id": "INTT-4"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "IBS-57467"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Leon",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11397",
+        "ticket_name": "[ALL] Add Favorite Game (bookmark) feature"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Lim Jia Ming",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4528",
+        "ticket_name": "[MS Performance] - All Button reader friendly"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Manthan",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11545",
+        "ticket_name": "[JW8 AUD]Add payID column in member bank"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Max Tham",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "FPT-4529",
+        "ticket_name": "[MS Performance] - Links with discernible name"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FPT-4260",
+        "ticket_name": "[MS] [ALL] Campaign Management"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Qi Lun",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "FR-11622",
+        "ticket_name": "[JW8 PKR] membersite > change game sequence"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "FR-11568",
+        "ticket_name": "[ALL] Telegram Casino Auto Registration Flow"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "FR-11167",
+        "ticket_name": "[ALL MS] Signup and Forget password add cloudflare captcha checking"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11620",
+        "ticket_name": "[JAYABAJI JW8 BDT ] membersite > withdrawal > add otp verification"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 31.25,
+        "ticket_id": "FR-11314",
+        "ticket_name": "[JW8 NPR] Add telegram casino signup/login bot"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2360",
+        "ticket_name": "IT: Create SBO Agent Username - 22WIN PHP PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2361",
+        "ticket_name": "IT: Deploy and Open Provider - 22WIN PHP PROD"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Ramya Gayala",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-8695",
+        "ticket_name": "\"[All BOV3] Move the \"\"Provider Transfer\"\" to new sub menu of \"\"Member\"\"\""
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Raymond Tam",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FPT-4549",
+        "ticket_name": "[MS] live page base image structure change to new way"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 62.5,
+        "ticket_id": "Others-1",
+        "description": "Support Bug Task"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Seow Imm Beh",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 68.75,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 18.75,
+        "ticket_id": "Others-1",
+        "description": "check after play mini game the user balance is no correct"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Vamshi",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11616",
+        "ticket_name": "[NEX8 MMK] Change Domain Configure"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 50,
+        "ticket_id": "IBS-57715"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Victor Lee Chee Chun",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 13,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-10327",
+        "ticket_name": "[ALL] Campaign Management"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Vijay Poovarasan",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "BPT-4988",
+        "ticket_name": "Export new format (shell command)"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "vijaya prabakaran",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 6.25,
+        "ticket_id": "IBS-57759"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 6.25,
+        "ticket_id": "IBS-57754"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 6.25,
+        "ticket_id": "INTT-4"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 6.25,
+        "ticket_id": "IBS-57822"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57562"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 37.5,
+        "ticket_id": "IBS-57693"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "BPT-5013",
+        "ticket_name": "MS - siam855 - leaderboard issue"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Vivaswan Kurwatti",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11531",
+        "ticket_name": "[EP88 MYR] Passing Referral Variable when player using Google Auth"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 50,
+        "ticket_id": "FR-11620",
+        "ticket_name": "[JAYABAJI JW8 BDT ] membersite > withdrawal > add otp verification"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Yap Yee Sheng",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-11257",
+        "ticket_name": "[BO3] Reward Event Setting"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "Yc",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 12.5,
+        "ticket_id": "ONEBOARD-594",
+        "ticket_name": "INTEGRATION > LKPAY - NEX855 (THB)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 12.5,
+        "ticket_id": "ONEBOARD-597",
+        "ticket_name": "CHECK > ADD PAYNOW QR IN PAYMENT METHOD FOR HENGPAY QR (SGD)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 6.25,
+        "ticket_id": "ONEBOARD-508",
+        "ticket_name": "APCPAY - MSSLOT (THB)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 43.75,
+        "ticket_id": "ONEBOARD-575",
+        "ticket_name": "INTEGRATION > 5PAY - 22FUN (THB)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "yiying",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11474",
+        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 25,
+        "ticket_id": "ONEBOARD-57",
+        "ticket_name": "007SMS - NEX369 (THB)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 50,
+        "ticket_id": "ONEBOARD-65",
+        "ticket_name": "ONBUKA - WPX88 (PNG)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "YL LEE",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 43.75,
+        "ticket_id": "FPT-4553",
+        "ticket_name": "ADHOC - W43 - Lam"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FPT-4558",
+        "ticket_name": "[AFF] [ALL] add noindex nofollow at maintenance page"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 31.25,
+        "ticket_id": "Others-2",
+        "description": "No Reason Stated"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "name": "yuankang",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "BPT-5018",
+        "ticket_name": "22 Oct Guide new joiner"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Abdul Hai Siddiki Ansary",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11619",
+        "ticket_name": "[JAYABAJI BDT NPR] membersite > change homepage contact display"
+      },
+      {
+        "ticket_type": "NM",
+        "contribution_percentage": 75,
+        "ticket_id": "NM-859",
+        "ticket_name": "BDT > JIT66"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Aiswarya V V",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 68.75,
+        "ticket_id": "BPT-5017",
+        "ticket_name": "Report Module Export - New format"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 25,
+        "ticket_id": "Others-1",
+        "description": "Membersite version file timestamp mismatch issue"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Akash A",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FPT-4570",
+        "ticket_name": "ADHOC - W43 - Akash"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "FPT-4554",
+        "ticket_name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Allaudhin",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8.5,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 94.12,
+        "ticket_id": "BPT-5017",
+        "ticket_name": "Report Module Export - New format"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 5.88,
+        "ticket_id": "BPT-4691",
+        "ticket_name": "Generate General setting JSON."
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "arjun",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 12.5,
+        "ticket_id": "BPT-5023",
+        "ticket_name": "Rebate release issue fix"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "BPT-5021",
+        "ticket_name": "Seo Module Export new format"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 62.5,
+        "ticket_id": "BPT-5016",
+        "ticket_name": "Finance Module export - New Format"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Chow Chong Bao",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 50,
+        "ticket_id": "FR-11599",
+        "ticket_name": "[all IDR & VND] event tracking money related amount fired and “000”"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 37.5,
+        "ticket_id": "ONEBOARD-577",
+        "ticket_name": "INTEGRATION > KAAZPAY - AW8 (MYR)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Danny YKC",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11583",
+        "ticket_name": "[ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-10755",
+        "ticket_name": "[ALL MERCHANTS] Currency on/off setting in BO."
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11635",
+        "ticket_name": "[PESO88 PHP] Add GTM to this domain peso88ph1.com"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "no task"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Deep",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11075",
+        "ticket_name": "\"[ALL THB] membersite > Express deposit QR code photo upload"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11608",
+        "ticket_name": "[ROOKING AUD] membersite > Mobile > middle navigation bar change mission diary button to download apk button"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4572",
+        "ticket_name": "ADHOC - W43 - Deep"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Devendran M",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Eason",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11233",
+        "ticket_name": "[ALL] Exclude Turnover Percentage in Casino Setting > Game List"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Eric Hong",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "BPT-4995",
+        "ticket_name": "[v3 cron] revamp report game statistic cron in v3"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "EUGENE TENG ZI HAN",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11308",
+        "ticket_name": "[Zbet THB] Sync PG QR display"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11494",
+        "ticket_name": "\"[NPR"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 37.5,
+        "ticket_id": "ONEBOARD-120",
+        "ticket_name": "ONEPG INTEGRATION"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "HING ZI HUI",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11615",
+        "ticket_name": "[ALL] Promotion Content – “Claim Now” Button Logic Update"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Hitang Patel",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "BPT-4988",
+        "ticket_name": "Export new format (shell command)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Kai Lun Chew",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11385",
+        "ticket_name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 37.5,
+        "ticket_id": "ONEBOARD-613",
+        "ticket_name": "CHECK > JW8 (PKR)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "kartik",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57890"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FPT-3588",
+        "ticket_name": "[BOv3] BO Keep-Alive Tab update to stay on last child page"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Leon",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11397",
+        "ticket_name": "[ALL] Add Favorite Game (bookmark) feature"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "Whitelist siam66"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Lim Jia Ming",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4528",
+        "ticket_name": "[MS Performance] - All Button reader friendly"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Manthan",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Max Tham",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4374",
+        "ticket_name": "[MS] Reward Event Setting"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FPT-4529",
+        "ticket_name": "[MS Performance] - Links with discernible name"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Phoebe Mah",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 100,
+        "ticket_id": "Others-1",
+        "description": "File versioning assigned from edwin"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Qi Lun",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11620",
+        "ticket_name": "[JAYABAJI JW8 BDT ] membersite > withdrawal > add otp verification"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-10755",
+        "ticket_name": "[ALL MERCHANTS] Currency on/off setting in BO."
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11568",
+        "ticket_name": "[ALL] Telegram Casino Auto Registration Flow"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11424",
+        "ticket_name": "[JW8 THB] Add telegram casino signup/login bot"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11288",
+        "ticket_name": "\"[JW8"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2363",
+        "ticket_name": "IT: Deploy and Open Provider - 22WIN PHP PROD"
+      },
+      {
+        "ticket_type": "NM",
+        "contribution_percentage": 6.25,
+        "ticket_id": "NM-820",
+        "ticket_name": "THB > 22WIN (transfer)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Rahul Shaik",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-8809",
+        "ticket_name": "[NEW BO]Manage Multiple Brands With One Back Office"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Ramya Gayala",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11474",
+        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FPT-4566",
+        "ticket_name": "[AFF] [JW8 SGD] setup membersite and affiliate site domain <https://jw8sgd2.com/>"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FPT-4565",
+        "ticket_name": "[MS] [JW8 SGD] setup membersite and affiliate site domain <https://jw8sgd2.com/>"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "FPT-4568",
+        "ticket_name": "[MS Performance] - [Sync] Static assets logo to all transfer repo"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Raymond Tam",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FPT-4538",
+        "ticket_name": "\"[MSSLOT THB] [domain whitelist] mstslot2.com 301 redirect to mstslot3.com"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FPT-4537",
+        "ticket_name": "[AW8 IDR ] Membersite > default on the display for 3 pop up icon"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 75,
+        "ticket_id": "Others-1",
+        "description": "Support Team to test SEO"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Seow Imm Beh",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Vamshi",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11626",
+        "ticket_name": "[ALL][BO-V3] VIP Settings Accumulate Points Condition Currency Button Controller"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 75,
+        "ticket_id": "FPT-4567",
+        "ticket_name": "\"[MS Performance] check assest folder all image"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Victor Lee Chee Chun",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 10.5,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 28.57,
+        "ticket_id": "FR-10327",
+        "ticket_name": "[ALL] Campaign Management"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 61.9,
+        "ticket_id": "FR-11153",
+        "ticket_name": "[ALL] master affiliate function > add key words to identify the source of each affiliate"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 9.52,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Vijay Poovarasan",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "BPT-4988",
+        "ticket_name": "Export new format (shell command)"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "vijaya prabakaran",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 100,
+        "ticket_id": "IBS-57834"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Vivaswan Kurwatti",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11620",
+        "ticket_name": "[JAYABAJI JW8 BDT ] membersite > withdrawal > add otp verification"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Yap Yee Sheng",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-11004",
+        "ticket_name": "[BO3] Add “Login” Events in BO3> CMS > Frontend Setting > Tracker (A)"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Yc",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 62.5,
+        "ticket_id": "ONEBOARD-594",
+        "ticket_name": "INTEGRATION > LKPAY - NEX855 (THB)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 25,
+        "ticket_id": "Others-2",
+        "description": "No Reason Stated"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "yiying",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 18.75,
+        "ticket_id": "FR-11474",
+        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57747"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57863"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 56.25,
+        "ticket_id": "IBS-57868"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "YL LEE",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-10327",
+        "ticket_name": "[ALL] Campaign Management"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11635",
+        "ticket_name": "[PESO88 PHP] Add GTM to this domain peso88ph1.com"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57831"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4530",
+        "ticket_name": "[MS Performance] - Touch Target Sufficient Size"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "name": "yuankang",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "BPT-5020",
+        "ticket_name": "[v1v3 MS & BO] siam855 Promotion code : WHALLOWEENDB25 (TARGET DEPOSIT-DEPOSIT) show user not eligible"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "BPT-4946",
+        "ticket_name": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Abdul Hai Siddiki Ansary",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "NM",
+        "contribution_percentage": 100,
+        "ticket_id": "NM-859",
+        "ticket_name": "BDT > JIT66"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Aiswarya V V",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 31.25,
+        "ticket_id": "BPT-5029",
+        "ticket_name": "MS - V3 - GetLuckyWheel - Duplicate checking"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "BPT-5017",
+        "ticket_name": "Report Module Export - New format"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 18.75,
+        "ticket_id": "Others-1",
+        "description": "Production issues - telegram alerts"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Akash A",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11638",
+        "ticket_name": "[AW8 IDR]  setup membersite and affiliate site domain <https://mainzone.co>"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11636",
+        "ticket_name": "[EW8 MYR] Change deposit tutorial link"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11385",
+        "ticket_name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57974"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "arjun",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "BPT-5016",
+        "ticket_name": "Finance Module export - New Format"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Chen",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 100,
+        "ticket_id": "Others-1",
+        "description": "Merchant Deployment - Code Review"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Chow Chong Bao",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 50,
+        "ticket_id": "ONEBOARD-577",
+        "ticket_name": "INTEGRATION > KAAZPAY - AW8 (MYR)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 37.5,
+        "ticket_id": "ONEBOARD-517",
+        "ticket_name": "INTEGRATION > SMARTPAY NEW API"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Danny YKC",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 62.5,
+        "ticket_id": "FR-11583",
+        "ticket_name": "[ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 25,
+        "ticket_id": "Others-1",
+        "description": "no task"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Deep",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11608",
+        "ticket_name": "[ROOKING AUD] membersite > Mobile > middle navigation bar change mission diary button to download apk button"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-4572",
+        "ticket_name": "ADHOC - W43 - Deep"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "FPT-3918",
+        "ticket_name": "\"[*ALL THB*] membersite > Express deposit QR code photo upload"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Devendran M",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Eason",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FR-11233",
+        "ticket_name": "[ALL] Exclude Turnover Percentage in Casino Setting > Game List"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11153",
+        "ticket_name": "[ALL] master affiliate function > add key words to identify the source of each affiliate"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11643",
+        "ticket_name": "[JW8 PKR] Update Domain Setting"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Eric Hong",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "BPT-4995",
+        "ticket_name": "[v3 cron] revamp report game statistic cron in v3"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Eslyn",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 1,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 100,
+        "ticket_id": "IBS-57958"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "EUGENE TENG ZI HAN",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11494",
+        "ticket_name": "\"[NPR"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-10742",
+        "ticket_name": "[GOAT77 MYR] Separate rapidpay"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 31.25,
+        "ticket_id": "FR-10835",
+        "ticket_name": "[Zbet Deposit] Implementing promotion function to deposit"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "Meeting for onepg"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "HING ZI HUI",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 75,
+        "ticket_id": "FR-11615",
+        "ticket_name": "[ALL] Promotion Content – “Claim Now” Button Logic Update"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-10770",
+        "ticket_name": "[ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Hitang Patel",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 62.5,
+        "ticket_id": "BPT-4988",
+        "ticket_name": "Export new format (shell command)"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 25,
+        "ticket_id": "BPT-5050",
+        "ticket_name": "Daily Activity 24-10-2025"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Kai Lun Chew",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 31.25,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11385",
+        "ticket_name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 31.25,
+        "ticket_id": "ONEBOARD-617",
+        "ticket_name": "CHECK > SPLIT OUT UPI AND UPI QR [JW8] (INR)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "kartik",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57895"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "FPT-3588",
+        "ticket_name": "[BOv3] BO Keep-Alive Tab update to stay on last child page"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 37.5,
+        "ticket_id": "Others-1",
+        "description": "IBS Checking"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-2",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Leon",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FR-11397",
+        "ticket_name": "[ALL] Add Favorite Game (bookmark) feature"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Lim Jia Ming",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4581",
+        "ticket_name": "[MS Performance] - standardize merchant logo with only 4 types - part 2"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Manthan",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 25,
+        "ticket_id": "FR-11603",
+        "ticket_name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 75,
+        "ticket_id": "FR-11604",
+        "ticket_name": "\"[All][Zbet Deposit]Remove \"\"Channel\"\" title and replace with bank name"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Max Tham",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 75,
+        "ticket_id": "FPT-4260",
+        "ticket_name": "[MS] [ALL] Campaign Management"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FPT-4529",
+        "ticket_name": "[MS Performance] - Links with discernible name"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Phoebe Mah",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 100,
+        "ticket_id": "Others-1",
+        "description": "File versioning assigned from edwin"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Rahul Shaik",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 81.25,
+        "ticket_id": "FR-8809",
+        "ticket_name": "[NEW BO]Manage Multiple Brands With One Back Office"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-2",
+        "description": "No Reason Stated"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Ramya Gayala",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-11474",
+        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Raymond Tam",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 100,
+        "ticket_id": "FPT-4592",
+        "ticket_name": "[AW8 JW8 MYR] Sync Egames UI Changes"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Seow Imm Beh",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "FR-11642",
+        "ticket_name": "[AW8 JW8 MYR] Sync Egames UI Changes"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 31.25,
+        "ticket_id": "FR-10770",
+        "ticket_name": "[ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 18.75,
+        "ticket_id": "FR-11411",
+        "ticket_name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57572"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 6.25,
+        "ticket_id": "PAR-2362",
+        "ticket_name": "IT: Provider Issue Checking - 22WIN PHP PROD"
+      },
+      {
+        "ticket_type": "PAR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "PAR-2370",
+        "ticket_name": "IT [XY] Checking On BO Function: CMD"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Vamshi",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11611",
+        "ticket_name": "[I828 THB] Update Domain Setting"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 75,
+        "ticket_id": "FPT-4567",
+        "ticket_name": "\"[MS Performance] check assest folder all image"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Victor Lee Chee Chun",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 11.5,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-10327",
+        "ticket_name": "[ALL] Campaign Management"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "vijaya prabakaran",
+    "team": "BE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 100,
+        "ticket_id": "IBS-57935"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Vivaswan Kurwatti",
+    "team": "FE",
+    "resource": "India",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 56.25,
+        "ticket_id": "FR-11620",
+        "ticket_name": "[JAYABAJI JW8 BDT ] membersite > withdrawal > add otp verification"
+      },
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 31.25,
+        "ticket_id": "FR-11639",
+        "ticket_name": "[MSSLOT THB] setup membersite and affiliate site domain <http://www.ufamst.com/>"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Yap Yee Sheng",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 100,
+        "ticket_id": "FR-11004",
+        "ticket_name": "[BO3] Add “Login” Events in BO3> CMS > Frontend Setting > Tracker (A)"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Yc",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 50,
+        "ticket_id": "ONEBOARD-594",
+        "ticket_name": "INTEGRATION > LKPAY - NEX855 (THB)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 37.5,
+        "ticket_id": "Others-2",
+        "description": "No Reason Stated"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "yiying",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "FR",
+        "contribution_percentage": 12.5,
+        "ticket_id": "FR-11640",
+        "ticket_name": "[MSSLOT THB]  membersite > deposit > move fpay crypto to most bottom"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 43.75,
+        "ticket_id": "IBS-57857"
+      },
+      {
+        "ticket_type": "IBS",
+        "contribution_percentage": 12.5,
+        "ticket_id": "IBS-57156"
+      },
+      {
+        "ticket_type": "ONEBOARD",
+        "contribution_percentage": 25,
+        "ticket_id": "ONEBOARD-389",
+        "ticket_name": "ONBUKA - TASMAMA (BDT)"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 6.25,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "YL LEE",
+    "team": "FE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 87.5,
+        "ticket_id": "FPT-4530",
+        "ticket_name": "[MS Performance] - Touch Target Sufficient Size"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "name": "yuankang",
+    "team": "BE",
+    "resource": "Malaysia",
+    "hours": 8,
+    "tickets": [
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 37.5,
+        "ticket_id": "BPT-5020",
+        "ticket_name": "[v1v3 MS & BO] siam855 Promotion code : WHALLOWEENDB25 (TARGET DEPOSIT-DEPOSIT) show user not eligible"
+      },
+      {
+        "ticket_type": "Internal",
+        "contribution_percentage": 50,
+        "ticket_id": "BPT-5056",
+        "ticket_name": "[v3 JSON] Lucky wheel in menu.json"
+      },
+      {
+        "ticket_type": "Others",
+        "contribution_percentage": 12.5,
+        "ticket_id": "Others-1",
+        "description": "1 Hour Leisure Time"
+      }
+    ]
+  }
+]
