@@ -1,0 +1,116 @@
+{
+  "Vamshi": [
+    {
+      "id": "FPT-4539",
+      "name": "[Gojudi MYR] Update Domain Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4542",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4543",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4545",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4544",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-4542",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4543",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4545",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4544",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-4542",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4543",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4545",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4544",
+      "name": "[AW8 VND] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "FPT-4223",
+      "name": "[Zbet THB] Sync PG QR display ",
+      "type": "FPT"
+    },
+    {
+      "id": "BPT-4725",
+      "name": "[Zbet THB] Sync PG QR display ",
+      "type": "BPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4223",
+      "name": "[Zbet THB] Sync PG QR display ",
+      "type": "FPT"
+    },
+    {
+      "id": "BPT-4725",
+      "name": "[Zbet THB] Sync PG QR display ",
+      "type": "BPT"
+    }
+  ],
+  "James W.": [
+    {
+      "id": "FPT-4524",
+      "name": "[ALL] Remove \"Number of Click\" on Aff site",
+      "type": "FPT"
+    }
+  ],
+  "Deep": [
+    {
+      "id": "FPT-4173",
+      "name": "[MYR] 7-11 and Egames app download display",
+      "type": "FPT"
+    },
+    {
+      "id": "BPT-4764",
+      "name": "[MYR] 7-11 and Egames app download display",
+      "type": "BPT"
+    }
+  ]
+}
