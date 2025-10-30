@@ -1344,10 +1344,9 @@
         "ticket_id": "INTT-4"
       },
       {
-        "ticket_type": "Others",
+        "ticket_type": "IBS",
         "contribution_percentage": 12.5,
-        "ticket_id": "Others-1",
-        "description": "IBS-57467"
+        "ticket_id": "IBS-57467"
       },
       {
         "ticket_type": "Others",
