@@ -3604,8 +3604,10 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      },
-        {
+      }
+    ]
+  },
+  {
     "date": "2025-10-24",
     "name": "Allaudhin",
     "team": "BE",
