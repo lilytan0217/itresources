@@ -339,21 +339,6 @@
   },
   {
     "date": "2025-10-27",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 3,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 100,
-        "ticket_id": "FR-10757",
-        "ticket_name": "[ALL MERCHANTS] Rebate Enhancement on release date and time"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-27",
     "name": "EUGENE TENG ZI HAN",
     "team": "BE",
     "resource": "Malaysia",
@@ -1330,21 +1315,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-28",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 3,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 100,
-        "ticket_id": "FR-11474",
-        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
       }
     ]
   },
@@ -2350,26 +2320,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-29",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 3.5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 57.14,
-        "ticket_id": "FR-11662",
-        "ticket_name": "[ALL] Remove MS IP blocking checking"
-      },
-      {
-        "ticket_type": "IBS",
-        "contribution_percentage": 42.86,
-        "ticket_id": "IBS-58425"
       }
     ]
   },
@@ -3403,21 +3353,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-30",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 4,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 100,
-        "ticket_id": "FR-11474",
-        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
       }
     ]
   },
