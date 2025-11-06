@@ -1,0 +1,3756 @@
+{
+  "Aiswarya V V": [
+    {
+      "id": "BPT-5163",
+      "name": "V3 - BO - JW8 - All Member Report/Reward Details Error",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5110",
+      "name": "V3-BO-Partnership file not updating",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5109",
+      "name": "V3-BO-Verify Reward/Verify Reward List - Error when clicking Pending claim status",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5017",
+      "name": "Report Module Export - New format",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4860",
+      "name": "Error Handling In BO. (Finnce,CRM,Mission)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4582",
+      "name": "BO - Promotion display setting - menu.json.gz update issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4195",
+      "name": "Add mongo logs",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3594",
+      "name": "CMS - Game List Export",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3409",
+      "name": "Code tuning for menu.json generation in v3",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2857",
+      "name": "cron for banner settings json file update",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1558",
+      "name": "[FES SMS] SMS Integration with v3",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1285",
+      "name": "Export issue",
+      "type": "BPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-4636",
+      "name": "[BOV3] THB > GYG888",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4554",
+      "name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4490",
+      "name": "[BOV3] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4286",
+      "name": "[BOV3] Web Featured Game (Bug Fixing and Tuning) - Phase 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4285",
+      "name": "[BOV3] Web Featured Game (Bug Fixing and Tuning) - Phase 1",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4047",
+      "name": "[BO3] Deposit and Withdrawal details pop-up revamp",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3983",
+      "name": "[BO3] Add “Go to ( ) Page” Feature in BO3 > Table Listing",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3940",
+      "name": "[BOV3] Implement Expired Status",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3587",
+      "name": "[BO V3] Auto Removal Setting for Withdrawal Conditions",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3474",
+      "name": "[BOV3] [OUTSIDER] Weekly, Monthly, Random & Manual Rebate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3239",
+      "name": "[BOV3] Enhancement for Logo & Favicon Upload Features",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3234",
+      "name": "[BOV3] [TK8 & M3] Enhancement for Agent Cross Level Share Assignment",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3201",
+      "name": "[BOV3] [22FUN JOLIBET 22WIN PHP] membersite > web > homepage > add hot/ top game on homepage",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2492",
+      "name": "[BO V3] Menu Redirection Options and Remove “Update” and “Add” buttons for Referral Commission Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2166",
+      "name": "[BO] VIP Club - Mission",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2163",
+      "name": "BO3 -[BO] VIP Club - Tournament",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1636",
+      "name": "[CLONE] Mangobet - 01",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1149",
+      "name": "[BOV3] [ALL] v3 bo export issue",
+      "type": "FPT"
+    }
+  ],
+  "Allaudhin": [
+    {
+      "id": "BPT-5099",
+      "name": "Jackpot Report - Provider List Changes",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4827",
+      "name": "BO-v3 Laravel 12 Claim Testing in SIAM66 and JW8",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4826",
+      "name": "BO v3- Champ191 and JW8 Prod issues",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4712",
+      "name": "BOv3 - Finance Management -> Bank Details - export issue.",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4700",
+      "name": "Comment out the download manager code in all Module.",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4650",
+      "name": "[ALL BOV3] Enhancement on Random Rebate logic",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4606",
+      "name": "V3-BO - Add Admin Log",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4366",
+      "name": "V1 demolition , bugs compared to v1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4067",
+      "name": "Member Instant Rebate History",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4004",
+      "name": "Provider Rebate History",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3964",
+      "name": "Provider Instant Rebate History",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3952",
+      "name": "Data mismatch, Export data, Response time - Member Rebate History",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3836",
+      "name": "Mission Module Optimization",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3774",
+      "name": "Instant rebate Optimization",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2635",
+      "name": "VIP Club - Mission",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2632",
+      "name": "VIP Club - Tournament",
+      "type": "BPT"
+    }
+  ],
+  "amjad": [
+    {
+      "id": "BPT-4373",
+      "name": "Refactoring  code for socket event and connection ",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4298",
+      "name": "Download manager - AWS cred issue ",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4166",
+      "name": "R&D Notification_bo module",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3284",
+      "name": "Integrating AI CHAT with Laive chat",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3283",
+      "name": "micro-pg skpay Integration",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1823",
+      "name": "[ALL] Implement Laive Chat in all merchants BO",
+      "type": "BPT"
+    }
+  ],
+  "arjun": [
+    {
+      "id": "BPT-5161",
+      "name": "Update All S3 operation into one comon file",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5128",
+      "name": "V3 - BO - All Affiliate Report",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5108",
+      "name": "Jw8 campaign",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4967",
+      "name": "OCV4 - check array_sum() not accepting string as a number",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4521",
+      "name": "[IBS-51786] V3 - BO - Rooking - promotion code issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4503",
+      "name": "aw8 - report issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4323",
+      "name": "[IBS-49285] BO - Ew8 - Promotion Issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3935",
+      "name": "[BO V3] Referral Counter Simulator",
+      "type": "BPT"
+    }
+  ],
+  "Chen": [
+    {
+      "id": "FPT-4652",
+      "name": "[MS Performance] - WaitFor polling mechanism to wait for window variables and every other variable which not suitable to use watch",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3902",
+      "name": "[MS] Maintenance script called only once on Load of App",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3710",
+      "name": "[MS] Dynamic Environment Config for Domain, Sub Domain and its related settings on Runtime",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2846",
+      "name": "[MS] Server Layer Api Caching",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2742",
+      "name": "{BOv1} - CompressorJs for all images upload &/ webp",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2618",
+      "name": "[MS] - JW8 MSSLOT SIAM191 BETA191 GCWIN99 - Store logo asset as Base64 in Local Storage and serve that",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2483",
+      "name": "[MS] AWS ECS Infra Stress Test Application Navigator",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1946",
+      "name": "[ALL] Implement Laive Chat in all merchants MS",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1763",
+      "name": "[ALL] Implement Laive Chat in all merchants BO",
+      "type": "FPT"
+    }
+  ],
+  "Cheong Cheng Ong": [
+    {
+      "id": "NM-775",
+      "name": "HKD > Moove Bet",
+      "type": "NM"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-4546",
+      "name": "[BOV3] [ALL] Promotion Content – “Claim Now” Button Logic Update",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4448",
+      "name": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4009",
+      "name": "[BOV3] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+      "type": "FPT"
+    },
+    {
+      "id": "THEONE-539",
+      "name": "the winloss report for keyName & keyUsername column in the report, make it that only TO users can see others cannot",
+      "type": "THEONE"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5179",
+      "name": "[All KUSD Currency ]BO > add system bank",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5170",
+      "name": "[BETA191 THB] Remove whatsapp QR",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5141",
+      "name": "V3 BO > ADD NEW WALLET TYPE E-WALLET",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5137",
+      "name": "[AW8 NPR]Add new currency",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5107",
+      "name": "[Wawin MYR] Open back OTP in the registration flow",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5090",
+      "name": "[ALL] Immediate logout account when login in another device",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5064",
+      "name": "INTEGRATION > TOPPAY - LUCKYTAJ (INR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5047",
+      "name": "LAK > PGLAO",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5004",
+      "name": "SMS PROVIDER > TEXTEDGE - WON66 (AUD)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4984",
+      "name": "[ALL IDR VND ] bo > postback amount add \"000\"",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4904",
+      "name": "[ALL NEX template] Change VIP UI for mobile view",
+      "type": "BPT"
+    }
+  ],
+  "c沙雕Xia": [
+    {
+      "id": "BPT-473",
+      "name": "IBS-19864 >> T99 -V3 BO Issue",
+      "type": "BPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-4704",
+      "name": "[BETA191 THB] Remove whatsapp QR",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4635",
+      "name": "[BOV1] THB > GYG888",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4610",
+      "name": "[BOV1] LAK > PGLAO",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4513",
+      "name": "[CRM] add subscribe & unsubscribe to merchants",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4505",
+      "name": "[MS] [ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4504",
+      "name": "[BOV3] [ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4493",
+      "name": "[Master BO] finance report page & download page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4146",
+      "name": "[BO1] Update BO Login Authentication Flow – Add PW/GA Switch",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3611",
+      "name": "[ALL MERCHANTS] Currency on/off setting in BO. (Drafting Requirement)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3428",
+      "name": "[BOV3] Domain Setup Automation part 1- Config NS",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3202",
+      "name": "[BOV1] [22FUN JOLIBET 22WIN PHP] membersite > web > homepage > add hot/ top game on homepage",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3159",
+      "name": "[BOV1] THB > Mafa99",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2280",
+      "name": "[MS] VIP Club - Tournament",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2279",
+      "name": "[MS] VIP Club - VIP",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2278",
+      "name": "[MS] VIP Club - Lucky Spin",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2276",
+      "name": "[MS] VIP Club - Play Now",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2174",
+      "name": "[MS] VIP Club - Mission",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2019",
+      "name": "[BOV1] THB > Mafa212",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-290",
+      "name": "[AFF][ALL] Add column in BO > affiliate site > report > member",
+      "type": "FPT"
+    },
+    {
+      "id": "NM-437",
+      "name": "FE BO & Affiliate > THB > Big589",
+      "type": "NM"
+    }
+  ],
+  "Deep": [
+    {
+      "id": "FPT-4682",
+      "name": "[MS Performance] - Fonts from,ttf otf to woff2 - 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4659",
+      "name": "[ALL BOv3] Cloudflare checking on and off button",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4588",
+      "name": "[Sync] [ALL Seamless MS] get public folder structure enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4569",
+      "name": "[Sync] [ALL Transfer MS] get public folder structure enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3918",
+      "name": "[*ALL THB*] membersite > Express deposit QR code photo upload, change to size 660x931",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3867",
+      "name": "[ZBET Deposit] Animation transition effect between pages",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3791",
+      "name": "[BOV3] Deposit Modal Fix",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3709",
+      "name": "[AFF] sync new upload js to aff transfer & seamless",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2168",
+      "name": "[BO] VIP Club - System Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2167",
+      "name": "[BO] VIP Club - Cashback",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2165",
+      "name": "[BO] VIP Club - Lucky Wheel",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2164",
+      "name": "[BO] VIP Club - Mall",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2161",
+      "name": "BO3 - [BO] VIP Club - Member",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4717",
+      "name": "ADHOC - W45 - Deva",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4602",
+      "name": "[MS] AUD > RICH996",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4600",
+      "name": "[ALL Merchant] Solve the wrong display behaviour for the popup reward system bottom side icon. (Lucky Wheel , Ang Pow, Cash Back, Mystery Box)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4492",
+      "name": "Reward widget draggable and save position (R&D)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4489",
+      "name": "[MS] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2277",
+      "name": "[MS] VIP Club - Profile(6 Page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2172",
+      "name": "[MS] VIP Club - Login & Reset password",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2171",
+      "name": "[MS] VIP Club - Home",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2170",
+      "name": "[MS] VIP Club - Header & Footer & Menu nav",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2169",
+      "name": "[MS] VIP Club - Merchant Setup",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2025",
+      "name": "[MS] THB > Mafa212",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2024",
+      "name": "[BOV3] THB > Mafa212",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1686",
+      "name": "[CLONE] Mangobet - 03",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1678",
+      "name": "[MS] THB > Philucky",
+      "type": "FPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-4716",
+      "name": "[AFF] [SIAM855 THB] Setup new membersite domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4715",
+      "name": "[MS] [SIAM855 THB] Setup new membersite domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4657",
+      "name": "[Nex789 THB] Update Domain Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4637",
+      "name": "[JW8 INR] Update domain setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4388",
+      "name": "[ALL] Restructure Member Site Account",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4239",
+      "name": "[AFF] [Overview Page] master affiliate function > add key words to identify the source of each affiliate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4237",
+      "name": "[AFF] [Keyword Page] master affiliate function > add key words to identify the source of each affiliate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4234",
+      "name": "[AFF] [Report] master affiliate function > add key words to identify the source of each affiliate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4186",
+      "name": "[BOV3] [ALL] Exclude Turnover Percentage in Casino Setting > Game List",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3401",
+      "name": "[ALL MERCHANTS] Member Site > Dynamic Display of “Type” Filter Option in the Referral / Invite Friends Page",
+      "type": "FPT"
+    }
+  ],
+  "Edwin": [
+    {
+      "id": "FPT-4283",
+      "name": "[AFF] Change public API to internal API",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4282",
+      "name": "[BOv3] Change public API to internal API",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4281",
+      "name": "[BOv1] Change public API to internal API",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4280",
+      "name": "[MS] Change public API to internal API",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1947",
+      "name": "LaiveChat-Admin",
+      "type": "FPT"
+    },
+    {
+      "id": "NM-434",
+      "name": "FE MS > THB > Sing55",
+      "type": "NM"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-4995",
+      "name": "[v3 cron] revamp report game statistic cron in v3",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4931",
+      "name": "[ALL] Enhance for membersite General display setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4790",
+      "name": "[ALL BO3] Affiliate Logo Function",
+      "type": "BPT"
+    }
+  ],
+  "Eslyn": [
+    {
+      "id": "BPT-5009",
+      "name": "[I828 THB] setup vip mall > need collect api to fire to their 3rd party",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4952",
+      "name": "[ALL MERCHANTS] Rebate Enhancement on release date and time",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4875",
+      "name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4577",
+      "name": "[ALL] [Pending UI] Enhance Rebate Page’s UI to Include Countdown Timer",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1733",
+      "name": "[All Bov3] Lucky Wheel settings to be separated into two tabs",
+      "type": "BPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5095",
+      "name": "CYPAY - CHAMP191 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5081",
+      "name": "INTEGRATION > CRYPTO DIREPAY - JW8 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5068",
+      "name": "NEX855 - QPAY (THB) [CHANGE NEW API]",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4486",
+      "name": "[all transfer] all payment gateway provider error send to a new telegram group",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4243",
+      "name": "[GOAT77 MYR] Separate rapidpay",
+      "type": "BPT"
+    },
+    {
+      "id": "ONEBOARD-120",
+      "name": "ONEPG INTEGRATION",
+      "type": "ONEBOARD"
+    }
+  ],
+  "Evling": [
+    {
+      "id": "NM-821",
+      "name": "UIUX > THB > 22WIN (transfer)",
+      "type": "NM"
+    }
+  ],
+  "ChuiYin": [
+    {
+      "id": "NM-377",
+      "name": "Provider > VND > Nex8: Ratio",
+      "type": "NM"
+    },
+    {
+      "id": "NM-372",
+      "name": "Provider > HKD > JW8",
+      "type": "NM"
+    },
+    {
+      "id": "NM-360",
+      "name": "Provider > THB - Gucci19",
+      "type": "NM"
+    },
+    {
+      "id": "NM-335",
+      "name": "Provider ",
+      "type": "NM"
+    },
+    {
+      "id": "NM-327",
+      "name": "Provider > NPR > 8Mbets",
+      "type": "NM"
+    },
+    {
+      "id": "NM-311",
+      "name": "Provider > BDT - MAMUBAJI",
+      "type": "NM"
+    },
+    {
+      "id": "NM-307",
+      "name": "Provider > THB - 66THB",
+      "type": "NM"
+    },
+    {
+      "id": "NM-296",
+      "name": "Provider > PHPG7 - GOAT77",
+      "type": "NM"
+    },
+    {
+      "id": "NM-293",
+      "name": "Provider > PKR2F - 22Fun",
+      "type": "NM"
+    },
+    {
+      "id": "NM-270",
+      "name": "Provider",
+      "type": "NM"
+    },
+    {
+      "id": "NM-257",
+      "name": "Provider ",
+      "type": "NM"
+    },
+    {
+      "id": "NM-179",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-176",
+      "name": "Integrating 3rd Party Payment Gateway & SMS",
+      "type": "NM"
+    },
+    {
+      "id": "NM-163",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-162",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-151",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-150",
+      "name": "Integrate 3rd Party Payment Gateway",
+      "type": "NM"
+    }
+  ],
+  "Luna": [
+    {
+      "id": "NM-165",
+      "name": "Apply game provider key (IBSIITW001)",
+      "type": "NM"
+    }
+  ],
+  "callmeyonggor(JiaYong)": [
+    {
+      "id": "BPT-2080",
+      "name": "[TXF > SML V3] merchant credit use back seamless logic ( cannot follow transfer )",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-202",
+      "name": "[ALL] Tune logic in Member Bank Setting",
+      "type": "BPT"
+    }
+  ],
+  "Yong Kuan Lim": [
+    {
+      "id": "NM-207",
+      "name": "8mbets > Revamp Asian Template- FE",
+      "type": "NM"
+    }
+  ],
+  "bosco": [
+    {
+      "id": "NM-618",
+      "name": "Provider SMS & PG > AUD > SpinM8",
+      "type": "NM"
+    },
+    {
+      "id": "NM-614",
+      "name": "Provider SMS & PG > AUD > Crownau77",
+      "type": "NM"
+    },
+    {
+      "id": "NM-604",
+      "name": "Provider SMS & PG > AUD > Luxe Gaming",
+      "type": "NM"
+    },
+    {
+      "id": "NM-601",
+      "name": "Provider SMS & PG > AUD > POKIESROAD",
+      "type": "NM"
+    },
+    {
+      "id": "NM-596",
+      "name": "Provider SMS & PG > THB > CHANGWIN9",
+      "type": "NM"
+    },
+    {
+      "id": "NM-591",
+      "name": "Provider & PG > USD > BETPLUSX",
+      "type": "NM"
+    },
+    {
+      "id": "NM-588",
+      "name": "Provider & PG > BDT > Joybaji9",
+      "type": "NM"
+    },
+    {
+      "id": "NM-584",
+      "name": "Provider & PG > MYR > Powerlah",
+      "type": "NM"
+    },
+    {
+      "id": "NM-579",
+      "name": "Provider & PG > HKD > DBO88",
+      "type": "NM"
+    },
+    {
+      "id": "NM-576",
+      "name": "Provider & PG > BDT > Uubuzz",
+      "type": "NM"
+    },
+    {
+      "id": "NM-571",
+      "name": "Providers > PHP > COD Slots ",
+      "type": "NM"
+    },
+    {
+      "id": "NM-566",
+      "name": "Providers > VND > BKZWIN",
+      "type": "NM"
+    },
+    {
+      "id": "NM-562",
+      "name": "SMS & Payment Gateway > PHP > QMO INC. ",
+      "type": "NM"
+    },
+    {
+      "id": "NM-556",
+      "name": "Provider & PG > MYR > M3",
+      "type": "NM"
+    },
+    {
+      "id": "NM-549",
+      "name": "Provider & PG > MYR > Sky Entertainment",
+      "type": "NM"
+    },
+    {
+      "id": "NM-544",
+      "name": "Provider & PG > MMK > Haobet77",
+      "type": "NM"
+    },
+    {
+      "id": "NM-541",
+      "name": "Provider & PG THB > BETPLUSX",
+      "type": "NM"
+    },
+    {
+      "id": "NM-537",
+      "name": "Provider & PG > MYR > Score8",
+      "type": "NM"
+    },
+    {
+      "id": "NM-533",
+      "name": "Provider & PG > USD > UFun",
+      "type": "NM"
+    },
+    {
+      "id": "NM-529",
+      "name": "Provider & PG > INR - LuckyTaj",
+      "type": "NM"
+    },
+    {
+      "id": "NM-524",
+      "name": "Provider & PG > THB > Mafin88",
+      "type": "NM"
+    },
+    {
+      "id": "NM-520",
+      "name": "Provider & Payment Gateway > MYR > Win Streak",
+      "type": "NM"
+    },
+    {
+      "id": "NM-512",
+      "name": "Provider > THB > Y8",
+      "type": "NM"
+    },
+    {
+      "id": "NM-501",
+      "name": "Provider > MYR > MR8",
+      "type": "NM"
+    },
+    {
+      "id": "NM-494",
+      "name": "Provider & PG > THB > IGH828",
+      "type": "NM"
+    },
+    {
+      "id": "NM-490",
+      "name": "Provider & PG > THB > Roiluck99",
+      "type": "NM"
+    },
+    {
+      "id": "NM-486",
+      "name": "Provider & PG > RUB - 321win",
+      "type": "NM"
+    },
+    {
+      "id": "NM-481",
+      "name": "Provider & PG > THB > MS.Slot",
+      "type": "NM"
+    },
+    {
+      "id": "NM-477",
+      "name": "Provider & PG > SGD > SP9",
+      "type": "NM"
+    },
+    {
+      "id": "NM-473",
+      "name": "Provider & PG > THB > Dis88",
+      "type": "NM"
+    },
+    {
+      "id": "NM-467",
+      "name": "Provider & PG > AUD > AU77",
+      "type": "NM"
+    },
+    {
+      "id": "NM-463",
+      "name": "Procurement > BETA191 - Change wallet type",
+      "type": "NM"
+    },
+    {
+      "id": "NM-456",
+      "name": "Provider & PG > THB > BLW99",
+      "type": "NM"
+    },
+    {
+      "id": "NM-447",
+      "name": "Provider & PG > THB > Chana Win",
+      "type": "NM"
+    },
+    {
+      "id": "NM-444",
+      "name": "Provider & PG > NPR > Jayabaji",
+      "type": "NM"
+    },
+    {
+      "id": "NM-429",
+      "name": "Provider & PG > THB > Big589",
+      "type": "NM"
+    },
+    {
+      "id": "NM-425",
+      "name": "Provider & PG > THB > Sing55",
+      "type": "NM"
+    },
+    {
+      "id": "NM-421",
+      "name": "Provider & PG > THB - Punslot168",
+      "type": "NM"
+    },
+    {
+      "id": "NM-411",
+      "name": "Provider > BDT, INR, NPR & PKR > JW8",
+      "type": "NM"
+    },
+    {
+      "id": "NM-398",
+      "name": "PG THB > Aurumpluss",
+      "type": "NM"
+    },
+    {
+      "id": "NM-397",
+      "name": "Provider THB > Aurumpluss",
+      "type": "NM"
+    }
+  ],
+  "Kong Choon": [
+    {
+      "id": "BPT-78",
+      "name": "SL - [ALL] Send bank inactive status to rapidpay",
+      "type": "BPT"
+    }
+  ],
+  "nixon": [
+    {
+      "id": "THEONE-403",
+      "name": "player service",
+      "type": "THEONE"
+    },
+    {
+      "id": "THEONE-240",
+      "name": "BO - getoptionpage, additional new filter to select product key ",
+      "type": "THEONE"
+    }
+  ],
+  "Ze Chin": [
+    {
+      "id": "BPT-74",
+      "name": "TF - [ALL] Display Rapidpay listing and add action button in BO",
+      "type": "BPT"
+    }
+  ],
+  "Muhajirani Hassan V T": [
+    {
+      "id": "BPT-4003",
+      "name": "promotion export issue fix",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3969",
+      "name": "Lucky Wheel Report",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3958",
+      "name": "Mission Reward History",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3948",
+      "name": "Promotion Statistic",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3907",
+      "name": "SGPAY Payment gateway",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3887",
+      "name": "Version Update of each json for FE to load latest data",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-725",
+      "name": "[ALL] v3 bo export issue",
+      "type": "BPT"
+    }
+  ],
+  "ky": [
+    {
+      "id": "NM-124",
+      "name": "Backoffice site develop",
+      "type": "NM"
+    }
+  ],
+  "Karen Hor": [
+    {
+      "id": "NM-110",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-99",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-95",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-91",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-87",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-83",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-75",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-66",
+      "name": "BRL22F - 22FUN",
+      "type": "NM"
+    },
+    {
+      "id": "NM-60",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-54",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-53",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    },
+    {
+      "id": "NM-52",
+      "name": "Apply & Setup 3rd Party Payment Gateway",
+      "type": "NM"
+    }
+  ],
+  "cy": [
+    {
+      "id": "NM-109",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-98",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-94",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-90",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-86",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-82",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-74",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-59",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-50",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-49",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-48",
+      "name": "Production Setup (Game)",
+      "type": "NM"
+    }
+  ],
+  "xm": [
+    {
+      "id": "NM-160",
+      "name": "QC",
+      "type": "NM"
+    },
+    {
+      "id": "NM-159",
+      "name": "QC",
+      "type": "NM"
+    },
+    {
+      "id": "NM-158",
+      "name": "QC",
+      "type": "NM"
+    },
+    {
+      "id": "NM-157",
+      "name": "QC ",
+      "type": "NM"
+    },
+    {
+      "id": "NM-97",
+      "name": "Clone Project",
+      "type": "NM"
+    },
+    {
+      "id": "NM-93",
+      "name": "Clone Project",
+      "type": "NM"
+    },
+    {
+      "id": "NM-73",
+      "name": "Clone Project",
+      "type": "NM"
+    },
+    {
+      "id": "NM-58",
+      "name": "Clone Project",
+      "type": "NM"
+    }
+  ],
+  "sam": [
+    {
+      "id": "NM-261",
+      "name": "Graphic-MMYG77-Create logo",
+      "type": "NM"
+    },
+    {
+      "id": "NM-252",
+      "name": "Graphic> BDT FATAFATI999> Creata Logo Animations",
+      "type": "NM"
+    }
+  ],
+  "Kenvin Kong": [
+    {
+      "id": "NM-146",
+      "name": "Backend Develop",
+      "type": "NM"
+    }
+  ],
+  "Shi Hao Leow": [
+    {
+      "id": "NM-147",
+      "name": "Plugin Game Key",
+      "type": "NM"
+    }
+  ],
+  "Avinash Hiremath": [
+    {
+      "id": "BPT-4050",
+      "name": "[IBS-45867] BO-Ms Slot-Export issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4007",
+      "name": "V3 - AW8(SGD) - TAC list balance issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3968",
+      "name": "Data mismatch issue In Report along with Export",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3876",
+      "name": "[IBS-44948] V3 - BO - UEA8 / Nex8- Export issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3704",
+      "name": "Angboa Module - Membersite optimization",
+      "type": "BPT"
+    }
+  ],
+  "Yao Xiong Yap": [
+    {
+      "id": "NM-125",
+      "name": "Membersite develop",
+      "type": "NM"
+    }
+  ],
+  "Nutan": [
+    {
+      "id": "BPT-3771",
+      "name": "Optimization and standardization VIP Module report",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3485",
+      "name": "[IBS-38509] BO - V3 - BO - Affiliate.",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3444",
+      "name": "V3 >> Export functionality >> Headings implementation changes",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3241",
+      "name": "Tournament Module Standardization",
+      "type": "BPT"
+    }
+  ],
+  "Neha Pandey": [
+    {
+      "id": "BPT-3484",
+      "name": "[IBS-41532] BO - Jayabaji - Banner Issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3467",
+      "name": "IBS-40611- RETURN V3 - BO - Jolibet - Instant rebate issue",
+      "type": "BPT"
+    }
+  ],
+  "Ken": [
+    {
+      "id": "NM-177",
+      "name": "APK",
+      "type": "NM"
+    }
+  ],
+  "Praksha Sheth": [
+    {
+      "id": "BPT-4811",
+      "name": "jw8 - Finance Management -> Last Bulk Wallet Transfer status filter",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4793",
+      "name": "Affiliate /Affiliate Approval",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4367",
+      "name": "V1 demolition , bugs compared to v1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4089",
+      "name": "V3 membersite apis",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4071",
+      "name": "[I828 THB] Merchant request the API data from BO to their landing page",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3897",
+      "name": "VIP statistics report optimization",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3768",
+      "name": "FTD/STD report slow query issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3698",
+      "name": "Finance module api optimization",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3331",
+      "name": "[IBS-40179] - V3 - MS - Won66(NPR) - Banner issue",
+      "type": "BPT"
+    }
+  ],
+  "Chuan": [
+    {
+      "id": "BPT-4078",
+      "name": "[CD88 THB] Add member site languages and allow mobile registration country code",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2212",
+      "name": "[JW8 PHP] Set Up Affiliate Site",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1812",
+      "name": "[ALL BOV3] PG free spin features in promotion code settings",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1642",
+      "name": "THB > Philucky",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-527",
+      "name": "[ALL V3] Timezone",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-276",
+      "name": "[ALL] Enhancement in BO > promotion code > applicable currency (PG FREE SPIN)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-265",
+      "name": "[All Transfer Merchant (Including V2)] Promotion Logic tuning",
+      "type": "BPT"
+    }
+  ],
+  "likjou": [
+    {
+      "id": "THEONE-517",
+      "name": "AGGBO Improvements",
+      "type": "THEONE"
+    },
+    {
+      "id": "FPT-2424",
+      "name": "[V2] Membersite - demo site widgets enhancement UI (component setting)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2423",
+      "name": "[V2] Membersite - demo site widgets enhancement UI (color setting)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2121",
+      "name": "[V2] Membersite - merge in fuji9 asia template (promotion page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2064",
+      "name": "[V2] Membersite - merge in msslot template big589 repo (mobile homepage)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2062",
+      "name": "[V2] Membersite - merge in msslot template big589 repo (topbar)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2061",
+      "name": "[V2] Membersite - merge in msslot template big589 repo (homepage)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1935",
+      "name": "[V2] Membersite - merge in 8mbets asia template (cricket gamepage)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1934",
+      "name": "[V2] Membersite - merge in gojudi repo (mobile topbar)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1878",
+      "name": "[V2] Membersite - status modal tuning & debug",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1816",
+      "name": "[V2] Membersite - footer logo put in env file example certificate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1785",
+      "name": "[V2] Membersite - create each component for info text",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1733",
+      "name": "[V2] Membersite - merge in big589 repo (topbar & footer)",
+      "type": "FPT"
+    }
+  ],
+  "Faisal Alam SIddiqui": [
+    {
+      "id": "BPT-4634",
+      "name": "[IBS-53764] V3 - BO - Wawin8/Finbet8-> Promotion Statics Issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4605",
+      "name": "V3 - BO -Stage - Common Issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4532",
+      "name": "Remove Qr Image from bank settings",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4457",
+      "name": "Slow query optimization from log",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4085",
+      "name": "[IBS-45638] V3 - BO - Nex789 - member statistics report issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4063",
+      "name": "Sync Current Project Codebase with Laravel 12",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3926",
+      "name": "[v3] Need to fetch data from mysql db to postgres db for company report api",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3896",
+      "name": "[IBS-45035] Rebate setting monthly rebate_type not showing after add",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3786",
+      "name": "Affiliate listing api optimization",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3479",
+      "name": "[AiChat v3] apply any promotion add OR update send webhook to AiChat",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3478",
+      "name": "[AiChat v3] get-promotion-content-list apply paginate",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2853",
+      "name": "CLONE - V3-066 Personnel Report /All Sub Affiliate Report (Export)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2852",
+      "name": "V3-066 Personnel Report /All Sub Affiliate Report (Export)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2651",
+      "name": "Outstanding report add UID",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2645",
+      "name": "Personnel Report /Referral Summary (Export) v3(62)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2641",
+      "name": "Personnel Report /All Member Report (Export) Issue (V3-061)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2639",
+      "name": "Personnel Report /Member Report /Bet history Ezugi mikewoonthb (Export) Issue (V3-060)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2218",
+      "name": "[v3 Seamless] - Group1 Reports",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2081",
+      "name": "[TXF > SML V3] some report able to change wallet like v1 sealmess",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-333",
+      "name": "[ALL V3] CMS Enhancement",
+      "type": "BPT"
+    }
+  ],
+  "ziqi": [
+    {
+      "id": "NM-175",
+      "name": "UIUX- LaroPH UI (Siam66 template)",
+      "type": "NM"
+    }
+  ],
+  "Juju": [
+    {
+      "id": "NM-168",
+      "name": "Create LOGO",
+      "type": "NM"
+    },
+    {
+      "id": "NM-154",
+      "name": "Graphic- Yeebet logo",
+      "type": "NM"
+    }
+  ],
+  "Admens": [
+    {
+      "id": "NM-155",
+      "name": "QC new merchant (BRLYB - YEEBET)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-152",
+      "name": "Clone Project (BRLYB - YEEBET)",
+      "type": "NM"
+    },
+    {
+      "id": "NM-81",
+      "name": "Clone Project (BRL22F - 22FUN)",
+      "type": "NM"
+    }
+  ],
+  "jayabharathi": [
+    {
+      "id": "BPT-2219",
+      "name": "[v3 Seamless] - Group2 Reports",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2082",
+      "name": "[TXF > SML V3] period mission continues login with deposit add into transfer",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1556",
+      "name": "[All Bov3] Lucky Wheel settings to be separated into two tabs",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-382",
+      "name": "[ALL V3] Add on/off button in BO > VIP mode > VIP display settings > VIP info",
+      "type": "BPT"
+    }
+  ],
+  "hao nam": [
+    {
+      "id": "ONEBOARD-264",
+      "name": "INTEGRATION > VADERPAY - UF9 (THB)",
+      "type": "ONEBOARD"
+    }
+  ],
+  "Hareesh Babu": [
+    {
+      "id": "BPT-4708",
+      "name": "Move BE Member site API from V1 to V3 - Batch 4",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4691",
+      "name": "Generate General setting JSON.",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2636",
+      "name": "VIP Club - Cashback",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2628",
+      "name": "VIP Club - System Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2627",
+      "name": "VIP Club - Member",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2318",
+      "name": "VIP Club - Merchant",
+      "type": "BPT"
+    }
+  ],
+  "Harsh Jaiswal": [
+    {
+      "id": "FPT-4649",
+      "name": "[BOV3] Limit image size in BO upload image (with Auto Compression)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4494",
+      "name": "[All Outsider Merchants] Add APK download banner",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4295",
+      "name": "[BOV3] Provider Setting (Bug Fixing and Tuning) - Phase 1",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3838",
+      "name": "[BOV3] Maintenance Setting Page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2181",
+      "name": "[BOV3] Promotion Setting BO UI Changes",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2126",
+      "name": "[ALL] Recently played (UI only)",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4547",
+      "name": "[MS] [ALL] Promotion Content – “Claim Now” Button Logic Update",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4476",
+      "name": "[22FUN, JW8,MSSLOT, MAFA191,22WIN, SPEEDAU2, ROOKING, 1JUDI, TK8, WPX88, SIAM191, BETA191] Setup Affiliate Site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4414",
+      "name": "[MS] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module - part 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4046",
+      "name": "[ALL MERCHANTS] Apply Unique Default Meta Titles for Each Game Providers",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4018",
+      "name": "NEW UI AND REQUIRES FE TO ASSIST TO PASS NEW PARAMS TO BE (WON66) > DIREPAY",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3998",
+      "name": "[ALL] Enhance Rebate Page’s UI to Include Countdown Timer",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3877",
+      "name": "[BO3] System Maintenance Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3816",
+      "name": "[*DIS88*] membersite > change to jw8 (signup ,deposit ), and aw8 ( bottom menu bar)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3786",
+      "name": "[MS] THB > SIAM191 (Transfer)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3743",
+      "name": "INTEGRATION > THAISLIPPAY [GCWIN] (THB)",
+      "type": "FPT"
+    }
+  ],
+  "Hitang Patel": [
+    {
+      "id": "BPT-5172",
+      "name": "Convert into new export flow",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4953",
+      "name": "Membersite batch 9 APIs",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4805",
+      "name": "Affiliate /Affiliate Approval History -> Status issue fix",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4586",
+      "name": "V1 - Demolition - Issue fixes, Optimizations",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4533",
+      "name": "V3 Membersite",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4308",
+      "name": "Daily activity 01-08-2025",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3912",
+      "name": "Daily Activity 26th June, 2025",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-338",
+      "name": "[ALL V3] 'Require VPN' setting in BO > Provider Setting",
+      "type": "BPT"
+    }
+  ],
+  "Jagan M": [
+    {
+      "id": "BPT-3865",
+      "name": "CMS - Account access settings optimization",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3713",
+      "name": "Telescope logs store into MongoDB",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3083",
+      "name": "[BO V3] Account Access Setting > Allow saving the same data for Google setup for different currencies.",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2955",
+      "name": "spam_filter prevent hacker/ddos attack our BE API",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2404",
+      "name": "[BOV3] Login & Sign Up with LINE",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2403",
+      "name": "[BOV3] Login & Sign Up with Whatsapp",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2380",
+      "name": "[BOV3] Login & Sign Up with Telegram",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1337",
+      "name": "[BOV3] Login & Sign Up with Social Media Platform (Google, Telegram, Line)",
+      "type": "BPT"
+    }
+  ],
+  "Jayden Liew": [
+    {
+      "id": "CHAMP-1403",
+      "name": "Reward System - Check Lucky Spin Redirect Issue",
+      "type": "CHAMP"
+    },
+    {
+      "id": "FPT-3711",
+      "name": "[AFF] assist to generate default content files during setup new merchant with multilingual",
+      "type": "FPT"
+    },
+    {
+      "id": "CHAMP-1000",
+      "name": "Integrate web sdk",
+      "type": "CHAMP"
+    },
+    {
+      "id": "FPT-3552",
+      "name": "[BOV1] LNWPAY - UFUN (KUSD)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3337",
+      "name": "[BETA911 THB] Slockhack in reward center",
+      "type": "FPT"
+    }
+  ],
+  "JL": [
+    {
+      "id": "NM-686",
+      "name": "THB MYR > Champ888",
+      "type": "NM"
+    },
+    {
+      "id": "NM-685",
+      "name": "THB > Playxos Template 5",
+      "type": "NM"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-4997",
+      "name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4954",
+      "name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4568",
+      "name": "INTEGRATION > XPAY [BANK BOT] - NEX191 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3494",
+      "name": "[BO1&3] Enable Activity Points for Approved Deposits via Express Deposit",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1751",
+      "name": "[ALL] Enchantment for Payment Gateway redirect link",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-88",
+      "name": "TF - [ALL] Tune logic in bank mapping for payment gateway withdrawal in BO",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-73",
+      "name": "SL - [ALL] Display Rapidpay listing and add action button in BO",
+      "type": "BPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-4692",
+      "name": "V3 BO > ADD NEW WALLET TYPE E-WALLET",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4601",
+      "name": "[MS] AUD > CLOUD9",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4301",
+      "name": "[Referral] [8MBETS BDT, 8MBETS NPR, MAMUBAJI BDT] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4300",
+      "name": "[Activities Module] [8MBETS BDT, 8MBETS NPR, MAMUBAJI BDT] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4296",
+      "name": "[Reward Centre] [8MBETS BDT, 8MBETS NPR, MAMUBAJI BDT] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4100",
+      "name": "[ALL INHOUSE] Cashback MS tuning - Adding countdown timer",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3972",
+      "name": "[ZBET deposit] QR deposit and express deposit show QR and remark",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3588",
+      "name": "[BOv3] BO Keep-Alive Tab update to stay on last child page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3469",
+      "name": "[MS] [OUTSIDER] Add a \"Reward Center\" page to the member site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3302",
+      "name": "[ALL OUTSIDER] Reward Center Before Login in Mobile View",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3200",
+      "name": "[MS] [22FUN JOLIBET 22WIN PHP] membersite > web > homepage > add hot/ top game on homepage",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2695",
+      "name": "[Merchants Who Have the Referral Dashboard] Request for UI to Display Multiple Referral Commission Rates",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1683",
+      "name": "[CLONE] Philucky07 - 03",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1537",
+      "name": "[Beta 191] UI Tuning",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1434",
+      "name": "[Beta191- Priority, then sync to ALL] Payment method sequence and pre-fix amount by last deposit",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-757",
+      "name": "[ALL] Tune logic pop out for mission dairy",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-732",
+      "name": "BO - [ALL V3] CMS Enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-600",
+      "name": "[BOv3] 'Require VPN' setting in BO > Provider Setting",
+      "type": "FPT"
+    }
+  ],
+  "Kavin": [
+    {
+      "id": "FPT-4624",
+      "name": "[MS Performance] - Proper Game Page Default Loader masker with proper min height control",
+      "type": "FPT"
+    },
+    {
+      "id": "NM-433",
+      "name": "FE MS > THB - Punslot168",
+      "type": "NM"
+    }
+  ],
+  "km": [
+    {
+      "id": "CHAMP-1050",
+      "name": "DCS Winloss Robot",
+      "type": "CHAMP"
+    },
+    {
+      "id": "CHAMP-364",
+      "name": "AWC python script",
+      "type": "CHAMP"
+    },
+    {
+      "id": "CHAMP-45",
+      "name": "KrungsriBank Name Checker",
+      "type": "CHAMP"
+    },
+    {
+      "id": "CHAMP-43",
+      "name": "DUPLICATION of 22fun telegram bot",
+      "type": "CHAMP"
+    }
+  ],
+  "KokMin": [
+    {
+      "id": "BPT-5146",
+      "name": "[v3 MS] API ERROR /v2/user/email-request String data, right truncated: 1406 Data too long for column 'mobileno'",
+      "type": "BPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-4630",
+      "name": "[ALL MS] Adding login cloudflare turnstile",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4598",
+      "name": "[MS] [ALL] Enhance for membersite General display setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4597",
+      "name": "[BOV3] [ALL] Enhance for membersite General display setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4321",
+      "name": "[ALL] Add Favorite Game (bookmark) feature",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4238",
+      "name": "[BOV3] [Keyword Page] master affiliate function > add key words to identify the source of each affiliate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4235",
+      "name": "[BOV3] [Listing] master affiliate function > add key words to identify the source of each affiliate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4017",
+      "name": "[ALL MS] Signup and Forget password add cloudflare captcha checking",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3228",
+      "name": "[AFF] Enable/Disable 2FA Login Setting in BO3 > Affiliate > Affiliate List",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3107",
+      "name": "[BO3] Enable/Disable 2FA Login Setting in BO3 > Affiliate > Affiliate List",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3009",
+      "name": "[AFF] THB > NEX212",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2703",
+      "name": "[ALL] Enhancement in Affiliate Site : Dynamic Member & Member Register URL",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2063",
+      "name": "[V2] Membersite - merge in msslot template big589 repo (login & register)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2037",
+      "name": "[V2] Membersite - merge in aw8 asia template (mobile gamepage)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2036",
+      "name": "[V2] Membersite - merge in aw8 asia template (homepage)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2029",
+      "name": "[AFF] THB > Mafa212",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1997",
+      "name": "[V2] Membersite - check template merchants for different components (big589 repo)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1996",
+      "name": "[V2] Membersite - check template merchants for different components (asia repo)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1959",
+      "name": "[V2] Membersite - merge in powerlah asia template (deposit page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1958",
+      "name": "[V2] Membersite - merge in dis88 asia template (video section)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1937",
+      "name": "[V2] Membersite - merge in 8mbets asia template (mobile sidebar)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1838",
+      "name": "[V2] Membersite - merge in gcwin asia template (mobile homepage)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1801",
+      "name": "[V2] Membersite - merge in gojudi repo (mobile home)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1735",
+      "name": "[V2] Membersite - merge in gojudi repo (partnership page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1734",
+      "name": "[V2] Membersite - merge in gojudi repo (promo center handling)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1729",
+      "name": "[V2] Membersite - implement v3 member site api",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1727",
+      "name": "[V2] Membersite - merge in gojudi repo (register & login page)",
+      "type": "FPT"
+    }
+  ],
+  "Lim Jia Ming": [
+    {
+      "id": "FPT-4703",
+      "name": "[MS] Web Socket implementation",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4702",
+      "name": "[MS Performance] - All .JSON file generated by BE that should have been .JSON.GZ listing - 3",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4675",
+      "name": "[BOV3] fix client side issue - 15",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4650",
+      "name": "[ALL] Immediate logout account when login in another device",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4612",
+      "name": "[AFF] LAK > PGLAO",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4611",
+      "name": "[BOV3] LAK > PGLAO",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4606",
+      "name": "[BOV3] AUD > RICH996",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4183",
+      "name": "[MS] Shared Service Worker -> Socket Connection base",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4102",
+      "name": "[MS] [V3] TEMU Event Mission (Test Application method / limitation / data requirement if any)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4004",
+      "name": "[BOV3] Build Enhance",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3870",
+      "name": "[All Nex Template] Coin fly animation during claiming reward center",
+      "type": "FPT"
+    }
+  ],
+  "LOOK MUN XUAN": [
+    {
+      "id": "BPT-5158",
+      "name": "[v3 BO] add new route game statistic v2",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5133",
+      "name": "[v3 BO] IBS-58961 Sanuk99 - Tournament Issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5061",
+      "name": "[v3 JSON] compress json",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5059",
+      "name": "[v3 BO] IBS-57679 dashboard and company report winlose not tally",
+      "type": "BPT"
+    }
+  ],
+  "Makeskumar": [
+    {
+      "id": "BPT-5072",
+      "name": "Export new format (shell command)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5007",
+      "name": "[ALL MERCHANTS] Currency on/off setting in BO.",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4928",
+      "name": "[BO3] System Maintenance Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4673",
+      "name": "Referral Agent Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4369",
+      "name": "V1 demolition , bugs compared to v1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4266",
+      "name": "[ALL MERCHANTS] Enhancement in BO > journey mission bonus received record",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4123",
+      "name": "Membersite finace module",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3689",
+      "name": "Member Info optimization - with cache",
+      "type": "BPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4714",
+      "name": "[Zbet] PG deposit redirection confirmation",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4710",
+      "name": "[Zbet Deposit] [RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4608",
+      "name": "[AFF] AUD > RICH996",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4517",
+      "name": "[Zbet withdrawal] Adding \"summary\" breakdown for deposit and withdrawal",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4516",
+      "name": "[Zbet deposit] Adding \"summary\" breakdown for deposit and withdrawal",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4320",
+      "name": "[Zbet Withdrawal] [8MBETS BDT, 8MBETS NPR, MAMUBAJI BDT] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4287",
+      "name": "[Zbet Deposit] [8MBETS BDT, 8MBETS NPR, MAMUBAJI BDT] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3921",
+      "name": "[ZBET] Payment Gateway display QR",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3691",
+      "name": "[Zbet Deposit] Implementing promotion function to deposit",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3477",
+      "name": "[MS] [OUTSIDER] Random Rebate Enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3473",
+      "name": "[MS] [OUTSIDER] Weekly, Monthly, Random & Manual Rebate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3472",
+      "name": "[BOV3] [OUTSIDER] Instant Rebate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3471",
+      "name": "[MS] [OUTSIDER] Instant Rebate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3293",
+      "name": "[All] Centralize Prefix Settings for Banks & Payment Gateways",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2445",
+      "name": "[BOv3][BETA191] Download bar at the top of mobile view",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2400",
+      "name": "[BO V3] Account Access Setting > Allow saving the same data for Google setup for different currencies.",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2066",
+      "name": "[ALL] Login & Sign Up with LINE",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1950",
+      "name": "BO3 - [TXF > SML V3] period mission continues login with deposit add into transfer",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1925",
+      "name": "[MS][BETA191] Download bar at the top of mobile view",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1753",
+      "name": "[ALL BOv3] Add \"Bet Type\" in Bet History",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1716",
+      "name": "[ALL] Enchantment for Payment Gateway redirect link",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1371",
+      "name": "[BOV3] Login & Sign Up with Social Media Platform (Google, Telegram, Line)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-146",
+      "name": "[ALL V3] BO > rebate setting > add another option to calculated by provider lumsum turnover.",
+      "type": "FPT"
+    }
+  ],
+  "Max Tham": [
+    {
+      "id": "FPT-4695",
+      "name": "[ALL] Referral Ball Reward Pop-Up",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4674",
+      "name": "[BOV3] fix client side issue - 14",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4529",
+      "name": "[MS Performance] - Links with discernible name",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4413",
+      "name": "[BOV3] fix client side issue - 3",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4260",
+      "name": "[MS] [ALL] Campaign Management",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4169",
+      "name": "[MS] Remove s3_status.json from all repo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4152",
+      "name": "nex289 new domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4147",
+      "name": "[BO3] Update BO Login Authentication Flow – Add PW/GA Switch",
+      "type": "FPT"
+    }
+  ],
+  "Phoebe Mah": [
+    {
+      "id": "FPT-4136",
+      "name": "[BOV3] Domain Setup Automation part 1- Config NS",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2904",
+      "name": "[MS] All tailwind colour assignment move accordingly to main.css input.css....",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2275",
+      "name": "[MS] VIP Club - My Cart",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2175",
+      "name": "[MS] VIP Club - Cashback",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2173",
+      "name": "[MS] VIP Club - Reedem Gift",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-291",
+      "name": "[AFF] [ALL] Data Tuning to the Affiliate Site",
+      "type": "FPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "BPT-5069",
+      "name": "[ALL MS] Adding login cloudflare turnstile",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5057",
+      "name": "[ALL BOv3] Cloudflare checking on and off button",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5046",
+      "name": "LAK > PGLAO",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5042",
+      "name": "BDT > JIT66",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4993",
+      "name": "[JW8 INR] Add telegram casino signup/login bot",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4966",
+      "name": "[22WIN ] Add Currency PHP",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4958",
+      "name": "[ALL] Telegram Casino Auto Registration Flow",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4955",
+      "name": "Whitelist internal request by infra",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4941",
+      "name": "[ALL] Restructure Member Site Account",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4842",
+      "name": "[AW8 THB] Add telegram casino signup/login bot",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4829",
+      "name": "[JW8 THB] Add telegram casino signup/login bot",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4734",
+      "name": "[JW8 NPR] Add telegram casino signup/login bot",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4713",
+      "name": "[JW8, AW8] Integrate telegram casino bot",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4669",
+      "name": "[AW8 MYR SGD] setup telegram casino signup login bot",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4591",
+      "name": "[ALL MS] Signup and Forget password add cloudflare captcha checking",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4436",
+      "name": "[V3] Telegram Bot Management",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4425",
+      "name": "[*DIS88*] membersite > change to jw8 (signup ,deposit ), and aw8 ( bottom menu bar)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4253",
+      "name": "[ALL MERCHANTS] Currency on/off setting in BO. (Drafting Requirement)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3979",
+      "name": "ONBUKA - KPAY8 (MMK)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3748",
+      "name": "SMS PROVIDER > 007 - NEX369 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3745",
+      "name": "SMS PROVIDER > 007 - NEX212 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-77",
+      "name": "TF - [ALL] Send bank inactive status to rapidpay",
+      "type": "BPT"
+    }
+  ],
+  "Rahul Shaik": [
+    {
+      "id": "BPT-4407",
+      "name": "Initial_connection Delay - Check",
+      "type": "BPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-4671",
+      "name": "[MS Performance] - Fonts from,ttf otf to woff2 - 1",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4664",
+      "name": "[ALL Merchant] Tuning on the rebate release part",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4568",
+      "name": "[MS Performance] - [Sync] Static assets logo to all transfer repo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4557",
+      "name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4451",
+      "name": "[BK9 aud] add meta image to all membersite domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3455",
+      "name": "[BO3] Enable Bet History “Eye” Action for Selected Providers in BO3",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3243",
+      "name": "[BO V3] Referral Counter Simulator",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3236",
+      "name": "[BOV3] [ALL] Automation member tag",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3161",
+      "name": "[AFF] THB > Mafa99",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3160",
+      "name": "[BOV3] THB > Mafa99",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3158",
+      "name": "[MS] THB > Mafa99",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-599",
+      "name": "[MS] 'Require VPN' setting in BO > Provider Setting",
+      "type": "FPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-4701",
+      "name": "[MS Performance] - All .JSON file generated by BE that should have been .JSON.GZ listing - 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4592",
+      "name": "[AW8 JW8 MYR] Sync Egames UI Changes",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4562",
+      "name": "[MS] classlist undefined bug issue - fix",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4466",
+      "name": "[MS] [ALL] Middleware enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4430",
+      "name": "[ALL NEX template] Change VIP UI for mobile view",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4407",
+      "name": "[ASIA TEMPLATE] set ClientOnly hydration issue fix",
+      "type": "FPT"
+    }
+  ],
+  "Sai krishna": [
+    {
+      "id": "FPT-4640",
+      "name": "[JW8 all currency] membersite > bottom part add blog section",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4639",
+      "name": "[MS] LAK > PGLAO Part 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3874",
+      "name": "[BO3] Add \"Withdrawal\" Events in BO3 > CMS > Frontend Setting > Tracker (D)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3873",
+      "name": "[BO3] Add “Initiate Checkout” Events in BO3> CMS > Frontend Setting > Tracker (C)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3872",
+      "name": "[BO3] Add “Launch Game” Events in BO3> CMS > Frontend Setting > Tracker (B)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3871",
+      "name": "[BO3] Add “Login” Events in BO3> CMS > Frontend Setting > Tracker (A)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3613",
+      "name": "[ALL MERCHANTS] Rebate Enhancement on release date and time",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-293",
+      "name": "[BOV3] [ALL V3] Add 'Second Time Deposit' and 'Second and Further Deposit' into Affiliate Postback URL function",
+      "type": "FPT"
+    }
+  ],
+  "Sanjay K": [
+    {
+      "id": "BPT-5175",
+      "name": "daily Activity 06-11-2025",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4164",
+      "name": "V3 bugs compared with V1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4039",
+      "name": "Game Sequence Restructure",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3989",
+      "name": "daily activity 02-07-2025",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3600",
+      "name": "Angpow Display Not Working In MS",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3477",
+      "name": "Export Standardization For Rebate Module",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3462",
+      "name": "[IBS-40611] RETURN V3 - BO - Jolibet - Instant rebate issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3384",
+      "name": "[Nex191 THB v3] new merchant",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3344",
+      "name": "Instant rebate Report Optimization",
+      "type": "BPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "BPT-5033",
+      "name": "[AW8 JW8 MYR] Sync Egames UI Changes",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4951",
+      "name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3843",
+      "name": "[TK8] Enhancement for update referral flow",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3842",
+      "name": "[TK8 & M3] Enhancement for Agent Cross Level Share Assignment",
+      "type": "BPT"
+    },
+    {
+      "id": "CHAMP-151",
+      "name": "Open product for Merchant",
+      "type": "CHAMP"
+    },
+    {
+      "id": "CHAMP-141",
+      "name": "Open Aviatrix to NPR merchants",
+      "type": "CHAMP"
+    },
+    {
+      "id": "BPT-210",
+      "name": "[ALL] Add column in BO > affiliate site > report > member",
+      "type": "BPT"
+    }
+  ],
+  "shengjie": [
+    {
+      "id": "NM-414",
+      "name": "IT  > Revamp IBS Official Site",
+      "type": "NM"
+    }
+  ],
+  "SL NG": [
+    {
+      "id": "THEONE-536",
+      "name": "bo - revamp repump logic",
+      "type": "THEONE"
+    },
+    {
+      "id": "THEONE-401",
+      "name": "SPLIT BO and OPERATOR",
+      "type": "THEONE"
+    },
+    {
+      "id": "THEONE-41",
+      "name": "TO > DS88",
+      "type": "THEONE"
+    },
+    {
+      "id": "THEONE-38",
+      "name": "Game Tagging (Megaway, CNY, Christmas)",
+      "type": "THEONE"
+    },
+    {
+      "id": "THEONE-54",
+      "name": "Add game list auto updater",
+      "type": "THEONE"
+    }
+  ],
+  "Vamshi": [
+    {
+      "id": "FPT-4708",
+      "name": "[My Profile] [RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4694",
+      "name": "[GOJUDI MYR] Remove Top Referral Banner",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4690",
+      "name": "[AFF] [AW8 NPR]Add new currency",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4688",
+      "name": "[AW8 NPR]Add new currency",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4660",
+      "name": "[GOD855 THB] membersite > homepage > add blog section above footer",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4634",
+      "name": "[AFF] THB > GYG888",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4485",
+      "name": "[22WIN ] Add Currency PHP",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3789",
+      "name": "[AFF] THB > SIAM191 (Transfer)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3189",
+      "name": "[MS] Enhancement in BO3 > SEO Metadata",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3008",
+      "name": "[BOV3] THB > NEX212",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3006",
+      "name": "[MS] THB > NEX212",
+      "type": "FPT"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5122",
+      "name": "[BO3] Mini Game setting to allow decimal places",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4738",
+      "name": "[ALL] master affiliate function > add key words to identify the source of each affiliate",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4342",
+      "name": "[ALL MERCHANTS] Reward pop up in homepage",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4302",
+      "name": "Intergrate Babylon",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4248",
+      "name": "[ALL] Campaign Management",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3792",
+      "name": "[All Seamless] BO Provider Report &gt; Add data for all member report details",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3080",
+      "name": "[BO|BOV3] version.json add all json related",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2079",
+      "name": "[TXF > SML V3] DB trigger should sharing with transfer. but need double check",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2078",
+      "name": "[TXF > SML V3] add seamless promotion module (v3 table v1 logic)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2077",
+      "name": "[TXF > SML V3] promotion turnover cron ( bet history cron )",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1974",
+      "name": "[BOV3] Multiple spin wheels and VIP level entitlement for each spin wheel setting",
+      "type": "BPT"
+    }
+  ],
+  "vijaya prabakaran": [
+    {
+      "id": "BPT-5153",
+      "name": "[IBS-59134] BO - Nex191 - withdrawal issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5102",
+      "name": "[IBS-58319] V3 - Ms Slot - Promotion issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4792",
+      "name": "[IBS-55198] V3 - BO - Nex855 - export issue",
+      "type": "BPT"
+    }
+  ],
+  "Vijay Poovarasan": [
+    {
+      "id": "BPT-5116",
+      "name": "Export - Data mismatch and Code Issues",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5073",
+      "name": "Export - New format (shell command), Data mismatch and Code Issues",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4665",
+      "name": "Member site API Implementation",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4174",
+      "name": "V3 bugs compared with V1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4165",
+      "name": "V3 bugs compared with V1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3949",
+      "name": "Referral Summary - Data mismatch, Export data, Response time",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3415",
+      "name": "[V3 Membersite] Member Moduel",
+      "type": "BPT"
+    }
+  ],
+  "Vinayak C Y": [
+    {
+      "id": "BPT-2671",
+      "name": "USD > 855won BO3",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2326",
+      "name": "THB > Mafa212",
+      "type": "BPT"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-4711",
+      "name": "[Zbet Withdrawal] [RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4683",
+      "name": "[MS Performance] - Fonts from,ttf otf to woff2 - 3",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4633",
+      "name": "[MS] THB > GYG888",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4302",
+      "name": "[Activity Pop Up] [8MBETS BDT, 8MBETS NPR, MAMUBAJI BDT] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4298",
+      "name": "[AFF] [ALL BO3] Affiliate Favicon Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4297",
+      "name": "[BOV3] [ALL BO3] Affiliate Favicon Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4291",
+      "name": "[BO] [ALL BO3] Affiliate Logo Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4290",
+      "name": "[AFF] [ALL BO3] Affiliate Logo Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2083",
+      "name": "[BOV3] Derror enhance to scroll to first instance position",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1837",
+      "name": "[BOV3] Multiple spin wheels and VIP level entitlement for each spin wheel setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1836",
+      "name": "[BOV3] Multiple spin wheels and VIP level entitlement for each spin wheel setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1687",
+      "name": "[CLONE] Mangobet - 04",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1635",
+      "name": "[CLONE] Philucky07 - 02",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1353",
+      "name": "[BETA191] Deposit apply promotion flow ",
+      "type": "FPT"
+    }
+  ],
+  "Woon": [
+    {
+      "id": "NM-462",
+      "name": "PC > BETA191 - Change wallet type",
+      "type": "NM"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-4843",
+      "name": "[8MBETS BDT, 8MBETS NPR, MAMUBAJI BDT] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4736",
+      "name": "[TK8 MYR] Change UI for referral ,reward center , Profile and bottom menu bar",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4233",
+      "name": "[BO V3] Auto Removal Setting for Withdrawal Conditions",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4162",
+      "name": "[BOV3] Domain Setup Automation part 1- Config NS",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3930",
+      "name": "[ALL OUTSIDER] Reward Center Before Login in Mobile View",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-3294",
+      "name": "[BO V3] Tracking Enhancement",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-2556",
+      "name": "[ALL] Recently played (UI only)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1404",
+      "name": "[Beta191- Priority, then sync to ALL] Payment method sequence and pre-fix amount by last deposit",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1358",
+      "name": "[ALL SEAMLESS] Linked Promotion Function",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-1328",
+      "name": "[BETA191] Deposit apply promotion flow",
+      "type": "BPT"
+    }
+  ],
+  "Yc": [
+    {
+      "id": "BPT-5113",
+      "name": "PG > DGPAY (THB) [NEW API]",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5080",
+      "name": "INTEGRATION > KPAY - MSSLOT (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5060",
+      "name": "INTEGRATION > FPAY (SPAY LATER) - WAWIN8",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4972",
+      "name": "PAYMENT GATEWAY > VGROUPPAY - WON66 (AUD)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4969",
+      "name": "INTEGRATION > 5PAY - 22FUN (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4845",
+      "name": "INTEGRATION > ONEPAY - SANUK99 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4381",
+      "name": "INTEGRATION > VADERPAY - UF9 (THB)",
+      "type": "BPT"
+    }
+  ],
+  "yiying": [
+    {
+      "id": "BPT-5094",
+      "name": "Finance request de generic bj report",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5079",
+      "name": "CHECK > JAYABAJI (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5076",
+      "name": "THB > GYG888",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5071",
+      "name": "CHECK > ONBUKA - JW8 (PKR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5070",
+      "name": "INTEGRATION > PAYGT - GYG88 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5024",
+      "name": "INTEGRATION > AXISPAY - FUJI9 (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5019",
+      "name": "ONBUKA - TASMAMA (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5003",
+      "name": "ONBUKA - WPX88 (PNG)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5000",
+      "name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4986",
+      "name": "[All Transfer BOv3 (Priority Haobet77)]Add “Action” Column in Bet History",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4961",
+      "name": "007SMS - BETA289 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4923",
+      "name": "ONBUKA - JW8 (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4918",
+      "name": "[ALL AW8 VIP STYLE] Show the Upgrade Condition to the Next Incomplete VIP Level",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4888",
+      "name": "[ALL] Add Favorite Game (bookmark) feature",
+      "type": "BPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-4706",
+      "name": "[BO3] Mini game setting standardize the display",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4696",
+      "name": "[ALL] Mini Game Settings - Mirror Prize Configuration",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4680",
+      "name": "[BO3] Mini Game setting to allow decimal places",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4629",
+      "name": "[MS Performance] - Master BO Image compression and to webp and dedicated folder for under 20kb webp",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4604",
+      "name": "[BOV1] AUD > RICH996",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4288",
+      "name": "[ALL] Lucky Spin (full page) UI change",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4149",
+      "name": "GUIDE - Max",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4010",
+      "name": "[MS] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3956",
+      "name": "[BOV3] VIP setting default Number Fields to 0 if Empty",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3883",
+      "name": "[BO3] Add Registration IP Filter for All Promotions & Bonuses",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3829",
+      "name": "[BOV3] Telegram Bot Management",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3787",
+      "name": "[BOV1] THB > SIAM191 (Transfer)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3597",
+      "name": "[BOV3] Campaign Management",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3574",
+      "name": "[ALL IN HOUSE] Reward Center Membersite UI Tuning",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3238",
+      "name": "[MS] Enhancement for Logo & Favicon Upload Features",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3149",
+      "name": "[AFF] THB > Mafa168",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3148",
+      "name": "[BOV3] THB > Mafa168",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3147",
+      "name": "[BOV1] THB > Mafa168",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3146",
+      "name": "[MS] THB > Mafa168",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3007",
+      "name": "[BOV1] THB > NEX212",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2686",
+      "name": "[V2] Membersite - deposit data comparison and sync up with BE",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2512",
+      "name": "[V2] Membersite - theme js array planning and enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2511",
+      "name": "[V2] Membersite - deposit page enhancement to plan and mix all style in same array pattern",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2470",
+      "name": "[BO V1 Transfer] Menu Redirection Options and Remove “Update” and “Add” buttons for Referral Commission Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2120",
+      "name": "[V2] Membersite - merge in jolibet asia template (register page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2035",
+      "name": "[V2] Membersite - merge in fuji9 asia template (deposit page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1970",
+      "name": "Master BO add update game list function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1936",
+      "name": "[V2] Membersite - merge in gojudi repo (mobile account page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1841",
+      "name": "[V2] Membersite - merge in gcwin asia template (mobile gamepage category)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1840",
+      "name": "[V2] Membersite - merge in gcwin asia template (mobile gamepage)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1778",
+      "name": "[V2] Membersite - vue page clean up",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1751",
+      "name": "[V2] Membersite - multiple login component",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1739",
+      "name": "[V2] Membersite - merge in gojudi repo (deposit page)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1738",
+      "name": "[V2] Membersite - merge in gojudi repo (dashboard sidebar)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1732",
+      "name": "[V2] Membersite - merge in big589 repo (withdrawal modal)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1731",
+      "name": "[V2] Membersite - add slackbot alert to channel (API error)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1730",
+      "name": "[V2] Membersite - add slackbot alert to channel (APP error)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1728",
+      "name": "[V2] Membersite - move particular condition into dedicated component itself from env file (example: IS_DEPOSIT_MODAL)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1726",
+      "name": "[V2] Membersite - merge in big589 repo (deposit modal)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1723",
+      "name": "[V2] Membersite - create general function for local storage data",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1650",
+      "name": "[V2] Membersite - in app vue, disallow page do dynamic to env",
+      "type": "FPT"
+    }
+  ],
+  "yuankang": [
+    {
+      "id": "BPT-5140",
+      "name": "V3 BO > HYPERLINK REDIRECT TO PAYMENT GATEWAY SETTING",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5114",
+      "name": "[v3 BO] add new route /get-sts-token refer MS same route but move to common controller",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5097",
+      "name": "[v3 MS] NEX191 showing duplicate notification",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5056",
+      "name": "[v3 JSON] Lucky wheel in menu.json",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4946",
+      "name": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4937",
+      "name": "[v1 and v3 MS] MM country cloudfront change to use accelarator url",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4768",
+      "name": "[all v3] handle add event_tracking_ and affiliate_postback_ into deletion list ( Keep 90Days )",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4678",
+      "name": "[v3 all transfer] getProvider.json.gz make it instant update",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4430",
+      "name": "[all v3 transfer] test, tune and reopen v3 aff generate com",
+      "type": "BPT"
+    }
+  ],
+  "YVONNE GOH": [
+    {
+      "id": "NM-684",
+      "name": "THB > Philucky",
+      "type": "NM"
+    }
+  ],
+  "yy": [
+    {
+      "id": "ONEBOARD-85",
+      "name": "PG > THAISLIPPAY (THB)",
+      "type": "ONEBOARD"
+    }
+  ],
+  "zhenyang": [
+    {
+      "id": "THEONE-2",
+      "name": "TO > 888KING",
+      "type": "THEONE"
+    },
+    {
+      "id": "THEONE-1",
+      "name": "TO > CROWDPLAY",
+      "type": "THEONE"
+    }
+  ]
+}
