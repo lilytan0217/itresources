@@ -2123,21 +2123,6 @@
   },
   {
     "date": "2025-10-29",
-    "name": "Allaudhin",
-    "team": "BE",
-    "resource": "India",
-    "hours": 7,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Annual Leave"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-29",
     "name": "arjun",
     "team": "BE",
     "resource": "India",
