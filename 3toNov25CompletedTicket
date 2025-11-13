@@ -1,0 +1,531 @@
+{
+  "Harsh Jaiswal": [
+    {
+      "id": "FPT-4458",
+      "name": "[DIS88 MYR] Replace the youtube link for Deposit and Withdrawal",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4354",
+      "name": "[GOD345 THB] membersite > change logo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4338",
+      "name": "ADHOC - W40 - Harsh",
+      "type": "FPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2332",
+      "name": "IT[Qi Lun] Deploy and Open Provider - EW8 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2338",
+      "name": "IT:Deploy and Provider Issue Checking - EW8 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2334",
+      "name": "IT: Open Odin Gaming - BETPLUSX USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2329",
+      "name": "IT[Qi Lun] Deploy and Open Provider - BER8 THB PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2330",
+      "name": "IT[Qi Lun] Open Dream Exchange - MAGAR33 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2331",
+      "name": "IT[Qi Lun] Deploy - BK9 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2326",
+      "name": "IT[Qi Lun] Create SBO Agent Username - BER8 THB PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2212",
+      "name": "DEPLOY PROVIDER [QILUN] - RICH88 [ SLOT & CARD ]",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2322",
+      "name": "IT[Qi Lun] Open Odin Gaming - BETPLUSX USD STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2321",
+      "name": "IT[Qi Lun] Deploy and Open Provider - BETPLUSX USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2320",
+      "name": "IT[Qi Lun] Open/Close Provider - JOLIBET PHP PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2318",
+      "name": "IT[Qi Lun] Open Provider - JW8 IDR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2317",
+      "name": "IT[Qi Lun] Open Provider - AW8 IDR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2304",
+      "name": "IT[Qi Lun] Open/Close Provider - GCWIN99 THB PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2316",
+      "name": "Create SBO Agent Username - BETPLUSX USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2309",
+      "name": "IT[Qi Lun] Open/Close Provider - SIAM855 THB PROD",
+      "type": "PAR"
+    }
+  ],
+  "Max Tham": [
+    {
+      "id": "FPT-4434",
+      "name": "[ROO99 THB] Membersite > web > top menu bar > add download apk",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4389",
+      "name": "[JW8 THB] Update domains setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4436",
+      "name": "[AFF] [AW8 KUSD] setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4435",
+      "name": "[MS] [AW8 KUSD] setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4428",
+      "name": "[MS] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4429",
+      "name": "[AFF] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4390",
+      "name": "[AW8 IDR] Domain Redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4325",
+      "name": "[ALL] Remove Daily Check-in/Calendar auto pop-up on Home",
+      "type": "FPT"
+    }
+  ],
+  "Phoebe Mah": [
+    {
+      "id": "FPT-4392",
+      "name": "[MS] KUSD > BETPLUSX",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4394",
+      "name": "[BOV3] KUSD > BETPLUSX",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4378",
+      "name": "[MW99 NPR] enable cashback function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4318",
+      "name": "ADHOC - W40 - Manthan",
+      "type": "FPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-4395",
+      "name": "[AFF] KUSD > BETPLUSX",
+      "type": "FPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-4371",
+      "name": "[MS] [UF9 VND THB] Remove currency from membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4372",
+      "name": "[AFF] [UF9 VND THB] Remove currency from membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4449",
+      "name": "[MS] [PESO88] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4450",
+      "name": "[AFF] [PESO88] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4189",
+      "name": "[BOV1] AUD > BK9",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4383",
+      "name": "[BOV3] All Merchant > Change bank mapping description for specific payment gateway",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4336",
+      "name": "[MS AFF] [ALL] Private variable MER_CODE",
+      "type": "FPT"
+    }
+  ],
+  "Vamshi": [
+    {
+      "id": "FPT-4455",
+      "name": "[AFF] [AW8 KUSD] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4454",
+      "name": "[MS] [AW8 KUSD] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4304",
+      "name": "[ALL BO3] Add daily filter for jackpot report",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4007",
+      "name": "V3 BO ALL THB > ADD A DROPDOWN LIST WHICH ALLOW ADMIN TO CHOOSE WHICH PAYMENT GATEWAY",
+      "type": "FPT"
+    }
+  ],
+  "Sai krishna": [
+    {
+      "id": "FPT-4190",
+      "name": "[AFF] AUD > BK9",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4403",
+      "name": "[AFF] Whitelist 22win domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4423",
+      "name": "[AW8] Standardize IDR Currency Font Size Across Pages",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4441",
+      "name": "[Magar33 NPR] Change Domain Cofigure",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4412",
+      "name": "[BOV3] fix client side issue - 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3641",
+      "name": "[jolibet (PHP)]Design Zbet2 Deposit UI Enhancement + Withdrawal UI",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4350",
+      "name": "ADHOC - W40 - Sai",
+      "type": "FPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-4433",
+      "name": "[AFF] [RUI66 THB] membersite > remove english language",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4432",
+      "name": "[MS] [RUI66 THB] membersite > remove english language",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3860",
+      "name": "[BOV3] MYRX1 > (NAME TBC)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4417",
+      "name": "[BOV3] [Magar33 NPR] Membersite > Change the \"Back\" wording in ID Verification to \"Selfie With Front Side ID\"",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4416",
+      "name": "[MS] [Magar33 NPR] Membersite > Change the \"Back\" wording in ID Verification to \"Selfie With Front Side ID\"",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4425",
+      "name": "[ROO99 THB] Change affiliate site favicon",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4404",
+      "name": "[MS] [AW8 kusd] setup membersite domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4405",
+      "name": "[AFF] [AW8 kusd] setup membersite domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4299",
+      "name": "[ALL INHOUSE BDT NPR ] mobile > bottom navigation bar > referral and rewards centre add coin icon",
+      "type": "FPT"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-2969",
+      "name": "[MAFA191] Migrate to Transfer system with Nex191 template and change background colour",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3129",
+      "name": "[MS] [DEPOSIT] Design Zbet2 Deposit UI Enhancement",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4442",
+      "name": "[ALL] Standardize side menu VIP page before and after login",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4406",
+      "name": "[ALL] Redirect to Login Page Before Showing Pop-up",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4164",
+      "name": "[ALL] Convert MS v1 API to v3 API [BATCH 4] - Member 1",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4023",
+      "name": "[BOV3] [1] Check and Fix all API calls without proper loading animation and function disabling",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3578",
+      "name": "[ALL MERCHANTS] Reward pop up in homepage",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3671",
+      "name": "[ALL MERCHANT] Cashback and Random Rebate Pop Up in Homepage",
+      "type": "FPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-4437",
+      "name": "[ROO99 THB] add gtm heading tag for these domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4379",
+      "name": "[MS] [AW8. KUSD] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4380",
+      "name": "[AFF] [AW8. KUSD] Setup membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-4370",
+      "name": "[AFF] [ROOKING BDT] Close BDT currency start on 1st October 2025",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4369",
+      "name": "[MS] [ROOKING BDT] Close BDT currency start on 1st October 2025",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4364",
+      "name": "[MS] [AW8 VND] setup new membersite affiliate site domain (<https://cheapjordansshoes.com.co>)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4365",
+      "name": "[AFF] [AW8 VND] setup new membersite affiliate site domain (<https://cheapjordansshoes.com.co>)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4317",
+      "name": "GUIDE - Ramya",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4363",
+      "name": "ADHOC - W40 - Lam",
+      "type": "FPT"
+    }
+  ],
+  "Lim Jia Ming": [
+    {
+      "id": "FPT-4358",
+      "name": "[BO3] Temporary hide the total valid bet amount and valid turnover column",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4366",
+      "name": "[GOJUDI MYR] Setup <http://mgojudi.com/> domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4431",
+      "name": "[BO3] Provider Report Grand total of GGR%",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "ONEBOARD-536",
+      "name": "CHECK > FPAY BANK CODE LIST (THB)",
+      "type": "ONEBOARD"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-4384",
+      "name": "[ALL NPR] Remove the signup phone number prefix “0”",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4355",
+      "name": "[ALL SGD] Remove the signup phone number prefix “0”",
+      "type": "FPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-3639",
+      "name": "[IME88, Khalti889(NPR)]Design Zbet2 Deposit UI Enhancement + Withdrawal UI",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2685",
+      "name": "[BOV3] Prevent Frontend from Passing non-editable data to Backend in Member Info",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2844",
+      "name": "[BOV3] Prevent Frontend from Passing non-editable data to Backend in all Settings page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4310",
+      "name": "ADHOC - W40 - Akash",
+      "type": "FPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-4376",
+      "name": "[RUI66 THB] Update Domain Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4375",
+      "name": "[GOD345 THB] Update Domain Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4415",
+      "name": "[SIAM855] Update domain setting",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4410",
+      "name": "[PESO88] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4409",
+      "name": "[PESO2U] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4408",
+      "name": "[AW8 KUSD] perform membersite 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4184",
+      "name": "[MS] IS_NEW_AFF - new feature current domain to current aff",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4308",
+      "name": "[ALL] Promotion content display default image if image broken",
+      "type": "FPT"
+    }
+  ],
+  "Yc": [
+    {
+      "id": "ONEBOARD-539",
+      "name": "CHECK > ADJUST MIN MAX FOR FPAY CRYPTO [BETA191]",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "ONEBOARD-532",
+      "name": "CHECK > SKPAY CHANNEL CHANGE TO CH01074 [JW8] (INR)",
+      "type": "ONEBOARD"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "ONEBOARD-528",
+      "name": "CHECK > THAIQR CHANGE TO PROMPTPAY CATEGORY (FPAY)",
+      "type": "ONEBOARD"
+    }
+  ]
+}
