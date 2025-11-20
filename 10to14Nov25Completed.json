@@ -1,0 +1,551 @@
+{
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-4789",
+      "name": "[WON66 AUD] Change wording of download app banner",
+      "type": "FPT"
+    }
+  ],
+  "Sanjay K": [
+    {
+      "id": "BPT-5248",
+      "name": "Daily activity 13-11-2024",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5188",
+      "name": "daily activity 07-11-2025",
+      "type": "BPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2431",
+      "name": "IT: Pull Balance - BOOONGO ROMAN",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5237",
+      "name": "CHUANX - AW8 (NPR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4966",
+      "name": "[22WIN ] Add Currency PHP",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2429",
+      "name": "IT: Deploy and Open Provider - EG8 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2430",
+      "name": "IT: Aggregator Plug Key - EG8 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2428",
+      "name": "IT: Deploy and Open Provider",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2425",
+      "name": "IT: Create SBO Agent Username - EG8 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2427",
+      "name": "IT: Provider Issue Checking - AW8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2426",
+      "name": "IT: Deploy and Open Provider - WON66 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5046",
+      "name": "LAK > PGLAO",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5220",
+      "name": "[LUXE GAMING] Change game category sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4425",
+      "name": "[*DIS88*] membersite > change to jw8 (signup ,deposit ), and aw8 ( bottom menu bar)",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2422",
+      "name": "IT: Deploy and Open Provider - JAGAT CUAN IDR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2421",
+      "name": "IT: Create SBO Agent Username - JAGAT CUAN IDR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2419",
+      "name": "IT: Deploy and Open Provider - AW8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2420",
+      "name": "IT: Aggregator Plug Key - AW8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2418",
+      "name": "IT: Create SBO Agent Username - AW8 NPR PROD",
+      "type": "PAR"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5137",
+      "name": "[AW8 NPR]Add new currency",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5179",
+      "name": "[All KUSD Currency ]BO > add system bank",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5047",
+      "name": "LAK > PGLAO",
+      "type": "BPT"
+    }
+  ],
+  "Vamshi": [
+    {
+      "id": "FPT-4690",
+      "name": "[AFF] [AW8 NPR]Add new currency",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4688",
+      "name": "[AW8 NPR]Add new currency",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4485",
+      "name": "[22WIN ] Add Currency PHP",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4694",
+      "name": "[GOJUDI MYR] Remove Top Referral Banner",
+      "type": "FPT"
+    }
+  ],
+  "Hitang Patel": [
+    {
+      "id": "BPT-338",
+      "name": "[ALL V3] 'Require VPN' setting in BO > Provider Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5172",
+      "name": "Convert into new export flow",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5201",
+      "name": "Daily Activity 07/11/25",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5200",
+      "name": "Daily Activity 31/10/25",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5197",
+      "name": "Daily Activity 27/10/25",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5198",
+      "name": "Daily Activity 28/10/25",
+      "type": "BPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-600",
+      "name": "[BOv3] 'Require VPN' setting in BO > Provider Setting",
+      "type": "FPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-599",
+      "name": "[MS] 'Require VPN' setting in BO > Provider Setting",
+      "type": "FPT"
+    }
+  ],
+  "vijaya prabakaran": [
+    {
+      "id": "BPT-5233",
+      "name": "V3 - BO - Goat77 MYR - Issue",
+      "type": "BPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-3009",
+      "name": "[AFF] THB > NEX212",
+      "type": "FPT"
+    }
+  ],
+  "Sai krishna": [
+    {
+      "id": "FPT-4762",
+      "name": "[MS] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4763",
+      "name": "[AFF] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4761",
+      "name": "[JW8 SGD] Update Domain Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4752",
+      "name": "[AFF] [UMG8 MYR]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4758",
+      "name": "[MS] [UMG8 MYR] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4760",
+      "name": "[AFF] [I828 SIAM369 JW8 THB] Setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4639",
+      "name": "[MS] LAK > PGLAO Part 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4759",
+      "name": "[MS] [I828 SIAM369 JW8 THB] Setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4765",
+      "name": "[AFF] [DIS88 MYR] Setup dis88.fun domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4764",
+      "name": "[MS] [DIS88 MYR] Setup dis88.fun domain as member site and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "yiying": [
+    {
+      "id": "BPT-5071",
+      "name": "CHECK > ONBUKA - JW8 (PKR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4923",
+      "name": "ONBUKA - JW8 (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4961",
+      "name": "007SMS - BETA289 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5079",
+      "name": "CHECK > JAYABAJI (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5219",
+      "name": "ONBUKA - GOJUDI (MYR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5024",
+      "name": "INTEGRATION > AXISPAY - FUJI9 (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5000",
+      "name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)",
+      "type": "BPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-4774",
+      "name": "[MS] [DIS88 MYR] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4775",
+      "name": "[AFF] [DIS88 MYR] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4676",
+      "name": "[BOV3] fix client side issue - 16",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4673",
+      "name": "[BOV3] fix client side issue - 13",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4696",
+      "name": "[ALL] Mini Game Settings - Mirror Prize Configuration",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4680",
+      "name": "[BO3] Mini Game setting to allow decimal places",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4678",
+      "name": "ADHOC - W45 - Lam",
+      "type": "FPT"
+    }
+  ],
+  "Harsh Jaiswal": [
+    {
+      "id": "FPT-4771",
+      "name": "[HAOBET77 MMK] membersite > change download apk link",
+      "type": "FPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "ONEBOARD-120",
+      "name": "ONEPG INTEGRATION",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "BPT-5226",
+      "name": "CHECK > FPAY CRYPTO (NPR) TURNOVER DISABLE",
+      "type": "BPT"
+    },
+    {
+      "id": "ONEBOARD-714",
+      "name": "CHECK > FPAY CRYPTO (NPR) TURNOVER DISABLE ",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "ONEBOARD-529",
+      "name": "CHECK > [DIS88] UNABLE DEPOSIT RAPIDPAY & PAYESSENCE (MYR)",
+      "type": "ONEBOARD"
+    },
+    {
+      "id": "BPT-5177",
+      "name": "INTEGRATION > AXISPAY - FUJI9 (BDT)",
+      "type": "BPT"
+    }
+  ],
+  "yuankang": [
+    {
+      "id": "BPT-5210",
+      "name": "INTEGRATION > SMILEPAY - JOLIBET (PHP)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5212",
+      "name": "[v3 BO] IBS-59732 why 8MBets(BDT) tournament no record",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5194",
+      "name": "[v3] guide new guys rebate module",
+      "type": "BPT"
+    }
+  ],
+  "Lim Jia Ming": [
+    {
+      "id": "FPT-4612",
+      "name": "[AFF] LAK > PGLAO",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4611",
+      "name": "[BOV3] LAK > PGLAO",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4675",
+      "name": "[BOV3] fix client side issue - 15",
+      "type": "FPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-4610",
+      "name": "[BOV1] LAK > PGLAO",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-3816",
+      "name": "[*DIS88*] membersite > change to jw8 (signup ,deposit ), and aw8 ( bottom menu bar)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3743",
+      "name": "INTEGRATION > THAISLIPPAY [GCWIN] (THB)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4677",
+      "name": "ADHOC - W45 - Zi Hui",
+      "type": "FPT"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-5223",
+      "name": "CHECK: CHANGE PG SEQUENCE - BETA191 (THB)",
+      "type": "BPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-4742",
+      "name": "[22FUN THB] Update domain setting",
+      "type": "FPT"
+    }
+  ],
+  "Aiswarya V V": [
+    {
+      "id": "BPT-5196",
+      "name": "V3 - BO - Finance/Withdraw Burn List Sorting Issue",
+      "type": "BPT"
+    }
+  ],
+  "arjun": [
+    {
+      "id": "BPT-4967",
+      "name": "OCV4 - check array_sum() not accepting string as a number",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5206",
+      "name": "trace-users-password",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5139",
+      "name": "Export issues ocv4",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5203",
+      "name": "Env: production (mamubaji) - /v2/member/get-promotion-history",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5185",
+      "name": "Export NewFlow need to implent get-transfer-refund-list",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5108",
+      "name": "Jw8 campaign",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5089",
+      "name": "campaign setting",
+      "type": "BPT"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5122",
+      "name": "[BO3] Mini Game setting to allow decimal places",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5147",
+      "name": "[ALL] Reward Event Token Release Info",
+      "type": "BPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "ONEBOARD-689",
+      "name": "ADD > YTECH SECRET KEY AND CALLBACK [THB INHOUSE]",
+      "type": "ONEBOARD"
+    }
+  ],
+  "Vijay Poovarasan": [
+    {
+      "id": "BPT-5162",
+      "name": "finance/third-party-platform-details",
+      "type": "BPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-4657",
+      "name": "[Nex789 THB] Update Domain Setting",
+      "type": "FPT"
+    }
+  ],
+  "Yc": [
+    {
+      "id": "BPT-5060",
+      "name": "INTEGRATION > FPAY (SPAY LATER) - WAWIN8",
+      "type": "BPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4717",
+      "name": "ADHOC - W45 - Deva",
+      "type": "FPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-4689",
+      "name": "ADHOC - W45 - Akash",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4679",
+      "name": "ADHOC - W45 - Manthan",
+      "type": "FPT"
+    }
+  ],
+  "Abdul Hai Siddiki Ansary": [
+    {
+      "id": "FPT-4672",
+      "name": "ADHOC - W45 - Abdul",
+      "type": "FPT"
+    }
+  ]
+}
