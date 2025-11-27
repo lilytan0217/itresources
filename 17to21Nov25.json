@@ -49,21 +49,6 @@
   },
   {
     "date": "2025-11-17",
-    "name": "Akash A",
-    "team": "FE",
-    "resource": "India",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-17",
     "name": "Allaudhin",
     "team": "BE",
     "resource": "India",
