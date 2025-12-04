@@ -273,26 +273,6 @@
   },
   {
     "date": "2025-11-24",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 4,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 50,
-        "ticket_id": "FR-11630",
-        "ticket_name": "[I828 THB] setup vip mall > need collect api to fire to their 3rd party"
-      },
-      {
-        "ticket_type": "IBS",
-        "contribution_percentage": 50,
-        "ticket_id": "IBS-60612"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-24",
     "name": "Harsh Jaiswal",
     "team": "FE",
     "resource": "India",
@@ -1214,27 +1194,6 @@
   },
   {
     "date": "2025-11-25",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 3,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 33.33,
-        "ticket_id": "FR-11474",
-        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
-      },
-      {
-        "ticket_type": "Internal",
-        "contribution_percentage": 66.67,
-        "ticket_id": "BPT-884",
-        "ticket_name": "\"Fix issue for staging mw99"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-25",
     "name": "Harsh Jaiswal",
     "team": "FE",
     "resource": "India",
@@ -1735,7 +1694,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 40,
         "ticket_id": "Others-1",
-        "description": "Patch Mini Games Report"
+        "description": "Patch Mini Game Report"
       }
     ]
   },
@@ -2178,38 +2137,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-26",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 20,
-        "ticket_id": "FR-11474",
-        "ticket_name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)"
-      },
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 20,
-        "ticket_id": "FR-11630",
-        "ticket_name": "[I828 THB] setup vip mall > need collect api to fire to their 3rd party"
-      },
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 20,
-        "ticket_id": "FR-11711",
-        "ticket_name": "[ALL Merchant] Tuning on the rebate release part"
-      },
-      {
-        "ticket_type": "IBS",
-        "contribution_percentage": 40,
-        "ticket_id": "IBS-60858"
       }
     ]
   },
@@ -3049,33 +2976,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-27",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 40,
-        "ticket_id": "FR-11956",
-        "ticket_name": "[ALL] Promotion Content Setting Tuning"
-      },
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 40,
-        "ticket_id": "FR-11711",
-        "ticket_name": "[ALL Merchant] Tuning on the rebate release part"
-      },
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 20,
-        "ticket_id": "FR-8493",
-        "ticket_name": "[All Bov3] Lucky Wheel settings to be separated into two tabs"
       }
     ]
   },
@@ -3947,39 +3847,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-28",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 3.5,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 57.14,
-        "ticket_id": "FR-11834",
-        "ticket_name": "\"[MAMUBAJI BDT"
-      },
-      {
-        "ticket_type": "NM",
-        "contribution_percentage": 14.29,
-        "ticket_id": "NM-880",
-        "ticket_name": "NPR > JB8"
-      },
-      {
-        "ticket_type": "NM",
-        "contribution_percentage": 14.29,
-        "ticket_id": "NM-881",
-        "ticket_name": "NPR > RW8"
-      },
-      {
-        "ticket_type": "NM",
-        "contribution_percentage": 14.29,
-        "ticket_id": "NM-879",
-        "ticket_name": "NPR > NEP9"
       }
     ]
   },
