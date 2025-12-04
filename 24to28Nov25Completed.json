@@ -1,0 +1,5573 @@
+[
+  {
+    "issueKey": "FPT-5027",
+    "summary": "[TK8 MYR] Register flow from Tkash remove autofill up FullName",
+    "assignee": "kartik",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5025",
+    "summary": "[Dis88 MYR] Change meta image",
+    "assignee": "kartik",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5024",
+    "summary": "[ALL] Fix Display Text to “xx/xx Deposit” in Promo Center Page",
+    "assignee": "kartik",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5023",
+    "summary": "[ALL VND] Change affiliate site content",
+    "assignee": "Danny YKC",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5022",
+    "summary": "[MS] [ALL] Mini Game Settings -> Scratcher Integration",
+    "assignee": "Max Tham",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5021",
+    "summary": "[BOV3] [ALL] Mini Game Settings -> Scratcher Integration",
+    "assignee": "YL LEE",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5020",
+    "summary": "[MS Performance] All Components Merchant`s Specific - MerchantFooter",
+    "assignee": "Christy Liu",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5019",
+    "summary": "[MS Performance] AFF apply aff_version by Pinia Store Method. In process to prep cloudfront caching",
+    "assignee": "Phoebe Mah",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5018",
+    "summary": "[MS Performance] Master BO Prep 50% and 25% game image folder. With initial fill up",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5016",
+    "summary": "[ALL BDT] Rename Button in Withdrawal Page",
+    "assignee": "kartik",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5015",
+    "summary": "[NPR8 NPR] Change Register/Login template and remove sign up OTP",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5014",
+    "summary": "[AFF] [Gojudi MYR] Membersite and affiliate page add Chinese language",
+    "assignee": "Ramya Gayala",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5013",
+    "summary": "[MS] [Gojudi MYR] Membersite and affiliate page add Chinese language",
+    "assignee": "Ramya Gayala",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5008",
+    "summary": "[JOLIBET PHP] Update membersite gif logo",
+    "assignee": "Vamshi",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5007",
+    "summary": "ADHOC - W49 - Sai",
+    "assignee": "Sai krishna",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5006",
+    "summary": "Add CRM2.0 function",
+    "assignee": "Danny YKC",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5005",
+    "summary": "[ALL MERCHANTS] Add “Reward Events” in Affiliate Generate Commission > Reward Bonus",
+    "assignee": "Vamshi",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5004",
+    "summary": "[EUROPE TEMPLATE] Tune “X” Close Button Colour",
+    "assignee": "Ramya Gayala",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-5000",
+    "summary": "[MS Performance] All Layouts Merchant`s Specific",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4999",
+    "summary": "[MS Performance] All Components Merchant`s Specific - MerchantMobileSidebar",
+    "assignee": "Christy Liu",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4997",
+    "summary": "[Spinex AUD] Change APK download Banner Logo",
+    "assignee": "Deep",
+    "manDays": "0.5",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4992",
+    "summary": "[ALL NPR] Member site > top referral banner change content",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4991",
+    "summary": "[AFF] [22WIN THB] Transfer the domain to THB",
+    "assignee": "Deep",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4990",
+    "summary": "[MS] [22WIN THB] Transfer the domain to THB",
+    "assignee": "Deep",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4989",
+    "summary": "ADHOC - W49 - Deva",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4988",
+    "summary": "[AFF] [AW8 KUSD] Membersite > Add Multi Language and country code",
+    "assignee": "Deep",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4987",
+    "summary": "[MS] [AW8 KUSD] Membersite > Add Multi Language and country code",
+    "assignee": "Deep",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4986",
+    "summary": "[JAGAT CUAN] Add floating ICON",
+    "assignee": "Vamshi",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4985",
+    "summary": "[AFF] NPR > RW8",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4984",
+    "summary": "[BOV3] NPR > RW8",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4983",
+    "summary": "[BOV1] NPR > RW8",
+    "assignee": "Danny YKC",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4982",
+    "summary": "[MS] NPR > RW8",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4981",
+    "summary": "[AFF] NPR > JB8",
+    "assignee": "Eason",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4980",
+    "summary": "[BOV3] NPR > JB8",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4979",
+    "summary": "[BOV1] NPR > JB8",
+    "assignee": "Danny YKC",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4978",
+    "summary": "[MS] NPR > JB8",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4977",
+    "summary": "[RICH996 AUD] membersite > homepage customization > refer MD88",
+    "assignee": "Raymond Tam",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4976",
+    "summary": "ADHOC - W49 - Vamshi",
+    "assignee": "Vamshi",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4975",
+    "summary": "[Rich996 AUD] Change mobile bottom menu bar icon",
+    "assignee": "Deep",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4974",
+    "summary": "[ALL] Seo footer add promo center at Categories",
+    "assignee": "Ramya Gayala",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4963",
+    "summary": "[FUJI9 BDT] Member site > Change signup/login template same as 8MBETS",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4961",
+    "summary": "[BOV3] fix client side issue - 34",
+    "assignee": "Vamshi",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4960",
+    "summary": "[BOV3] fix client side issue - 33",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4959",
+    "summary": "[BOV3] fix client side issue - 32",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4953",
+    "summary": "[ALL AUD] Remove checking for Pay ID",
+    "assignee": "Vamshi",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4952",
+    "summary": "[BOV3] sync convert image from blob to upload s3 function to all editor",
+    "assignee": "YL LEE",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4943",
+    "summary": "[MS] Reward Event - player retention enhancement",
+    "assignee": "Max Tham",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4935",
+    "summary": "[BO3] Reward Event - player retention enhancement",
+    "assignee": "YL LEE",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4932",
+    "summary": "[ALL] Update Claim Logic to “Claim Now” Button in Reward Center > Rebate Page",
+    "assignee": "Sai krishna",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4931",
+    "summary": "[BOV3] [RICH996 AUD ] membersite >add new inhouse feature and function",
+    "assignee": "Akash A",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4930",
+    "summary": "[ALL] Change promotion cancel outstanding bet logic",
+    "assignee": "Vamshi",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4927",
+    "summary": "[MS Performance] All Components Merchant`s Specific - MerchantMenuNav",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4926",
+    "summary": "[MS Performance] All Components Merchant`s Specific - MerchantTopBar",
+    "assignee": "Eason",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4922",
+    "summary": "[NEX191 Template] Add in OTP wording in Full Login/Signup Page",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4920",
+    "summary": "[ALL THB] membersite > plinko ball > no.3 th-th change to “เพื่อนฝากขั้นต่ำ 100 บาท“",
+    "assignee": "Max Tham",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4919",
+    "summary": "[BOV3] [ALL] Add Deposit promotion sequence on Promotion Code",
+    "assignee": "Ramya Gayala",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4911",
+    "summary": "[AW8 ] membersite > change primary colour to yellow",
+    "assignee": "Christy Liu",
+    "manDays": "3days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4908",
+    "summary": "[BOV3] fix client side issue - 24",
+    "assignee": "Vamshi",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4906",
+    "summary": "[BOV3] fix client side issue - 22",
+    "assignee": "Vamshi",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4904",
+    "summary": "[All Merchants] Display Exclude Turnover % List in Membersite > Bet History",
+    "assignee": "Danny YKC",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4903",
+    "summary": "[All Merchants] Mystery Box Pop Up “Back” Button Fix",
+    "assignee": "Sai krishna",
+    "manDays": "4h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4902",
+    "summary": "[PESOBET PHP] Update Domain Setting",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4900",
+    "summary": "[BO3] Reward Event Add New Mission - Daily Turnover",
+    "assignee": "YL LEE",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4894",
+    "summary": "[Zbet withdrawal] Add withdraw condition data",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4893",
+    "summary": "[DEBUG ENHANCE] Server side API issue Notifier",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4888",
+    "summary": "[ALL MERCHANTS] Affiliate site > Report, add a summary column in bottom",
+    "assignee": "Danny YKC",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4883",
+    "summary": "[AFF] [Champ191] Add New Currency",
+    "assignee": "Akash A",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4882",
+    "summary": "[MS] [Champ191] Add New Currency",
+    "assignee": "Akash A",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4878",
+    "summary": "[Zbet Deposit and withdraw] UI and color changes",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4877",
+    "summary": "[ALL] V1 Demolition",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4876",
+    "summary": "[MS Performance] - ALL <img> tag add loading=lazy",
+    "assignee": "Max Tham",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4868",
+    "summary": "[ALL] Add Activity point to lucky Spin top",
+    "assignee": "Danny YKC",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4867",
+    "summary": "[GCWin99] Modify GCWin99 UI",
+    "assignee": "Danny YKC",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4866",
+    "summary": "[v3 BO] activity report > provider instant rebate history's unable to load during initial access",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4864",
+    "summary": "[MS] Account Number Format Setting in BO3 > Bank List Setting",
+    "assignee": "Devendran M",
+    "manDays": "6h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4863",
+    "summary": "[BO3] Account Number Format Setting in BO3 > Bank List Setting",
+    "assignee": "Ramya Gayala",
+    "manDays": "5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4861",
+    "summary": "[MS] Reward Event Add New Mission - Verification Rewards",
+    "assignee": "Max Tham",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4860",
+    "summary": "[ASIAN REPO] eGames App Download UI",
+    "assignee": "Lim Jia Ming",
+    "manDays": "3days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4857",
+    "summary": "[BOV3] Multiple Master Tracker ID",
+    "assignee": "YL LEE",
+    "manDays": "3day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4856",
+    "summary": "[BO3] Reward Event Add New Mission - Verification Rewards",
+    "assignee": "YL LEE",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4853",
+    "summary": "[BOV3] Tune Mini Game Settings",
+    "assignee": "YL LEE",
+    "manDays": "5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4846",
+    "summary": "[MS] System Maintenance Setting",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4839",
+    "summary": "[BOV3] [All Transfer Merchant + BOv3]  Enable to Upload Custom Icon in BO3 > Promotion Code > Promotion Type Setting",
+    "assignee": "Deep",
+    "manDays": "5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4838",
+    "summary": "[ALL] DEPOSIT / WITHDRAWAL VERIFICATION",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4836",
+    "summary": "[All Deposit UI]Deposit page add recommended icon and terms and condition (remark)",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4835",
+    "summary": "[ALL Merchants] Standardize Alert Display",
+    "assignee": "Raymond Tam",
+    "manDays": "4days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4834",
+    "summary": "[ALL Merchants] Standardize Account Icon",
+    "assignee": "Eason",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4816",
+    "summary": "[BOV3] Domain Setup Automation part 1- Enhancing function transition",
+    "assignee": "YL LEE",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4806",
+    "summary": "[BOV3] fix client side issue - 21",
+    "assignee": "kartik",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4805",
+    "summary": "[BOV3] fix client side issue - 20",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4804",
+    "summary": "[I828 THB] setup vip mall > need collect api to fire to their 3rd party",
+    "assignee": "Leon",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4794",
+    "summary": "[ALL MERCHANTS] BO > Member Info > Wallet Transfer, add “All” features",
+    "assignee": "Akash A",
+    "manDays": "0.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4790",
+    "summary": "[MS Performance] - Fonts from,ttf otf to woff2 - 5 - Move to Public from Asset and format woff2",
+    "assignee": "Danny YKC",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4788",
+    "summary": "[BO] Add delete image function in promotion code",
+    "assignee": "Akash A",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4784",
+    "summary": "[MS Performance] - image webp - Part 2 - remove all unused png images",
+    "assignee": "Christy Liu",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4778",
+    "summary": "[RICH996 AUD] membersite > signup banner > shift the banner area to above the signup / login button",
+    "assignee": "HING ZI HUI",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4769",
+    "summary": "[MS Performance] - GTAG move to client side to reduce priority and render blocking",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4767",
+    "summary": "[BO3] Reward Event Enhancement",
+    "assignee": "YL LEE",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4766",
+    "summary": "[MS] Reward Event Enhancement",
+    "assignee": "Chen",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4744",
+    "summary": "[BOV3] Urgent request from PC mentioned is IBS55675 ticket",
+    "assignee": "Akash A",
+    "manDays": "4h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4739",
+    "summary": "[BOV3] fix client side issue - 18",
+    "assignee": "Akash A",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4738",
+    "summary": "[BOV3] fix client side issue - 17",
+    "assignee": "Akash A",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4730",
+    "summary": "[MS Enhancement] [ALL MERCHANTS] CHANGE NEW UI",
+    "assignee": "HING ZI HUI",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4729",
+    "summary": "[ALL] Change community pop up UI",
+    "assignee": "Eason",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4713",
+    "summary": "NEX855 - QPAY (THB) [CHANGE NEW API]",
+    "assignee": "HING ZI HUI",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4711",
+    "summary": "[Zbet Withdrawal] [RICH996 AUD ] membersite >add new inhouse feature and function",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4705",
+    "summary": "[BO3] Member Info > Member Verification's input field validation tuning",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4702",
+    "summary": "[MS Performance] - All .JSON file generated by BE that should have been .JSON.GZ listing - 3",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4701",
+    "summary": "[MS Performance] - All .JSON file generated by BE that should have been .JSON.GZ listing - 2",
+    "assignee": "Raymond Tam",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4697",
+    "summary": "[ALL] Mini Game Settings - Mini Game Preview",
+    "assignee": "YL LEE",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4693",
+    "summary": "[MS Performance] - Fonts from,ttf otf to woff2 - 4",
+    "assignee": "Vamshi",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4692",
+    "summary": "V3 BO > ADD NEW WALLET TYPE E-WALLET",
+    "assignee": "kartik",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4691",
+    "summary": "[ALL] BO > HYPERLINK DEPOSIT / WITHDRAWAL DISPLAY 3RD PARTY ERROR MESSAGE",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4687",
+    "summary": "[MS Performance] - getGames call only when every category is traversed. IE the category page route",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4683",
+    "summary": "[MS Performance] - Fonts from,ttf otf to woff2 - 3",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4682",
+    "summary": "[MS Performance] - Fonts from,ttf otf to woff2 - 2",
+    "assignee": "Deep",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4671",
+    "summary": "[MS Performance] - Fonts from,ttf otf to woff2 - 1",
+    "assignee": "Ramya Gayala",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4664",
+    "summary": "[ALL Merchant] Tuning on the rebate release part",
+    "assignee": "Ramya Gayala",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4659",
+    "summary": "[ALL BOv3] Cloudflare checking on and off button",
+    "assignee": "Deep",
+    "manDays": "4h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4658",
+    "summary": "[MS Performance] - Middleware move to page to reduce initial load of guards",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4652",
+    "summary": "[MS Performance] - WaitFor polling mechanism to wait for window variables and every other variable which not suitable to use watch",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4643",
+    "summary": "[MS Performance] - All .JSON file generated by BE that should have been .JSON.GZ listing - 1",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4629",
+    "summary": "[MS Performance] - Master BO Image compression and to webp and dedicated folder for under 20kb webp",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4623",
+    "summary": "[MS Performance] - SEO speed enhancement",
+    "assignee": "Raymond Tam",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4621",
+    "summary": "[MS Performance] - Check and Only load Component after login for those required after login",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4620",
+    "summary": "[MS Performance] - mobilesidebar component set number 0 folder",
+    "assignee": "Raymond Tam",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4606",
+    "summary": "[BOV3] AUD > RICH996",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4604",
+    "summary": "[BOV1] AUD > RICH996",
+    "assignee": "YL LEE",
+    "manDays": "0.5H",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4602",
+    "summary": "[MS] AUD > RICH996",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4598",
+    "summary": "[MS] [ALL] Enhance for membersite General display setting",
+    "assignee": "Leon",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4597",
+    "summary": "[BOV3] [ALL] Enhance for membersite General display setting",
+    "assignee": "Leon",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4573",
+    "summary": "[MS Performance] - SEO Standard Enhancement - seobility",
+    "assignee": "Raymond Tam",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4568",
+    "summary": "[MS Performance] - [Sync] Static assets logo to all transfer repo",
+    "assignee": "Ramya Gayala",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4563",
+    "summary": "[MS Performance] - Image sent protocol and domain / MMK region handling of cloudfront",
+    "assignee": "Danny YKC",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4556",
+    "summary": "[JAYABAJI BDT NPR] membersite > change homepage contact display",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "8h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4554",
+    "summary": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4547",
+    "summary": "[MS] [ALL] Promotion Content – “Claim Now” Button Logic Update",
+    "assignee": "HING ZI HUI",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4541",
+    "summary": "[JW8 INR] Add telegram casino signup/login bot",
+    "assignee": "Leon",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4536",
+    "summary": "[MS Performance] - json file dont wait Dashboard API, use locale.value to get the currency",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4529",
+    "summary": "[MS Performance] - Links with discernible name",
+    "assignee": "Max Tham",
+    "manDays": "20 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4528",
+    "summary": "[MS Performance] - All Button reader friendly",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4505",
+    "summary": "[MS] [ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit",
+    "assignee": "Danny YKC",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4504",
+    "summary": "[BOV3] [ALL IN-HOUSE] Lucky Spin - Remove Numbers & Add Prize Name Character Limit",
+    "assignee": "Danny YKC",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4493",
+    "summary": "[Master BO] finance report page & download page",
+    "assignee": "Danny YKC",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4492",
+    "summary": "Reward widget draggable and save position (R&D)",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4490",
+    "summary": "[BOV3] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4489",
+    "summary": "[MS] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4484",
+    "summary": "[ALL] Telegram Casino Auto Registration Flow",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4476",
+    "summary": "[22FUN, JW8,MSSLOT, MAFA191,22WIN, SPEEDAU2, ROOKING, 1JUDI, TK8, WPX88, SIAM191, BETA191] Setup Affiliate Site",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4466",
+    "summary": "[MS] [ALL] Middleware enhancement",
+    "assignee": "Raymond Tam",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4430",
+    "summary": "[ALL NEX template] Change VIP UI for mobile view",
+    "assignee": "Raymond Tam",
+    "manDays": "5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4414",
+    "summary": "[MS] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module - part 2",
+    "assignee": "HING ZI HUI",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4388",
+    "summary": "[ALL] Restructure Member Site Account",
+    "assignee": "Eason",
+    "manDays": "4h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4352",
+    "summary": "[AW8 THB] Add telegram casino signup/login bot",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4344",
+    "summary": "[JW8 THB] Add telegram casino signup/login bot",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4321",
+    "summary": "[ALL] Add Favorite Game (bookmark) feature",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4298",
+    "summary": "[AFF] [ALL BO3] Affiliate Favicon Function",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "1h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4297",
+    "summary": "[BOV3] [ALL BO3] Affiliate Favicon Function",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4295",
+    "summary": "[BOV3] Provider Setting (Bug Fixing and Tuning) - Phase 1",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "4h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4291",
+    "summary": "[BO] [ALL BO3] Affiliate Logo Function",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4290",
+    "summary": "[AFF] [ALL BO3] Affiliate Logo Function",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "1.5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4286",
+    "summary": "[BOV3] Web Featured Game (Bug Fixing and Tuning) - Phase 2",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4285",
+    "summary": "[BOV3] Web Featured Game (Bug Fixing and Tuning) - Phase 1",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4239",
+    "summary": "[AFF] [Overview Page] master affiliate function > add key words to identify the source of each affiliate",
+    "assignee": "Eason",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4238",
+    "summary": "[BOV3] [Keyword Page] master affiliate function > add key words to identify the source of each affiliate",
+    "assignee": "Leon",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4237",
+    "summary": "[AFF] [Keyword Page] master affiliate function > add key words to identify the source of each affiliate",
+    "assignee": "Eason",
+    "manDays": "5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4236",
+    "summary": "[MS] master affiliate function > add key words to identify the source of each affiliate",
+    "assignee": "HING ZI HUI",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4235",
+    "summary": "[BOV3] [Listing] master affiliate function > add key words to identify the source of each affiliate",
+    "assignee": "Leon",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4234",
+    "summary": "[AFF] [Report] master affiliate function > add key words to identify the source of each affiliate",
+    "assignee": "Eason",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4228",
+    "summary": "[JW8 NPR] Add telegram casino signup/login bot",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4222",
+    "summary": "[JW8 BDT] Add telegram casino signup/login bot",
+    "assignee": "Chen",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4193",
+    "summary": "move 22fun template into asia template",
+    "assignee": "Raymond Tam",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4186",
+    "summary": "[BOV3] [ALL] Exclude Turnover Percentage in Casino Setting > Game List",
+    "assignee": "Eason",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4183",
+    "summary": "[MS] Shared Service Worker -> Socket Connection base",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4174",
+    "summary": "[JW8, AW8] Integrate telegram casino bot",
+    "assignee": "Chen",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4147",
+    "summary": "[BO3] Update BO Login Authentication Flow – Add PW/GA Switch",
+    "assignee": "Max Tham",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4146",
+    "summary": "[BO1] Update BO Login Authentication Flow – Add PW/GA Switch",
+    "assignee": "Danny YKC",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4136",
+    "summary": "[BOV3] Domain Setup Automation part 1- Config NS",
+    "assignee": "Phoebe Mah",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4102",
+    "summary": "[MS] [V3] TEMU Event Mission (Test Application method / limitation / data requirement if any)",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4100",
+    "summary": "[ALL INHOUSE] Cashback MS tuning - Adding countdown timer",
+    "assignee": "kartik",
+    "manDays": "4days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4047",
+    "summary": "[BO3] Deposit and Withdrawal details pop-up revamp",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4046",
+    "summary": "[ALL MERCHANTS] Apply Unique Default Meta Titles for Each Game Providers",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4045",
+    "summary": "[ALL THB] Name checker and full name tunings",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4018",
+    "summary": "NEW UI AND REQUIRES FE TO ASSIST TO PASS NEW PARAMS TO BE (WON66) > DIREPAY",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4017",
+    "summary": "[ALL MS] Signup and Forget password add cloudflare captcha checking",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4010",
+    "summary": "[MS] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+    "assignee": "YL LEE",
+    "manDays": "16H",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-4004",
+    "summary": "[BOV3] Build Enhance",
+    "assignee": "Lim Jia Ming",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3998",
+    "summary": "[ALL] Enhance Rebate Page’s UI to Include Countdown Timer",
+    "assignee": "HING ZI HUI",
+    "manDays": "4 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3983",
+    "summary": "[BO3] Add “Go to ( ) Page” Feature in BO3 > Table Listing",
+    "assignee": "Akash A",
+    "manDays": "4h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3956",
+    "summary": "[BOV3] VIP setting default Number Fields to 0 if Empty",
+    "assignee": "YL LEE",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3940",
+    "summary": "[BOV3] Implement Expired Status",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3918",
+    "summary": "[*ALL THB*] membersite > Express deposit QR code photo upload, change to size 660x931",
+    "assignee": "Deep",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3883",
+    "summary": "[BO3] Add Registration IP Filter for All Promotions & Bonuses",
+    "assignee": "YL LEE",
+    "manDays": "6h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3877",
+    "summary": "[BO3] System Maintenance Setting",
+    "assignee": "HING ZI HUI",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3874",
+    "summary": "[BO3] Add Withdrawal Events in BO3 > CMS > Frontend Setting > Tracker (D)",
+    "assignee": "Sai krishna",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3873",
+    "summary": "[BO3] Add “Initiate Checkout” Events in BO3> CMS > Frontend Setting > Tracker (C)",
+    "assignee": "Sai krishna",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3872",
+    "summary": "[BO3] Add “Launch Game” Events in BO3> CMS > Frontend Setting > Tracker (B)",
+    "assignee": "Sai krishna",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3871",
+    "summary": "[BO3] Add “Login” Events in BO3> CMS > Frontend Setting > Tracker (A)",
+    "assignee": "Sai krishna",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3870",
+    "summary": "[All Nex Template] Coin fly animation during claiming reward center",
+    "assignee": "Lim Jia Ming",
+    "manDays": "3days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3867",
+    "summary": "[ZBET Deposit] Animation transition effect between pages",
+    "assignee": "Deep",
+    "manDays": "3days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3838",
+    "summary": "[BOV3] Maintenance Setting Page",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "FE 3 hr",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3829",
+    "summary": "[BOV3] Telegram Bot Management",
+    "assignee": "YL LEE",
+    "manDays": "2.5days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3791",
+    "summary": "[BOV3] Deposit Modal Fix",
+    "assignee": "Deep",
+    "manDays": "1 Hr",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3789",
+    "summary": "[AFF] THB > SIAM191 (Transfer)",
+    "assignee": "Vamshi",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3787",
+    "summary": "[BOV1] THB > SIAM191 (Transfer)",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3786",
+    "summary": "[MS] THB > SIAM191 (Transfer)",
+    "assignee": "HING ZI HUI",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3710",
+    "summary": "[MS] Dynamic Environment Config for Domain, Sub Domain and its related settings on Runtime",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3709",
+    "summary": "[AFF] sync new upload js to aff transfer & seamless",
+    "assignee": "Deep",
+    "manDays": "3h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3617",
+    "summary": "[ALL MERCHANTS] BO deposit method display setting",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3615",
+    "summary": "[ALL MERCHANTS] Enhancement in BO > Cashback received record",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3614",
+    "summary": "[ALL MERCHANTS] Enhancement in BO > journey mission bonus received record",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3613",
+    "summary": "[ALL MERCHANTS] Rebate Enhancement on release date and time",
+    "assignee": "Sai krishna",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3611",
+    "summary": "[ALL MERCHANTS] Currency on/off setting in BO. (Drafting Requirement)",
+    "assignee": "Danny YKC",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3587",
+    "summary": "[BO V3] Auto Removal Setting for Withdrawal Conditions",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3478",
+    "summary": "[BOV3] [OUTSIDER] Random Rebate Enhancement",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3474",
+    "summary": "[BOV3] [OUTSIDER] Weekly, Monthly, Random & Manual Rebate",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3469",
+    "summary": "[MS] [OUTSIDER] Add a Reward Center page to the member site",
+    "assignee": "kartik",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3455",
+    "summary": "[BO3] Enable Bet History “Eye” Action for Selected Providers in BO3",
+    "assignee": "Ramya Gayala",
+    "manDays": "5days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3428",
+    "summary": "[BOV3] Domain Setup Automation part 1- Config NS",
+    "assignee": "Danny YKC",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3401",
+    "summary": "[ALL MERCHANTS] Member Site > Dynamic Display of “Type” Filter Option in the Referral / Invite Friends Page",
+    "assignee": "Eason",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3305",
+    "summary": "[BOV3] Enable BO able to View & Control for Infra-Side Blocked IPs",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3302",
+    "summary": "[ALL OUTSIDER] Reward Center Before Login in Mobile View",
+    "assignee": "kartik",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3239",
+    "summary": "[BOV3] Enhancement for Logo & Favicon Upload Features",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3238",
+    "summary": "[MS] Enhancement for Logo & Favicon Upload Features",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3234",
+    "summary": "[BOV3] [TK8 & M3] Enhancement for Agent Cross Level Share Assignment",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3228",
+    "summary": "[AFF] Enable/Disable 2FA Login Setting in BO3 > Affiliate > Affiliate List",
+    "assignee": "Leon",
+    "manDays": "1days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3189",
+    "summary": "[MS] Enhancement in BO3 > SEO Metadata",
+    "assignee": "Vamshi",
+    "manDays": "1day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3188",
+    "summary": "[BO3] Enhancement in BO3 > SEO Metadata",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "4days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3179",
+    "summary": "[BOV3] [TK8] Enhancement for update referral flow",
+    "assignee": "Akash A",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3161",
+    "summary": "[AFF] THB > Mafa99",
+    "assignee": "Ramya Gayala",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3160",
+    "summary": "[BOV3] THB > Mafa99",
+    "assignee": "Ramya Gayala",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3159",
+    "summary": "[BOV1] THB > Mafa99",
+    "assignee": "Danny YKC",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3158",
+    "summary": "[MS] THB > Mafa99",
+    "assignee": "Ramya Gayala",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3149",
+    "summary": "[AFF] THB > Mafa168",
+    "assignee": "YL LEE",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3148",
+    "summary": "[BOV3] THB > Mafa168",
+    "assignee": "YL LEE",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3147",
+    "summary": "[BOV1] THB > Mafa168",
+    "assignee": "YL LEE",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3146",
+    "summary": "[MS] THB > Mafa168",
+    "assignee": "YL LEE",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3107",
+    "summary": "[BO3] Enable/Disable 2FA Login Setting in BO3 > Affiliate > Affiliate List",
+    "assignee": "Leon",
+    "manDays": "2days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3008",
+    "summary": "[BOV3] THB > NEX212",
+    "assignee": "Vamshi",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3007",
+    "summary": "[BOV1] THB > NEX212",
+    "assignee": "YL LEE",
+    "manDays": "3 Days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-3006",
+    "summary": "[MS] THB > NEX212",
+    "assignee": "Vamshi",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2943",
+    "summary": "[ALL] Task need sync to all merchant 4. Choose bank need show bank image.",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "FE - 7days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2846",
+    "summary": "[MS] Server Layer Api Caching",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2703",
+    "summary": "[ALL] Enhancement in Affiliate Site : Dynamic Member & Member Register URL",
+    "assignee": "Leon",
+    "manDays": "5h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2695",
+    "summary": "[Merchants Who Have the Referral Dashboard] Request for UI to Display Multiple Referral Commission Rates",
+    "assignee": "kartik",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2686",
+    "summary": "[V2] Membersite - deposit data comparison and sync up with BE",
+    "assignee": "YL LEE",
+    "manDays": "4h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2625",
+    "summary": "[MS] Tracking Enhancement",
+    "assignee": "Chen",
+    "manDays": "2 day (14hour)",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2624",
+    "summary": "[BO V3] Tracking Enhancement",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "1 day (7hour)",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2511",
+    "summary": "[V2] Membersite - deposit page enhancement to plan and mix all style in same array pattern",
+    "assignee": "YL LEE",
+    "manDays": "16hour",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2280",
+    "summary": "[MS] VIP Club - Tournament",
+    "assignee": "Danny YKC",
+    "manDays": "2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2279",
+    "summary": "[MS] VIP Club - VIP",
+    "assignee": "Danny YKC",
+    "manDays": "3 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2278",
+    "summary": "[MS] VIP Club - Lucky Spin",
+    "assignee": "Danny YKC",
+    "manDays": "2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2277",
+    "summary": "[MS] VIP Club - Profile(6 Page)",
+    "assignee": "Devendran M",
+    "manDays": "10d",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2276",
+    "summary": "[MS] VIP Club - Play Now",
+    "assignee": "Danny YKC",
+    "manDays": "2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2275",
+    "summary": "[MS] VIP Club - My Cart",
+    "assignee": "Phoebe Mah",
+    "manDays": "2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2181",
+    "summary": "[BOV3] Promotion Setting BO UI Changes",
+    "assignee": "Harsh Jaiswal",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2175",
+    "summary": "[MS] VIP Club - Cashback",
+    "assignee": "Phoebe Mah",
+    "manDays": "2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2174",
+    "summary": "[MS] VIP Club - Mission",
+    "assignee": "Danny YKC",
+    "manDays": "3 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2173",
+    "summary": "[MS] VIP Club - Reedem Gift",
+    "assignee": "Phoebe Mah",
+    "manDays": "2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2172",
+    "summary": "[MS] VIP Club - Login & Reset password",
+    "assignee": "Devendran M",
+    "manDays": "3d",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2171",
+    "summary": "[MS] VIP Club - Home",
+    "assignee": "Devendran M",
+    "manDays": "3d",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2170",
+    "summary": "[MS] VIP Club - Header & Footer & Menu nav",
+    "assignee": "Devendran M",
+    "manDays": "1.5d",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2169",
+    "summary": "[MS] VIP Club - Merchant Setup",
+    "assignee": "Devendran M",
+    "manDays": "2d",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2168",
+    "summary": "[BO] VIP Club - System Setting",
+    "assignee": "Deep",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2167",
+    "summary": "[BO] VIP Club - Cashback",
+    "assignee": "Deep",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2166",
+    "summary": "[BO] VIP Club - Mission",
+    "assignee": "Akash A",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2165",
+    "summary": "[BO] VIP Club - Lucky Wheel",
+    "assignee": "Deep",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2164",
+    "summary": "[BO] VIP Club - Mall",
+    "assignee": "Deep",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2163",
+    "summary": "BO3 -[BO] VIP Club - Tournament",
+    "assignee": "Akash A",
+    "manDays": "1.5 Day",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2162",
+    "summary": "[BO] VIP Club - VIP",
+    "assignee": "Akash A",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2161",
+    "summary": "BO3 - [BO] VIP Club - Member",
+    "assignee": "Deep",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2160",
+    "summary": "BO3 - [BO] VIP Club - Merchant",
+    "assignee": "Akash A",
+    "manDays": "1.5 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2120",
+    "summary": "[V2] Membersite - merge in jolibet asia template (register page)",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2063",
+    "summary": "[V2] Membersite - merge in msslot template big589 repo (login & register)",
+    "assignee": "Leon",
+    "manDays": "5days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2037",
+    "summary": "[V2] Membersite - merge in aw8 asia template (mobile gamepage)",
+    "assignee": "Leon",
+    "manDays": "3days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2036",
+    "summary": "[V2] Membersite - merge in aw8 asia template (homepage)",
+    "assignee": "Leon",
+    "manDays": "5days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2035",
+    "summary": "[V2] Membersite - merge in fuji9 asia template (deposit page)",
+    "assignee": "YL LEE",
+    "manDays": "1.5 hour",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2029",
+    "summary": "[AFF] THB > Mafa212",
+    "assignee": "Leon",
+    "manDays": "3",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2025",
+    "summary": "[MS] THB > Mafa212",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2024",
+    "summary": "[BOV3] THB > Mafa212",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-2019",
+    "summary": "[BOV1] THB > Mafa212",
+    "assignee": "Danny YKC",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1997",
+    "summary": "[V2] Membersite - check template merchants for different components (big589 repo)",
+    "assignee": "Leon",
+    "manDays": "1",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1996",
+    "summary": "[V2] Membersite - check template merchants for different components (asia repo)",
+    "assignee": "Leon",
+    "manDays": "1",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1970",
+    "summary": "Master BO add update game list function",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1959",
+    "summary": "[V2] Membersite - merge in powerlah asia template (deposit page)",
+    "assignee": "Leon",
+    "manDays": "3days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1958",
+    "summary": "[V2] Membersite - merge in dis88 asia template (video section)",
+    "assignee": "Leon",
+    "manDays": "2h",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1946",
+    "summary": "[ALL] Implement Laive Chat in all merchants MS",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1937",
+    "summary": "[V2] Membersite - merge in 8mbets asia template (mobile sidebar)",
+    "assignee": "Leon",
+    "manDays": "2",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1936",
+    "summary": "[V2] Membersite - merge in gojudi repo (mobile account page)",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1841",
+    "summary": "[V2] Membersite - merge in gcwin asia template (mobile gamepage category)",
+    "assignee": "YL LEE",
+    "manDays": "1hour",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1840",
+    "summary": "[V2] Membersite - merge in gcwin asia template (mobile gamepage)",
+    "assignee": "YL LEE",
+    "manDays": "1hour",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1838",
+    "summary": "[V2] Membersite - merge in gcwin asia template (mobile homepage)",
+    "assignee": "Leon",
+    "manDays": "1",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1837",
+    "summary": "[BOV3] Multiple spin wheels and VIP level entitlement for each spin wheel setting",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1836",
+    "summary": "[BOV3] Multiple spin wheels and VIP level entitlement for each spin wheel setting",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1801",
+    "summary": "[V2] Membersite - merge in gojudi repo (mobile home)",
+    "assignee": "Leon",
+    "manDays": "3",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1778",
+    "summary": "[V2] Membersite - vue page clean up",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1763",
+    "summary": "[ALL] Implement Laive Chat in all merchants BO",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1751",
+    "summary": "[V2] Membersite - multiple login component",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1739",
+    "summary": "[V2] Membersite - merge in gojudi repo (deposit page)",
+    "assignee": "YL LEE",
+    "manDays": "1 hour",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1738",
+    "summary": "[V2] Membersite - merge in gojudi repo (dashboard sidebar)",
+    "assignee": "YL LEE",
+    "manDays": "2",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1735",
+    "summary": "[V2] Membersite - merge in gojudi repo (partnership page)",
+    "assignee": "Leon",
+    "manDays": "3",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1732",
+    "summary": "[V2] Membersite - merge in big589 repo (withdrawal modal)",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1731",
+    "summary": "[V2] Membersite - add slackbot alert to channel (API error)",
+    "assignee": "YL LEE",
+    "manDays": "30min",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1730",
+    "summary": "[V2] Membersite - add slackbot alert to channel (APP error)",
+    "assignee": "YL LEE",
+    "manDays": "30min",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1729",
+    "summary": "[V2] Membersite - implement v3 member site api",
+    "assignee": "Leon",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1727",
+    "summary": "[V2] Membersite - merge in gojudi repo (register & login page)",
+    "assignee": "Leon",
+    "manDays": "5",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1726",
+    "summary": "[V2] Membersite - merge in big589 repo (deposit modal)",
+    "assignee": "YL LEE",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1723",
+    "summary": "[V2] Membersite - create general function for local storage data",
+    "assignee": "YL LEE",
+    "manDays": "2",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1683",
+    "summary": "[CLONE] Philucky07 - 03",
+    "assignee": "kartik",
+    "manDays": "5",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1679",
+    "summary": "[MS] THB > Playxos Template 5",
+    "assignee": "Chen",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1678",
+    "summary": "[MS] THB > Philucky",
+    "assignee": "Devendran M",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1635",
+    "summary": "[CLONE] Philucky07 - 02",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1537",
+    "summary": "[Beta 191] UI Tuning",
+    "assignee": "kartik",
+    "manDays": "3 hours",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1434",
+    "summary": "[Beta191- Priority, then sync to ALL] Payment method sequence and pre-fix amount by last deposit",
+    "assignee": "kartik",
+    "manDays": "FE - 4 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1403",
+    "summary": "[All Bov3] Lucky Wheel settings to be separated into two tabs",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "4 hours + 4 hours (api enhancement)",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1353",
+    "summary": "[BETA191] Deposit apply promotion flow",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-1310",
+    "summary": "ADHOC - W49 - Vivaswan",
+    "assignee": "Vivaswan Kurwatti",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-779",
+    "summary": "[ALL V3] Add on/off button in BO > VIP mode > VIP display settings > VIP info",
+    "assignee": "Abdul Hai Siddiki Ansary",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-732",
+    "summary": "BO - [ALL V3] CMS Enhancement",
+    "assignee": "kartik",
+    "manDays": "FE - 2 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-293",
+    "summary": "[BOV3] [ALL V3] Add 'Second Time Deposit' and 'Second and Further Deposit' into Affiliate Postback URL function",
+    "assignee": "Sai krishna",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "FPT-291",
+    "summary": "[AFF] [ALL] Data Tuning to the Affiliate Site",
+    "assignee": "Phoebe Mah",
+    "manDays": "3 days",
+    "status": "",
+    "created": "",
+    "team": "FE"
+  },
+  {
+    "issueKey": "BPT-5472",
+    "summary": "[ALL] Reward Event > Leaderboard Data",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5470",
+    "summary": "[ALL] Remember the Password (Membersite Login)",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5469",
+    "summary": "[ALL] Show Masking Email/Phone During Edit",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5468",
+    "summary": "[ALL] Regenerating menu.json from BO > Web Feature Game",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5463",
+    "summary": "V3 Membersite API - L12",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5462",
+    "summary": "[BOV3] Implement Expired Status For Frontend banner, Provider Maintenance, Message, Reward Event",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5461",
+    "summary": "[BOV3] Implement Expired Status For Rebate, Lucky Wheel, Angpao and Tournament",
+    "assignee": "Eric Hong",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5450",
+    "summary": "[Gojudi MYR] Membersite and affiliate page add Chinese language",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5449",
+    "summary": "[TK8 MYR] Register flow from Tkash remove autofill up FullName",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5448",
+    "summary": "BOV3 -> Vip -> Vip Settings -> Daily Aid Setting",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5445",
+    "summary": "[v3 demolition] member > wallet transfer > uncertain transfer's loading speed is relatively slow compare to bo1",
+    "assignee": "Eric Hong",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5435",
+    "summary": "[NPR8 NPR] Change Register/Login template and remove sign up OTP",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5434",
+    "summary": "BOV3 - Promotion code -> add status Expired",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5433",
+    "summary": "ADD > DGPAY (SGD) ADD PAYNOW QR DEPOSIT METHOD [AW8 & JW8]",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5432",
+    "summary": "[ALL] Category JSON Tuning",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5425",
+    "summary": "[ALL MERCHANTS] Add “Reward Events” in Affiliate Generate Commission > Reward Bonus",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5424",
+    "summary": "Membersite API Impliment Batch - 8",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5423",
+    "summary": "[ALL] Mini Game Settings -> Scratcher Integration",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5422",
+    "summary": "BOv3 - update getProvider.json.gz instantly to s3.",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5419",
+    "summary": "[AW8 KUSD] Membersite > Add Multi Language and country code",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5418",
+    "summary": "[22WIN PHP THB]",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5417",
+    "summary": "[22WIN PHP THB]",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5416",
+    "summary": "[v3 demolition] Round 2 tune. Finance management > bank details loading slow",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5413",
+    "summary": "[IBS-61017] Chokfa88 - BO/MS slow issue - urgent",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5412",
+    "summary": "[ALL] Rename search filter/title & add payment channel to the search filter in BO > deposit & deposit gateway pending list",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5411",
+    "summary": "[ALL] Seo footer add promo center at Categories",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5410",
+    "summary": "NPR > NEP9",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5408",
+    "summary": "[ALL] Change promotion cancel outstanding bet logic",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5407",
+    "summary": "Member-site APIs 28-11-2025 part - 7",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5406",
+    "summary": "NPR > RW8",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5404",
+    "summary": "NPR > JB8",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5403",
+    "summary": "[IBS-60950 ] title : V3 - BO - God855 - Referral Summary Report issue",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5402",
+    "summary": "INTEGRATION > PAYPAY - JW8 (INR)",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5401",
+    "summary": "[All Zbet] Apply promotion deposit logic tuning",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5400",
+    "summary": "INTEGRATION > TOPPAY 原生 - JOLIBET (PHP)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5397",
+    "summary": "[All]Promotion lock deposit tuning",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5395",
+    "summary": "[All Merchant] BO > Maintenance> Game Provider Maintenance > Add Last Modified At and Last Modified By",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5394",
+    "summary": "v3BO - Lucky Wheel -> Lucky Wheel Setting ->Activity Point Expired Time",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5393",
+    "summary": "[FUJI9 BDT] Member site > Change signup/login template same as 8MBETS",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5388",
+    "summary": "v3BO - get-promotion-category-providers-option",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5387",
+    "summary": "Daily activity 27-11-2025",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5384",
+    "summary": "npr8 prod issues",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5383",
+    "summary": "INTEGRATION > WINFAPAY - AW8 (MYR)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5381",
+    "summary": "[ALL MERCHANTS] Member Site > Dynamic Display of “Type” Filter Option in the Referral / Invite Friends Page",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5379",
+    "summary": "INTEGRATION > WINFAPAY - AW8 (MYR)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5374",
+    "summary": "BOV3 - Generate menu.json.gz file not update.",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5373",
+    "summary": "CHECK > PAYNOW CHANGE SEQUENCE TO NO.2 (SGD) [JW8]",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5367",
+    "summary": "[BO3] Reward Event - player retention enhancement",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5366",
+    "summary": "[v3 demolition] affiliate all member report optimization",
+    "assignee": "Eric Hong",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5357",
+    "summary": "[NEX191 Template] Add in OTP wording in Full Login/Signup Page",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5356",
+    "summary": "INTEGRATION > UPDATE API VERSION QUIKPAY [MOOVEBET]",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5355",
+    "summary": "[ALL] Add Deposit promotion sequence on Promotion Code",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5343",
+    "summary": "INTEGRATION > HQPAY - SIAM855 (THB)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5336",
+    "summary": "[All template] Sync zbet changes to all deposit UI",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5334",
+    "summary": "[All] Setting Required OTP and PIN During Add Bank/Ewallet/Crypto Account",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5332",
+    "summary": "[BO3] Reward Event Add New Mission - Daily Turnover",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5331",
+    "summary": "[AW8 VND] Change notice text language",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5327",
+    "summary": "[All] Setting Required OTP and PIN During Add Bank/Ewallet/Crypto Account",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5324",
+    "summary": "[Zbet withdrawal] Add withdraw condition data",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5322",
+    "summary": "INTEGRATION > H88PAY - JOLIBET (PHP)",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5321",
+    "summary": "INTEGRATION > AW8 - H88PAY (VND)",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5320",
+    "summary": "[ALL MERCHANTS] Affiliate site > Report, add a summary column in bottom",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5317",
+    "summary": "INTEGRATION > JW8 - H88PAY (INR)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5316",
+    "summary": "INTEGRATION > JW8 - H88PAY (PKR)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5314",
+    "summary": "INTEGRATION > JW8 - H88PAY (BDT)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5309",
+    "summary": "[ALL MERCHANTS] BO > Member Info > Wallet Transfer, add “All” features",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5304",
+    "summary": "[Champ191] Add New Currency",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5298",
+    "summary": "[BOV3] Campaign Condition in Meta Pixel Setting",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5297",
+    "summary": "[BOV3] Multiple Master Tracker ID",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5295",
+    "summary": "INTEGRATION > EPICPAY - AW8 (MYR)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5294",
+    "summary": "Guide yuankang, yiying, chongbao for integrate one pg",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5292",
+    "summary": "[BO3] Reward Event Add New Mission - Verification Rewards",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5290",
+    "summary": "[BOV3] Tune Mini Game Settings",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5289",
+    "summary": "[JW8 SGD] provide API for merchant to do",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5284",
+    "summary": "CHAUNX - NPR8 V2 (NPR)",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5283",
+    "summary": "[JW8 MYR] provide API for merchant to do",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5282",
+    "summary": "Tune for membersite v1 cashback claim all api",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5280",
+    "summary": "[BO3] Account Number Format Setting in BO3 > Bank List Setting",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5277",
+    "summary": "INTEGRATION > H88PAY - NEX8 (MMK)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5276",
+    "summary": "INTEGRATION > TANGOPAY - NEX8 (MMK)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5273",
+    "summary": "INTEGRATION > 9MPAY - NEX8 (MMK)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5270",
+    "summary": "BO - V3 - Casino Setting -> Web Featured Game",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5266",
+    "summary": "Add turnover checking",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5257",
+    "summary": "22win php migration",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5254",
+    "summary": "INTEGRATION > CYPAY - AW8 (VND)",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5246",
+    "summary": "Setup Champ999 staging",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5244",
+    "summary": "CHUANX - BETPLUSX (KUSD)",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5236",
+    "summary": "Finance Management -> Withdraw",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5235",
+    "summary": "[BOv3 ALL] Withdrawal and Deposit Remarks Tagging Setting",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5222",
+    "summary": "INTEGRATION > TOPPAY 仿原生 - JOLIBET (PHP)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5216",
+    "summary": "V3 - BO - Referral -> Referral Settings -> Edit Referral Setting",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5215",
+    "summary": "BO-V3 : Instant Rebate Log MongoDB error",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5213",
+    "summary": "Affiliate Contact Setting",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5209",
+    "summary": "PG > ONEPG ENHANCEMENT",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5208",
+    "summary": "Promotion->Promotion Code->Promotion Type Settings ->Add",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5202",
+    "summary": "V3 - BO - Finance Management->Merchant Bank Settings->Third Party Payment Platform",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5189",
+    "summary": "Finance for Oct",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5186",
+    "summary": "[ALL] Reward Event Token Tally Enhancement (with provider)",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5181",
+    "summary": "[Zbet] PG deposit redirection confirmation",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5180",
+    "summary": "INTEGRATION > COPAY - JW8 (PKR)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5178",
+    "summary": "[RICH996 AUD ] membersite >add new inhouse feature and function",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5171",
+    "summary": "[RICH996 AUD ] membersite >add new inhouse feature and function",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5152",
+    "summary": "[ALL] DEPOSIT / WITHDRAWAL VERIFICATION",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5141",
+    "summary": "V3 BO > ADD NEW WALLET TYPE E-WALLET",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5140",
+    "summary": "V3 BO > HYPERLINK REDIRECT TO PAYMENT GATEWAY SETTING",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5129",
+    "summary": "SOLIDPAY - SIAM855 (THB)",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5126",
+    "summary": "FIX NO BANK MAPPING REQUIRED ON THIRD PARTY PAYMENT GATEWAY PAGE",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5123",
+    "summary": "tkash hit error issue",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5116",
+    "summary": "Export - Data mismatch and Code Issues",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5113",
+    "summary": "PG > DGPAY (THB) [NEW API]",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5105",
+    "summary": "[RICH996 AUD] membersite > homepage customization > refer MD88",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5099",
+    "summary": "Jackpot Report - Provider List Changes",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5098",
+    "summary": "[IBS-58269] V3 - BO - Magar33 - Setting issue",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5095",
+    "summary": "CYPAY - CHAMP191 (THB)",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5094",
+    "summary": "Finance request de generic bj report",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5088",
+    "summary": "[IBS-58007] BD - BO - Siam855 - Promotion Issue",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5081",
+    "summary": "INTEGRATION > CRYPTO DIREPAY - JW8 (THB)",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5080",
+    "summary": "INTEGRATION > KPAY - MSSLOT (THB)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5074",
+    "summary": "[BO3] Reward Event Enhancement",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5073",
+    "summary": "Export - New format (shell command), Data mismatch and Code Issues",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5072",
+    "summary": "Export new format (shell command)",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5068",
+    "summary": "NEX855 - QPAY (THB) [CHANGE NEW API]",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5057",
+    "summary": "[ALL BOv3] Cloudflare checking on and off button",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5038",
+    "summary": "tune slow query for beta191 luckyspin",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5013",
+    "summary": "MS - siam855 - leaderboard issue",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5009",
+    "summary": "[I828 THB] setup vip mall > need collect api to fire to their 3rd party",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5008",
+    "summary": "[ALL] Promotion Content – “Claim Now” Button Logic Update",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5007",
+    "summary": "[ALL MERCHANTS] Currency on/off setting in BO.",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5004",
+    "summary": "SMS PROVIDER > TEXTEDGE - WON66 (AUD)",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-5003",
+    "summary": "ONBUKA - WPX88 (PNG)",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4997",
+    "summary": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4995",
+    "summary": "[v3 cron] revamp report game statistic cron in v3",
+    "assignee": "Eric Hong",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4993",
+    "summary": "[JW8 INR] Add telegram casino signup/login bot",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4990",
+    "summary": "[Zbet deposit] Adding summary breakdown for deposit and withdrawal",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4986",
+    "summary": "[All Transfer BOv3 (Priority Haobet77)]Add “Action” Column in Bet History",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4984",
+    "summary": "[ALL IDR VND ] bo > postback amount add 000",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4976",
+    "summary": "fuji9 merchant credit trigger",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4971",
+    "summary": "[v3 MBO] Export by Master BO need callback",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4969",
+    "summary": "INTEGRATION > 5PAY - 22FUN (THB)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4958",
+    "summary": "[ALL] Telegram Casino Auto Registration Flow",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4955",
+    "summary": "Whitelist internal request by infra",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4954",
+    "summary": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4952",
+    "summary": "[ALL MERCHANTS] Rebate Enhancement on release date and time",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4951",
+    "summary": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4946",
+    "summary": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4941",
+    "summary": "[ALL] Restructure Member Site Account",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4931",
+    "summary": "[ALL] Enhance for membersite General display setting",
+    "assignee": "Eric Hong",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4928",
+    "summary": "[BO3] System Maintenance Setting",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4918",
+    "summary": "[ALL AW8 VIP STYLE] Show the Upgrade Condition to the Next Incomplete VIP Level",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4911",
+    "summary": "[ALL] Update Tooltip Display in BO2 > Frontend Setting > Tracker",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4904",
+    "summary": "[ALL NEX template] Change VIP UI for mobile view",
+    "assignee": "Chow Chong Bao",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4888",
+    "summary": "[ALL] Add Favorite Game (bookmark) feature",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4851",
+    "summary": "[BO3&BO1] Update BO Login Authentication Flow – Add PW/GA Switch",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4842",
+    "summary": "[AW8 THB] Add telegram casino signup/login bot",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4829",
+    "summary": "[JW8 THB] Add telegram casino signup/login bot",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4828",
+    "summary": "Daily Activity 30-09-2025",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4827",
+    "summary": "BO-v3 Laravel 12 Claim Testing in SIAM66 and JW8",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4826",
+    "summary": "BO v3- Champ191 and JW8 Prod issues",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4792",
+    "summary": "[IBS-55198] V3 - BO - Nex855 - export issue",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4790",
+    "summary": "[ALL BO3] Affiliate Logo Function",
+    "assignee": "Eric Hong",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4770",
+    "summary": "[v3 MS] Sync v1 MS API to v3 MS for Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4762",
+    "summary": "[IBS-54714] - V3 - Nex789 - Member username from Export excel file issue",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4754",
+    "summary": "TMX CRYPTO - BETA191 (THB)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4753",
+    "summary": "TMX CRYPTO - SIAM191 (THB)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4752",
+    "summary": "TMX CRYPTO - 22WIN (THB)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4742",
+    "summary": "[ALL] Merchant Bank Settings > Add > Express Deposit",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4738",
+    "summary": "[ALL] master affiliate function > add key words to identify the source of each affiliate",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4736",
+    "summary": "[TK8 MYR] Change UI for referral ,reward center , Profile and bottom menu bar",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4734",
+    "summary": "[JW8 NPR] Add telegram casino signup/login bot",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4713",
+    "summary": "[JW8, AW8] Integrate telegram casino bot",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4712",
+    "summary": "BOv3 - Finance Management -> Bank Details - export issue.",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4700",
+    "summary": "Comment out the download manager code in all Module.",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4673",
+    "summary": "Referral Agent Setting",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4669",
+    "summary": "[AW8 MYR SGD] setup telegram casino signup login bot",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4665",
+    "summary": "Member site API Implementation",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4650",
+    "summary": "[ALL BOV3] Enhancement on Random Rebate logic",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4622",
+    "summary": "Exclude journey mission and cashback",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4619",
+    "summary": "[ALL THB] Name checker and full name tunings",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4612",
+    "summary": "Master BO",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4606",
+    "summary": "V3-BO - Add Admin Log",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4598",
+    "summary": "[ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4597",
+    "summary": "[ALL ZBET DEPOSIT] Bank icon in deposit channel",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4591",
+    "summary": "[ALL MS] Signup and Forget password add cloudflare captcha checking",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4577",
+    "summary": "[ALL] [Pending UI] Enhance Rebate Page’s UI to Include Countdown Timer",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4561",
+    "summary": "[ZBET deposit] QR deposit and express deposit show QR and remark",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4550",
+    "summary": "[all transfer] login API add extra params",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4545",
+    "summary": "[ALL INHOUSE] Cashback MS tuning - Adding countdown timer",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4490",
+    "summary": "Add Registration IP Filter for All Promotions & Bonuses",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4486",
+    "summary": "[all transfer] all payment gateway provider error send to a new telegram group",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4485",
+    "summary": "[V3] TEMU Event Mission",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4483",
+    "summary": "[ALL] Manual Express Deposit Post-Development Plan",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4474",
+    "summary": "[BO3] Add “Initiate Checkout” Events in BO3> CMS > Frontend Setting > Tracker (C)",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4473",
+    "summary": "[BO3] Add “Launch Game” Events in BO3> CMS > Frontend Setting > Tracker (B)",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4472",
+    "summary": "[BO3] Add “Login” Events in BO3> CMS > Frontend Setting > Tracker (A)",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4436",
+    "summary": "[V3] Telegram Bot Management",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4428",
+    "summary": "cashback new change",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4397",
+    "summary": "[BO3] Add Withdrawal Events in BO3 > CMS > Frontend Setting > Tracker (D)",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4381",
+    "summary": "INTEGRATION > VADERPAY - UF9 (THB)",
+    "assignee": "Yc",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4375",
+    "summary": "THB > SIAM191 (Transfer)",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4374",
+    "summary": "Changing all config to env .",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4373",
+    "summary": "Refactoring  code for socket event and connection",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4370",
+    "summary": "BO - IGH828 - Time Zone Issue",
+    "assignee": "vijaya prabakaran",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4369",
+    "summary": "V1 demolition , bugs compared to v1",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4366",
+    "summary": "V1 demolition , bugs compared to v1",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4362",
+    "summary": "[IBS-49945] MS - Jw8sgd - Turnover Issue",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4326",
+    "summary": "[Zbet Deposit] Implementing promotion function to deposit",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4302",
+    "summary": "Intergrate Babylon",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4298",
+    "summary": "Download manager - AWS cred issue",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4266",
+    "summary": "[ALL MERCHANTS] Enhancement in BO > journey mission bonus received record",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4256",
+    "summary": "[ALL MERCHANTS] BO deposit method display setting",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4255",
+    "summary": "[ALL MERCHANTS] Enhancement in BO > Cashback received record",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4253",
+    "summary": "[ALL MERCHANTS] Currency on/off setting in BO. (Drafting Requirement)",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4233",
+    "summary": "[BO V3] Auto Removal Setting for Withdrawal Conditions",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4174",
+    "summary": "V3 bugs compared with V1",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4165",
+    "summary": "V3 bugs compared with V1",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4164",
+    "summary": "V3 bugs compared with V1",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4162",
+    "summary": "[BOV3] Domain Setup Automation part 1- Config NS",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4157",
+    "summary": "[BOV3] Default Number Fields to 0 if Empty",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4133",
+    "summary": "[BO3] Enable/Disable 2FA Login Setting in BO3 > Affiliate > Affiliate List",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4123",
+    "summary": "Membersite finace module",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4093",
+    "summary": "All Affiliate Report : Data mismatch, Export data, Response time.",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4091",
+    "summary": "[BO3] Enable Bet History “Eye” Action for Selected Providers in BO3",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4088",
+    "summary": "V3 Membersite promotion",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4086",
+    "summary": "V3 Member-site angbow, finance",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4081",
+    "summary": "menu.json is not updating add log",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4067",
+    "summary": "Member Instant Rebate History",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4066",
+    "summary": "[BO3] Add Recipient Scope Setting in BO3 > Message > Group Message",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4039",
+    "summary": "Game Sequence Restructure",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-4004",
+    "summary": "Provider Rebate History",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3995",
+    "summary": "[IBS-45195] Promotion code edit issue",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3989",
+    "summary": "daily activity 02-07-2025",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3979",
+    "summary": "ONBUKA - KPAY8 (MMK)",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3964",
+    "summary": "Provider Instant Rebate History",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3952",
+    "summary": "Data mismatch, Export data, Response time - Member Rebate History",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3949",
+    "summary": "Referral Summary - Data mismatch, Export data, Response time",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3936",
+    "summary": "[All] Enable BO able to View & Control for Infra-Side Blocked IPs",
+    "assignee": "yuankang",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3930",
+    "summary": "[ALL OUTSIDER] Reward Center Before Login in Mobile View",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3925",
+    "summary": "[All] Centralize Prefix Settings for Banks & Payment Gateways",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3880",
+    "summary": "Verify Reward List - Optimization",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3866",
+    "summary": "[IBS-44703] V3 - BO - 22Fun(THB) - Journey Mission Issue",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3843",
+    "summary": "[TK8] Enhancement for update referral flow",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3842",
+    "summary": "[TK8 & M3] Enhancement for Agent Cross Level Share Assignment",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3836",
+    "summary": "Mission Module Optimization",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3830",
+    "summary": "[ALL v1] during sign up, if got select bank, need BE side to return the image path like jw8 did",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3792",
+    "summary": "[All Seamless] BO Provider Report &gt; Add data for all member report details",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3784",
+    "summary": "Deposit Gateway Pending List",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3774",
+    "summary": "Instant rebate Optimization",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3748",
+    "summary": "SMS PROVIDER > 007 - NEX369 (THB)",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3716",
+    "summary": "-",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3689",
+    "summary": "Member Info optimization - with cache",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3652",
+    "summary": "[ALL] Task need sync to all merchant",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3609",
+    "summary": "Department Optimization",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3600",
+    "summary": "Angpow Display Not Working In MS",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3596",
+    "summary": "CMS - Update Game List Optimization",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3540",
+    "summary": "upload-file using file-path in temp",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3537",
+    "summary": "Enhancement for sunshine deposit",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3494",
+    "summary": "[BO1&3] Enable Activity Points for Approved Deposits via Express Deposit",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3480",
+    "summary": "Export Standardization For Verify reward Module",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3477",
+    "summary": "Export Standardization For Rebate Module",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3475",
+    "summary": "[FASTPOKIES] Membersite > change template > change to 22fun template",
+    "assignee": "Qi Lun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3462",
+    "summary": "[IBS-40611] RETURN V3 - BO - Jolibet - Instant rebate issue",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3430",
+    "summary": "BO V3 - Finance Export stability",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3415",
+    "summary": "[V3 Membersite] Member Moduel",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3412",
+    "summary": "[V2] Membersite - deposit data comparison and sync up with BE",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3384",
+    "summary": "[Nex191 THB v3] new merchant",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3364",
+    "summary": "[ ALL Transfer v1 ] Enhance Deposit Withdrawal notification error content",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3360",
+    "summary": "[IBS-40526] V3 - BO - UF9 - ANGPOW issue",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3347",
+    "summary": "Get Min Max api using s3 instead of api",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3345",
+    "summary": "[IBS-40495] V3 - BO - UF9(MYR) - Merchant Bank Settings Issue",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3344",
+    "summary": "Instant rebate Report Optimization",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3333",
+    "summary": "[IBS-40170] BD - V3 - BO - EP88(MYR) - Affiliate issue",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3314",
+    "summary": "[IBS-39909] V3 - BO - Haobet77 - Angpow reward issue",
+    "assignee": "Vijay Poovarasan",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3297",
+    "summary": "[NEX8 MMK] bo &gt; merchant bank setting / bank list setting &gt; add CB Banking",
+    "assignee": "EUGENE TENG ZI HAN",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3294",
+    "summary": "[BO V3] Tracking Enhancement",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3284",
+    "summary": "Integrating AI CHAT with Laive chat",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3283",
+    "summary": "micro-pg skpay Integration",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3251",
+    "summary": "[BO V3] Store and display the Approved & Rejected rebate record at BO > Rebate > Rebate Release",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-3164",
+    "summary": "[ALL] Implement Laive Chat in all merchants BO - Auth Bypass BO",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2635",
+    "summary": "VIP Club - Mission",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2634",
+    "summary": "VIP Club - Lucky Wheel",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2633",
+    "summary": "VIP Club - Mall",
+    "assignee": "Sanjay K",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2632",
+    "summary": "VIP Club - Tournament",
+    "assignee": "Allaudhin",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2556",
+    "summary": "[ALL] Recently played (UI only)",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2320",
+    "summary": "[ALL] check the flow for trans_laga sequence(deposit first then apply promotion)",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2079",
+    "summary": "[TXF > SML V3] DB trigger should sharing with transfer. but need double check",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2078",
+    "summary": "[TXF > SML V3] add seamless promotion module (v3 table v1 logic)",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2077",
+    "summary": "[TXF > SML V3] promotion turnover cron ( bet history cron )",
+    "assignee": "Victor Lee Chee Chun",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-2005",
+    "summary": "Referal - Commission Details",
+    "assignee": "Sai Krishna",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-1850",
+    "summary": "V1 api calling - store into mongo log",
+    "assignee": "Makeskumar",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-1823",
+    "summary": "[ALL] Implement Laive Chat in all merchants BO",
+    "assignee": "amjad",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-1811",
+    "summary": "[ALL BOv3] Add Bet Type in Bet History",
+    "assignee": "Seow Imm Beh",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-1751",
+    "summary": "[ALL] Enchantment for Payment Gateway redirect link",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-1733",
+    "summary": "[All Bov3] Lucky Wheel settings to be separated into two tabs",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-1404",
+    "summary": "[Beta191- Priority, then sync to ALL] Payment method sequence and pre-fix amount by last deposit",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-1328",
+    "summary": "[BETA191] Deposit apply promotion flow",
+    "assignee": "Yap Yee Sheng",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-884",
+    "summary": "Fix issue for staging mw99, mamubaji, npr8",
+    "assignee": "yiying",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-206",
+    "summary": "[ALL V3] Add 'Second Time Deposit' and 'Second and Further Deposit' into Affiliate Postback URL function",
+    "assignee": "Eslyn",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  },
+  {
+    "issueKey": "BPT-90",
+    "summary": "[D88] Separate Bank Transfer & Ewallet in Rapidpay's lobby in member site",
+    "assignee": "Kai Lun Chew",
+    "manDays": "",
+    "status": "",
+    "created": "",
+    "team": "BE"
+  }
+]
