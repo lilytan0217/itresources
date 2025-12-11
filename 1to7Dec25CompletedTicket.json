@@ -1,0 +1,594 @@
+{
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5222",
+      "name": "INTEGRATION > TOPPAY 仿原生 - JOLIBET (PHP)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5420",
+      "name": "INTEGRATION > JW8 - JHPAY (INR) [NEW API]",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5391",
+      "name": "[ALL AUD] Add on bank into bank list setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5446",
+      "name": "ADD > CONNECT IBS2PAY (ONEPG) - [SIAM212 & SIAM345]",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5272",
+      "name": "INTEGRATION > EPAY - NEX8 (MMK)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5265",
+      "name": "INTEGRATION > LTPAY - GYG888 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5409",
+      "name": "CHECK > BO THIRD PARTY PAYMENT CLINK ONEPAY(NPR) NO SHOW ANYTHING",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5090",
+      "name": "[ALL] Immediate logout account when login in another device",
+      "type": "BPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-4931",
+      "name": "[BOV3] [RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4739",
+      "name": "[BOV3] fix client side issue - 18",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4788",
+      "name": "[BO] Add delete image function in promotion code",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4744",
+      "name": "[BOV3] Urgent request from PC mentioned is IBS55675 ticket",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4738",
+      "name": "[BOV3] fix client side issue - 17",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4915",
+      "name": "ADHOC - W48 - Akash",
+      "type": "FPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "BPT-5189",
+      "name": "Finance for Oct",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2466",
+      "name": "IT: Deploy",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5431",
+      "name": "[AW8 NPR] Remove Egames category",
+      "type": "BPT"
+    }
+  ],
+  "Allaudhin": [
+    {
+      "id": "BPT-5452",
+      "name": "[IBS-61440] V3 BO - Nex789 - Member Info Data Export Issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5447",
+      "name": "[IBS-61359] V3 - BO - FUJI9BDT - Affiliate Comm Approval Export Issue",
+      "type": "BPT"
+    }
+  ],
+  "Vamshi": [
+    {
+      "id": "FPT-4933",
+      "name": "[AW8 NPR] Remove SEO Meta image from domain below",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4934",
+      "name": "[GOAT77 SGD] Replace Deposit, Register, Withdraw YouTube link",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4936",
+      "name": "[Aw8] Fix Refresh Redirected to Home Page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4897",
+      "name": "ADHOC - W48 - Vamshi",
+      "type": "FPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-5471",
+      "name": "[v3 bo] aff all member report mongo db connection time out",
+      "type": "BPT"
+    }
+  ],
+  "yiying": [
+    {
+      "id": "BPT-5019",
+      "name": "ONBUKA - TASMAMA (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5399",
+      "name": "[MW99] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5398",
+      "name": "[MAMUBAJI BDT] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5396",
+      "name": "[8MBETS BDT, NPR] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5310",
+      "name": "[JW8 NPR] Add on bank account info column in register page",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5339",
+      "name": "[JW8 INR] Add OTP Required during registration",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5415",
+      "name": "ONBUKA - EW8 (AUD)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5333",
+      "name": "[All INR Currency] BO > add system bank",
+      "type": "BPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2475",
+      "name": "IT: Add Game - STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2476",
+      "name": "IT: Create SBO Agent Username - SIAM191 THB PROD (TRF)",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2315",
+      "name": "IT[Qi Lun] Deploy and Open Provider - JAYABAJI BDT PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2462",
+      "name": "IT: Deploy and Open Provider - AW8 PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2468",
+      "name": "IT: Close Provider - PESO88 PHP STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5349",
+      "name": "[ALL] Remove link column on Advertisement",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5069",
+      "name": "[ALL MS] Adding login cloudflare turnstile",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2469",
+      "name": "IT: Sync Crowdplay Gamelist",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2464",
+      "name": "IT: Open Provider",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2467",
+      "name": "IT: Game Checking - SIAM855 THB STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-3745",
+      "name": "SMS PROVIDER > 007 - NEX212 (THB)",
+      "type": "BPT"
+    }
+  ],
+  "Sai krishna": [
+    {
+      "id": "FPT-4995",
+      "name": "[AFF] [AW8 NPR] Setup aw8nepal.org domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4994",
+      "name": "[MS] [AW8 NPR] Setup aw8nepal.org domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4998",
+      "name": "[MS SLOT] Setup sub domain for roibest purpose",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4962",
+      "name": "[BOV3] fix client side issue - 35",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4996",
+      "name": "[MAFA191 THB] perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4819",
+      "name": "[Referral] [MAMUBAJI BDT, MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4941",
+      "name": "ADHOC - W48 - Sai",
+      "type": "FPT"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5159",
+      "name": "[ALL] Referral Ball Reward Pop-Up",
+      "type": "BPT"
+    }
+  ],
+  "Max Tham": [
+    {
+      "id": "FPT-4695",
+      "name": "[ALL] Referral Ball Reward Pop-Up",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4967",
+      "name": "[MS] [MW99] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4169",
+      "name": "[MS] Remove s3_status.json from all repo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4973",
+      "name": "[MS] [MAMUBAJI BDT] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4966",
+      "name": "[MS] [8MBETS BDT, NPR] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4413",
+      "name": "[BOV3] fix client side issue - 3",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4674",
+      "name": "[BOV3] fix client side issue - 14",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4152",
+      "name": "nex289 new domain",
+      "type": "FPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-4725",
+      "name": "[BOV3] [ALL] Referral Ball Reward Pop-Up",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4971",
+      "name": "[BOV3] [MW99] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4972",
+      "name": "[BOV3] [MAMUBAJI BDT] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4965",
+      "name": "[BOV3] [8MBETS BDT, NPR] Add in-house module, Mini Game Setting & Reward Event",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4149",
+      "name": "GUIDE - Max",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4916",
+      "name": "ADHOC - W48 - Lam",
+      "type": "FPT"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-4946",
+      "name": "[BOV3] fix client side issue - 28",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4917",
+      "name": "[BOV3] fix client side issue - 26",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4821",
+      "name": "[Zbet Withdrawal] [MAMUBAJI BDT, MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4820",
+      "name": "[Zbet Deposit] [MAMUBAJI BDT,MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4940",
+      "name": "ADHOC - W48 - Vivaswan",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-2932",
+      "name": "[ALL] all deposit when select method scroll down, remove the function",
+      "type": "FPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-4562",
+      "name": "[MS] classlist undefined bug issue - fix",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4407",
+      "name": "[ASIA TEMPLATE] set ClientOnly hydration issue fix",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4361",
+      "name": "[Laive Chat 2.0] [BO] Base preparation & research",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4921",
+      "name": "ADHOC - W48 - Raymond",
+      "type": "FPT"
+    }
+  ],
+  "Deep": [
+    {
+      "id": "FPT-4569",
+      "name": "[Sync] [ALL Transfer MS] get public folder structure enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4588",
+      "name": "[Sync] [ALL Seamless MS] get public folder structure enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4937",
+      "name": "[HAOBET77] Change floating image and link",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4938",
+      "name": "[WON66 AUD] Change Payment Type wording",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4939",
+      "name": "CHECK > BO THIRD PARTY PAYMENT CLINK ONEPAY(NPR) NO SHOW ANYTHING",
+      "type": "FPT"
+    }
+  ],
+  "Eslyn": [
+    {
+      "id": "BPT-5451",
+      "name": "[MAFA191 THB] Change Back Office Merchant Code",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4875",
+      "name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5106",
+      "name": "[RICH996 AUD] membersite > change bottom navigation bar, statement, vip page",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5264",
+      "name": "[MAMUBAJI BDT,MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "BPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-4907",
+      "name": "[BOV3] fix client side issue - 23",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4914",
+      "name": "[Nex8] Implement apply promotion to zbet deposit UI",
+      "type": "FPT"
+    }
+  ],
+  "Chen": [
+    {
+      "id": "FPT-4021",
+      "name": "[MS] Redirection Middleware check on server side hits should return redirected status code instead of server error if page not found",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3902",
+      "name": "[MS] Maintenance script called only once on Load of App",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2742",
+      "name": "{BOv1} - CompressorJs for all images upload &/ webp",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-2483",
+      "name": "[MS] AWS ECS Infra Stress Test Application Navigator",
+      "type": "FPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-4918",
+      "name": "[ALL] Remove link column on Advertisement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4557",
+      "name": "[ALL] Enhancement on Random Rebate (Mystery Bonus)",
+      "type": "FPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-4886",
+      "name": "[JW8 NPR] Add on bank account info column in register page",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-5342",
+      "name": "[Nex8] Implement apply promotion to zbet deposit UI",
+      "type": "BPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-4630",
+      "name": "[ALL MS] Adding login cloudflare turnstile",
+      "type": "FPT"
+    }
+  ],
+  "yuankang": [
+    {
+      "id": "BPT-5421",
+      "name": "Setup and guide new joiner",
+      "type": "BPT"
+    }
+  ],
+  "LOOK MUN XUAN": [
+    {
+      "id": "BPT-5371",
+      "name": "[v3 demolition] Member > Member Trace V1 and V3 total result item did not match with each other",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5368",
+      "name": "[v3 demolition] third party payment platform > account log records not tally compare to bo1",
+      "type": "BPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-4818",
+      "name": "[Activity Pop Up] [MAMUBAJI BDT, MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4817",
+      "name": "[Activity Module] [MAMUBAJI BDT, MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4815",
+      "name": "[Reward Centre] [MAMUBAJI BDT, MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "FPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5263",
+      "name": "[MAMUBAJI BDT, MW99 NPR] Add all in-house activities module, such as random rebate, instant rebate to merchant",
+      "type": "BPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4600",
+      "name": "[ALL Merchant] Solve the wrong display behaviour for the popup reward system bottom side icon. (Lucky Wheel , Ang Pow, Cash Back, Mystery Box)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4923",
+      "name": "ADHOC - W48 - Deva",
+      "type": "FPT"
+    }
+  ],
+  "Lim Jia Ming": [
+    {
+      "id": "FPT-4650",
+      "name": "[ALL] Immediate logout account when login in another device",
+      "type": "FPT"
+    }
+  ],
+  "Abdul Hai Siddiki Ansary": [
+    {
+      "id": "FPT-4898",
+      "name": "ADHOC - W48 - Abdul",
+      "type": "FPT"
+    }
+  ]
+}
