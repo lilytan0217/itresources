@@ -142,7 +142,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 50,
         "ticket_id": "FR-11902",
-        "ticket_name": "\"[ALL MERCHANTS] Affiliate site > Report"
+        "ticket_name": "[ALL MERCHANTS] Affiliate site > Report"
       },
       {
         "ticket_type": "NM",
@@ -196,7 +196,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 12.5,
         "ticket_id": "FR-11654",
-        "ticket_name": "\"[ALL Merchant] Solve the wrong display behaviour for the popup reward system bottom side icon.  (Lucky Wheel"
+        "ticket_name": "[ALL Merchant] Solve the wrong display behaviour for the popup reward system bottom side icon.  (Lucky Wheel"
       },
       {
         "ticket_type": "FR",
@@ -288,7 +288,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 75,
         "ticket_id": "FR-11705",
-        "ticket_name": "\"[RICH996 AUD] membersite > change bottom navigation bar"
+        "ticket_name": "[RICH996 AUD] membersite > change bottom navigation bar"
       },
       {
         "ticket_type": "Others",
@@ -436,7 +436,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 12.5,
         "ticket_id": "BPT-5382",
-        "ticket_name": "\"member-transfer-history"
+        "ticket_name": "member-transfer-history"
       },
       {
         "ticket_type": "Internal",
@@ -757,7 +757,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-11908",
-        "ticket_name": "\"[GOAT77 MYR] Replace Deposit"
+        "ticket_name": "[GOAT77 MYR] Replace Deposit"
       },
       {
         "ticket_type": "FR",
@@ -1376,7 +1376,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "BPT-5382",
-        "ticket_name": "\"member-transfer-history"
+        "ticket_name": "member-transfer-history"
       },
       {
         "ticket_type": "Internal",
@@ -1502,7 +1502,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-11837",
-        "ticket_name": "\"[EW8 MYR] Replace Deposit"
+        "ticket_name": "[EW8 MYR] Replace Deposit"
       },
       {
         "ticket_type": "FR",
@@ -2685,7 +2685,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 62.5,
         "ticket_id": "BPT-884",
-        "ticket_name": "\"Fix issue for staging mw99"
+        "ticket_name": "Fix issue for staging mw99"
       }
     ]
   },
@@ -3383,7 +3383,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-11949",
-        "ticket_name": "\"[GOAT77 SGD] Replace Deposit"
+        "ticket_name": "[GOAT77 SGD] Replace Deposit"
       },
       {
         "ticket_type": "NM",
@@ -3565,7 +3565,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "BPT-5389",
-        "ticket_name": "\"[v3 MS] FR-11771 insert (Instant"
+        "ticket_name": "[v3 MS] FR-11771 insert (Instant"
       },
       {
         "ticket_type": "Internal",
@@ -3619,7 +3619,7 @@
         "ticket_type": "FR",
         "contribution_percentage": 25,
         "ticket_id": "FR-11822",
-        "ticket_name": "\"[ALL MERCHANTS] BO > Member Info > Wallet Transfer"
+        "ticket_name": "[ALL MERCHANTS] BO > Member Info > Wallet Transfer"
       },
       {
         "ticket_type": "Internal",
@@ -4086,19 +4086,19 @@
         "ticket_type": "FR",
         "contribution_percentage": 6.25,
         "ticket_id": "FR-11964",
-        "ticket_name": "\"[8MBETS BDT"
+        "ticket_name": "[8MBETS BDT"
       },
       {
         "ticket_type": "FR",
         "contribution_percentage": 6.25,
         "ticket_id": "FR-11965",
-        "ticket_name": "\"[MW99] Add in-house module"
+        "ticket_name": "[MW99] Add in-house module"
       },
       {
         "ticket_type": "FR",
         "contribution_percentage": 6.25,
         "ticket_id": "FR-11966",
-        "ticket_name": "\"[MAMUBAJI BDT] Add in-house module"
+        "ticket_name": "[MAMUBAJI BDT] Add in-house module"
       },
       {
         "ticket_type": "Others",
@@ -4439,7 +4439,7 @@
         "ticket_type": "Internal",
         "contribution_percentage": 25,
         "ticket_id": "BPT-5389",
-        "ticket_name": "\"[v3 MS] FR-11771 insert (Instant"
+        "ticket_name": "[v3 MS] FR-11771 insert (Instant"
       },
       {
         "ticket_type": "Internal",
