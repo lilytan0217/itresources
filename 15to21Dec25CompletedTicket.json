@@ -1,0 +1,600 @@
+{
+  "Vamshi": [
+    {
+      "id": "FPT-5186",
+      "name": "[JW8 INR] Update domain setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5183",
+      "name": "[JW8 INR] Update domain setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5181",
+      "name": "[JW8 INR] Update sitemap",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5166",
+      "name": "[AW8 NPR] Change meta image",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5038",
+      "name": "[M3 MYR] Add Multi Country Code with prefix",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5123",
+      "name": "[won66 AUD] Membersite > change logo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5167",
+      "name": "[AW8 VND] Update domain settings",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5048",
+      "name": "[RICH996 NPR] add 'x' button",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4986",
+      "name": "[JAGAT CUAN] Add floating ICON",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5041",
+      "name": "[GOAT77 MYR] mebersite > remove this video section showing video unavailable",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5143",
+      "name": "[AFF] [SIAM369 THB] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5142",
+      "name": "[MS] [SIAM369 THB] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5008",
+      "name": "[JOLIBET PHP] Update membersite gif logo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5145",
+      "name": "[MS] [AW8 NPR] Setup aw8np6.com domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5146",
+      "name": "[AFF] [AW8 NPR] Setup aw8np6.com domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5125",
+      "name": "[MAFA191 THB] perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5054",
+      "name": "ADHOC - W50 - Vamshi",
+      "type": "FPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2517",
+      "name": "IT: Deploy and Open Provider - NEP9 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2518",
+      "name": "IT: Deploy and Open Provider - PGLAO LAK PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2516",
+      "name": "IT: Open Provider - HAOBET77 MMK PROD & LUXEBET77 MMK PROD & NEX8 MMK PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2507",
+      "name": "IT: Open Odin Gaming",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2506",
+      "name": "IT: Add Game - SIAM191 THB PROD (SEAMLESS)",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2514",
+      "name": "IT: Create SBO Agent Username - NEP9 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2515",
+      "name": "IT: Provider Issue Checking - PGLAO LAK PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2504",
+      "name": "IT: Update Game Release Date - Masterbo",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2505",
+      "name": "IT: Deploy and Open Provider - JOLIBET PHP STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2495",
+      "name": "IT: Deploy and Open provider - NPR8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2503",
+      "name": "IT: Open Odin Gaming - RW8 NPR STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2499",
+      "name": "IT: Deploy and Open Provider - NEX8 MMK PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2498",
+      "name": "IT: Create SBO Agent Username - NEX8 MMK PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2493",
+      "name": "IT: Deploy and Open Provider - RW8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5449",
+      "name": "[TK8 MYR] Register flow from Tkash remove autofill up FullName",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2490",
+      "name": "IT: Create SBO Agent Username -RW8 NPR PROD",
+      "type": "PAR"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-5101",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantVIPCredit",
+      "type": "FPT"
+    }
+  ],
+  "Eslyn": [
+    {
+      "id": "BPT-5587",
+      "name": "[NEX191] Change menu bar sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5535",
+      "name": "ONBUKA - EG8 (AUD)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5549",
+      "name": "ONBUKA - CLOUD9 (AUD)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5536",
+      "name": "ONBUKA - RICH996 (AUD)",
+      "type": "BPT"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-4858",
+      "name": "[BOV3] Campaign Condition in Meta Pixel Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5162",
+      "name": "[Aggregator] Report by Bet ID",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5028",
+      "name": "[BOV3] [ALL] Show Masking Email/Phone During Edit",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5129",
+      "name": "[Aggregator] Default Order as Descending Order for Report module v1 and v2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5128",
+      "name": "[Aggregator] Apply GetPlayerPage3 API for v2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5120",
+      "name": "[Aggregator] Set Order filed as Descending Ordering",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5119",
+      "name": "[Aggregator] Deduplicate the DropDown List Selection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5160",
+      "name": "[Aggregator] solve the image drag drop allow for webp format",
+      "type": "FPT"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-5298",
+      "name": "[BOV3] Campaign Condition in Meta Pixel Setting",
+      "type": "BPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-5542",
+      "name": "[v3] IBST-564 Instant Rebate withdrawal turnover amount 0 stuck in pending list",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5582",
+      "name": "[BO3] Aff comm release already in progress haven’t complete do not let admin click again",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5445",
+      "name": "[v3 demolition] member > wallet transfer > uncertain transfer's loading speed is relatively slow compare to bo1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5366",
+      "name": "[v3 demolition] affiliate all member report optimization",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5540",
+      "name": "[Rich996] fix issue listed in excel",
+      "type": "BPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5402",
+      "name": "INTEGRATION > PAYPAY - JW8 (INR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5523",
+      "name": "[Rich996 AUD] Membersite > Deposit > Deposit Method change \"Bank Transfer\" name to \"PayID\"",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5355",
+      "name": "[ALL] Add Deposit promotion sequence on Promotion Code",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5475",
+      "name": "[ALL] Payment “Expired” Status Enhancement",
+      "type": "BPT"
+    }
+  ],
+  "Sai krishna": [
+    {
+      "id": "FPT-5063",
+      "name": "[AW8 NPR] Update Domain Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5157",
+      "name": "[AW8 NPR] Rewards Center > Bonus > change the red column into this word : दाबी गर्नुहोस्",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5114",
+      "name": "[BO3] Tournament Settings List remove the date conversion on add and edit page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4903",
+      "name": "[All Merchants] Mystery Box Pop Up “Back” Button Fix",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5092",
+      "name": "[BO3] Affiliate All Member Report Enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5069",
+      "name": "ADHOC - W50 - Sai",
+      "type": "FPT"
+    }
+  ],
+  "Lim Jia Ming": [
+    {
+      "id": "FPT-4769",
+      "name": "[MS Performance] - GTAG move to client side to reduce priority and render blocking",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4658",
+      "name": "[MS Performance] - Middleware move to page to reduce initial load of guards",
+      "type": "FPT"
+    }
+  ],
+  "yiying": [
+    {
+      "id": "BPT-5478",
+      "name": "[M3 MYR] Add Multi Country Code with prefix",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5357",
+      "name": "[NEX191 Template] Add in OTP wording in Full Login/Signup Page",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5469",
+      "name": "[ALL] Show Masking Email/Phone During Edit",
+      "type": "BPT"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5557",
+      "name": "[AW8 SGD] BO > Merchant Bank setting > Bank Mapping for KOIPAY add on PAYNOW option at 3rd party PG section",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5506",
+      "name": "[Rich996 AUD] BO > Merchant bank settings > add \"USDT manual \" to Bank Name list",
+      "type": "BPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-5061",
+      "name": "[MS] [Rich996 AUD] setup new membersite domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5062",
+      "name": "[AFF] [Rich996 AUD] setup new membersite domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5174",
+      "name": "[AFF] [LUXEBET77] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5173",
+      "name": "[MS] [LUXEBET77] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5057",
+      "name": "[LUXEBET77] Change floating image and link",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4919",
+      "name": "[BOV3] [ALL] Add Deposit promotion sequence on Promotion Code",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5079",
+      "name": "[BO3] Text Tuning in BO3 > Random Rebate Menu",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5078",
+      "name": "[ALL] Payment “Expired” Status Enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5104",
+      "name": "[MS] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5105",
+      "name": "[AFF] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-4992",
+      "name": "[ALL NPR] Member site > top referral banner change content",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4922",
+      "name": "[NEX191 Template] Add in OTP wording in Full Login/Signup Page",
+      "type": "FPT"
+    }
+  ],
+  "KokMin": [
+    {
+      "id": "BPT-5458",
+      "name": "[v3 demolition] member statistics report > provider wallet's pop up sorting not working as intended",
+      "type": "BPT"
+    }
+  ],
+  "LOOK MUN XUAN": [
+    {
+      "id": "BPT-5494",
+      "name": "[v1 demolition] finance report > periodic deposit retention (accumulated) all pop-up's sorting not working",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5495",
+      "name": "[v1 demolition] finance report > periodic deposit retention (daily) all pop-up's sorting not working",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5496",
+      "name": "[v1 demolition] activity report > mission reward history",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5414",
+      "name": "[v3 demolition] VIP Mode > VIP Settings Number of Players in VIP1 does not tally with member info's total member",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5453",
+      "name": "[v3 demolition] finance management > express deposit's payment gateway dropdown return no result found",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5438",
+      "name": "[v3 demolition] finance management > deposit > payment method's dropdown option missing compare to bo1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5464",
+      "name": "[v3 demolition] referral summary > new member count's full name sorting not work as intended",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5307",
+      "name": "[v3 demolition] activity report > member rebate history's records not tally",
+      "type": "BPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-5086",
+      "name": "[ALL] Share website link before login",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5047",
+      "name": "[ALL] Affiliate Withdrawal Credit Reversal Enhancement",
+      "type": "FPT"
+    }
+  ],
+  "Chen": [
+    {
+      "id": "FPT-5122",
+      "name": "[speedau2 AUD] Setup PWA",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5134",
+      "name": "[AW8] Hotfix for splitting force deposit and withdrawal setting",
+      "type": "FPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-5108",
+      "name": "[BO3 IN HOUSE] Reward Event Listing change remark for Token Expire Time",
+      "type": "FPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-4729",
+      "name": "[ALL] Change community pop up UI",
+      "type": "FPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "PAR-2492",
+      "name": "IT: Aggregator Plug Key - RW8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2489",
+      "name": "IT: Deploy and Open Provider - JB8 NPR PROD",
+      "type": "PAR"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5491",
+      "name": "[TK8 MYR] Register flow from Tkash remove autofill up FullName",
+      "type": "BPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-5109",
+      "name": "[ROOKING AUD] Remove words from APK download Banner",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5084",
+      "name": "ADHOC - W50 - Akash",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4476",
+      "name": "[22FUN, JW8,MSSLOT, MAFA191,22WIN, SPEEDAU2, ROOKING, 1JUDI, TK8, WPX88, SIAM191, BETA191] Setup Affiliate Site",
+      "type": "FPT"
+    }
+  ],
+  "Deep": [
+    {
+      "id": "FPT-5165",
+      "name": "[MS] [22win] Enable Game Show and Exclusive Games section",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5164",
+      "name": "[BOV3] [22win] Enable Game Show and Exclusive Games section",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-5532",
+      "name": "[AW8] Hotfix for splitting force deposit and withdrawal setting",
+      "type": "BPT"
+    }
+  ],
+  "Abdul Hai Siddiki Ansary": [
+    {
+      "id": "FPT-5085",
+      "name": "ADHOC - W50 - Abdul",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-5064",
+      "name": "ADHOC - W50 - Manthan",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-5055",
+      "name": "ADHOC - W50 - Deva",
+      "type": "FPT"
+    }
+  ]
+}
