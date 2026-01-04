@@ -3157,7 +3157,9 @@
         "contribution_percentage": 100,
         "ticket_id": "BPT-5513",
         "ticket_name": "Membersite API Implement Batch - 9"
-      },
+      }
+    ]
+  },
   {
     "date": "2025-12-11",
     "name": "Vamshi",
