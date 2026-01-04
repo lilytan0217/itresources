@@ -1616,7 +1616,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 50,
         "ticket_id": "Others-1",
-        "description": "Status : Done"
+        "description": No Reason Stated
       },
       {
         "ticket_type": "Others",
@@ -2279,7 +2279,7 @@
         "ticket_type": "Others",
         "contribution_percentage": 12.5,
         "ticket_id": "Others-2",
-        "description": "Status:  done\nRemarks: fixed withdrawal css issue for siam66 , gcwin99 and sing55asia"
+        "description": fixed withdrawal css issue for siam66 , gcwin99 and sing55asia"
       }
     ]
   },
