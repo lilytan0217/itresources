@@ -1,0 +1,617 @@
+{
+  "Seow Imm Beh": [
+    {
+      "id": "PAR-2488",
+      "name": "IT: Deploy and Open Provider - NPR8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2486",
+      "name": "IT: Deploy and Open Provider - JB8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2477",
+      "name": "IT: Aggregator Plug Key - SIAM191 THB (TRANSFER) PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2485",
+      "name": "IT: Aggregator Plug Key - JB8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2484",
+      "name": "IT: Create SBO Agent Username - JB8 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2483",
+      "name": "IT: Open Provider - SIAM191 THB TRANSFER PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-3842",
+      "name": "[TK8 & M3] Enhancement for Agent Cross Level Share Assignment",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5257",
+      "name": "22win php migration",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5418",
+      "name": "[22WIN PHP THB]",
+      "type": "BPT"
+    }
+  ],
+  "yiying": [
+    {
+      "id": "BPT-5501",
+      "name": "[22WIN PHP] Change Sign up page 2, Remove Email, OTP, Bank, Account Number",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5284",
+      "name": "CHAUNX - NPR8 V2 (NPR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5450",
+      "name": "[Gojudi MYR] Membersite and affiliate page add Chinese language",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5489",
+      "name": "[ALL NPR IN-HOUSE] Export 3 month Provider report",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5485",
+      "name": "CHECK > MIGRATION SMS FOR 22WIN (PHP)",
+      "type": "BPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-5110",
+      "name": "[22WIN PHP] Change Sign up page 2, Remove Email, OTP, Bank, Account Number",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-5507",
+      "name": "INTEGRATION > Y TECH ADD NEW BANK",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4954",
+      "name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)",
+      "type": "BPT"
+    }
+  ],
+  "LOOK MUN XUAN": [
+    {
+      "id": "BPT-5455",
+      "name": "[v3 demolition] finance management > express deposit > name checking's payment gateway dropdown return no result found",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5183",
+      "name": "[v3 MS] Remove normal rebate from pop out claim all",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5436",
+      "name": "[v3 demolition] finance management > withdrawl & deposit > payment method's filter and column not translated",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5456",
+      "name": "[v3 demolition] finance management > withdraw condition list's auditor column sorting not working as intended",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5454",
+      "name": "[v3 demolition] finance management > express deposit's handler, player id, remark column sorting not working as intended",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5437",
+      "name": "[v3 demolition] finance management > withdraw > some payment type not included in the payment type filter",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5465",
+      "name": "[v3 demolition] referral summary > new member count's mobile number sorting not work as intended",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5429",
+      "name": "[v3 demolition] personnel report > member report amount not tally compare to BO1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5363",
+      "name": "[v3 demolition] deposit currency rate setting's crypto manual showing BE language ( language not translated )",
+      "type": "BPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-5528",
+      "name": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting - EXPORT",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5531",
+      "name": "[v3 BO] DIS88 get member bet history spade gaming-slot Query error",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5529",
+      "name": "[v3] script to update ur_table email collation with no downtime",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5504",
+      "name": "[v3 bo] check and fix mw99 aff report and ftd report issue",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5505",
+      "name": "[v3 Monitoring] data auditor script for ftp count",
+      "type": "BPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-5072",
+      "name": "[JW8 SGD] provide API for merchant to do",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4804",
+      "name": "[I828 THB] setup vip mall > need collect api to fire to their 3rd party",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5071",
+      "name": "[JW8 MYR] provide API for merchant to do",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4691",
+      "name": "[ALL] BO > HYPERLINK DEPOSIT / WITHDRAWAL DISPLAY 3RD PARTY ERROR MESSAGE",
+      "type": "FPT"
+    }
+  ],
+  "Eslyn": [
+    {
+      "id": "BPT-5289",
+      "name": "[JW8 SGD] provide API for merchant to do",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5009",
+      "name": "[I828 THB] setup vip mall > need collect api to fire to their 3rd party",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5283",
+      "name": "[JW8 MYR] provide API for merchant to do",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5171",
+      "name": "[RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2480",
+      "name": "IT: Provider Issue Checking - CLOUD9 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5408",
+      "name": "[ALL] Change promotion cancel outstanding bet logic",
+      "type": "BPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-5025",
+      "name": "[Dis88 MYR] Change meta image",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5024",
+      "name": "[ALL] Fix Display Text to “xx/xx Deposit” in Promo Center Page",
+      "type": "FPT"
+    }
+  ],
+  "Ramya Gayala": [
+    {
+      "id": "FPT-5081",
+      "name": "[HAOBET77] Change APK download link",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5091",
+      "name": "[AFF] [AW8 KUSD] setup new membersite",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5090",
+      "name": "[MS] [AW8 KUSD] setup new membersite",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5035",
+      "name": "[AW8 NPR] bind affiliate to apk download",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5059",
+      "name": "[MS] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5060",
+      "name": "[AFF] [AW8 VND] Setup membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5004",
+      "name": "[EUROPE TEMPLATE] Tune “X” Close Button Colour",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4664",
+      "name": "[ALL Merchant] Tuning on the rebate release part",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4974",
+      "name": "[ALL] Seo footer add promo center at Categories",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5013",
+      "name": "[MS] [Gojudi MYR] Membersite and affiliate page add Chinese language",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5014",
+      "name": "[AFF] [Gojudi MYR] Membersite and affiliate page add Chinese language",
+      "type": "FPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-4999",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantMobileSidebar",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5031",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantAccountMenu",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5065",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantQuickLaunch",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5033",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantAnnouncement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5032",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantAccountVIP",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5030",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantAccount",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5020",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantFooter",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5068",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantReferralUser",
+      "type": "FPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-5111",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantAnnouncement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4952",
+      "name": "[BOV3] sync convert image from blob to upload s3 function to all editor",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5093",
+      "name": "[BO3 IN HOUSE]Reward Event Token Release Records add Mission Filter",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5094",
+      "name": "[BO3 IN HOUSE] Company Report > Total Reward > Total Reward Details' Reward Event add hyperlink",
+      "type": "FPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5492",
+      "name": "INTEGRATION > EPICPAY - AW8 (MYR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5401",
+      "name": "[All Zbet] Apply promotion deposit logic tuning",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5178",
+      "name": "[RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5209",
+      "name": "PG > ONEPG ENHANCEMENT",
+      "type": "BPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-5006",
+      "name": "Add CRM2.0 function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5087",
+      "name": "[JAYABAJI BDT] Insert GTM code to sub domain (Aff domain) aff.affjayabaji.com",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4867",
+      "name": "[GCWin99] Modify GCWin99 UI",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5023",
+      "name": "[ALL VND] Change affiliate site content",
+      "type": "FPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-4047",
+      "name": "[BO3] Deposit and Withdrawal details pop-up revamp",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3587",
+      "name": "[BO V3] Auto Removal Setting for Withdrawal Conditions",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4554",
+      "name": "[MAMUBAJI] Integrate Payment Option Flow for Automated Deposit Processing (win8mpay)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3234",
+      "name": "[BOV3] [TK8 & M3] Enhancement for Agent Cross Level Share Assignment",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5034",
+      "name": "ADHOC - W49 - Akash",
+      "type": "FPT"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-4233",
+      "name": "[BO V3] Auto Removal Setting for Withdrawal Conditions",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5417",
+      "name": "[22WIN PHP THB]",
+      "type": "BPT"
+    }
+  ],
+  "Vamshi": [
+    {
+      "id": "FPT-5005",
+      "name": "[ALL MERCHANTS] Add “Reward Events” in Affiliate Generate Commission > Reward Bonus",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4953",
+      "name": "[ALL AUD] Remove checking for Pay ID",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4930",
+      "name": "[ALL] Change promotion cancel outstanding bet logic",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5049",
+      "name": "[MS] [SIAM66 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5050",
+      "name": "[AFF] [SIAM66 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4976",
+      "name": "ADHOC - W49 - Vamshi",
+      "type": "FPT"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5425",
+      "name": "[ALL MERCHANTS] Add “Reward Events” in Affiliate Generate Commission > Reward Bonus",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5508",
+      "name": "[BO3 IN HOUSE]Reward Event Token Release Records add Mission Filter",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5509",
+      "name": "[BO3 IN HOUSE] Company Report > Total Reward > Total Reward Details' Reward Event add hyperlink",
+      "type": "BPT"
+    }
+  ],
+  "Deep": [
+    {
+      "id": "FPT-5042",
+      "name": "[AFF] [JOLIBET PHP] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5043",
+      "name": "[MS] [JOLIBET PHP] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4997",
+      "name": "[Spinex AUD] Change APK download Banner Logo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4990",
+      "name": "[MS] [22WIN THB] Transfer the domain to THB",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4991",
+      "name": "[AFF] [22WIN THB] Transfer the domain to THB",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5044",
+      "name": "[AFF] [JAYABAJI BDT] Setup affjayabaji.com domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5045",
+      "name": "[MS] [JAYABAJI BDT] Setup affjayabaji.com domain as member site and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "BPT-5411",
+      "name": "[ALL] Seo footer add promo center at Categories",
+      "type": "BPT"
+    }
+  ],
+  "Clement Koay": [
+    {
+      "id": "FPT-4736",
+      "name": "[ALL] “Mystery Box” Reward Pop Up",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-5070",
+      "name": "[EP88 MYR] Change member site logo during the time mentioned",
+      "type": "FPT"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-4711",
+      "name": "[Zbet Withdrawal] [RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1310",
+      "name": "ADHOC - W49 - Vivaswan",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4710",
+      "name": "[Zbet Deposit] [RICH996 AUD ] membersite >add new inhouse feature and function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4993",
+      "name": "ADHOC - W49 - Manthan",
+      "type": "FPT"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5476",
+      "name": "[MOOVE BET HKD] Add “ABA BANK”and “Huione Pay”in merchant bank list setting",
+      "type": "BPT"
+    }
+  ],
+  "yuankang": [
+    {
+      "id": "BPT-5140",
+      "name": "V3 BO > HYPERLINK REDIRECT TO PAYMENT GATEWAY SETTING",
+      "type": "BPT"
+    }
+  ],
+  "Vijay Poovarasan": [
+    {
+      "id": "BPT-5384",
+      "name": "npr8 prod issues",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5448",
+      "name": "BOV3 -> Vip -> Vip Settings -> Daily Aid Setting",
+      "type": "BPT"
+    }
+  ],
+  "Max Tham": [
+    {
+      "id": "FPT-4920",
+      "name": "[ALL THB] membersite > plinko ball > no.3 th-th change to “เพื่อนฝากขั้นต่ำ 100 บาท“",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4989",
+      "name": "ADHOC - W49 - Deva",
+      "type": "FPT"
+    }
+  ],
+  "Sai krishna": [
+    {
+      "id": "FPT-5007",
+      "name": "ADHOC - W49 - Sai",
+      "type": "FPT"
+    }
+  ]
+}
