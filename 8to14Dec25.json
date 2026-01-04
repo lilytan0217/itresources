@@ -343,26 +343,6 @@
   },
   {
     "date": "2025-12-08",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 2,
-    "tickets": [
-      {
-        "ticket_type": "IBS",
-        "contribution_percentage": 50,
-        "ticket_id": "INTT-4"
-      },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 50,
-        "ticket_id": "ONEBOARD-861",
-        "ticket_name": "CHECK > MIGRATION SMS FOR 22WIN (PHP)"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-08",
     "name": "EUGENE TENG ZI HAN",
     "team": "BE",
     "resource": "Malaysia",
@@ -988,21 +968,6 @@
   },
   {
     "date": "2025-12-09",
-    "name": "amjad",
-    "team": "BE",
-    "resource": "India",
-    "hours": 7,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-09",
     "name": "Chen",
     "team": "FE",
     "resource": "Malaysia",
@@ -1214,27 +1179,6 @@
         "contribution_percentage": 71.43,
         "ticket_id": "BPT-5445",
         "ticket_name": "[v3 demolition] member > wallet transfer > uncertain transfer's loading speed is relatively slow compare to bo1"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-09",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 1.08,
-    "tickets": [
-      {
-        "ticket_type": "FR",
-        "contribution_percentage": 92.34,
-        "ticket_id": "FR-12012",
-        "ticket_name": "\"[All Merchant] BO > Rebate release > input a new field \"\" Generated date\"\"\""
-      },
-      {
-        "ticket_type": "PAR",
-        "contribution_percentage": 7.66,
-        "ticket_id": "PAR-2479",
-        "ticket_name": "IT: Deploy - CLOUD9 AUD PROD"
       }
     ]
   },
@@ -1827,21 +1771,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-1",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-10",
-    "name": "amjad",
-    "team": "BE",
-    "resource": "India",
-    "hours": 7,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
       }
     ]
   },
@@ -2646,21 +2575,6 @@
         "contribution_percentage": 12.5,
         "ticket_id": "Others-2",
         "description": "1 Hour Leisure Time"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-11",
-    "name": "amjad",
-    "team": "BE",
-    "resource": "India",
-    "hours": 7,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
       }
     ]
   },
@@ -3496,21 +3410,6 @@
   },
   {
     "date": "2025-12-12",
-    "name": "amjad",
-    "team": "BE",
-    "resource": "India",
-    "hours": 7,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-12",
     "name": "Chen",
     "team": "FE",
     "resource": "Malaysia",
@@ -3584,21 +3483,6 @@
         "contribution_percentage": 100,
         "ticket_id": "FPT-4784",
         "ticket_name": "[MS Performance] - image webp - Part 2 - remove all unused png images"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-12",
-    "name": "Clement Koay",
-    "team": "FE",
-    "resource": "Malaysia",
-    "hours": 8,
-    "tickets": [
-      {
-        "ticket_type": "Others",
-        "contribution_percentage": 100,
-        "ticket_id": "Others-1",
-        "description": "Working on issue INTT-5"
       }
     ]
   },
@@ -3716,33 +3600,6 @@
         "contribution_percentage": 42.86,
         "ticket_id": "BPT-5541",
         "ticket_name": "[v3 demolition] follow up all the bug status"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-12",
-    "name": "Eslyn",
-    "team": "BE",
-    "resource": "Malaysia",
-    "hours": 1.5,
-    "tickets": [
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 33.33,
-        "ticket_id": "ONEBOARD-721",
-        "ticket_name": "ONBUKA - EG8 (AUD)"
-      },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 33.33,
-        "ticket_id": "ONEBOARD-625",
-        "ticket_name": "ONBUKA - RICH996 (AUD)"
-      },
-      {
-        "ticket_type": "ONEBOARD",
-        "contribution_percentage": 33.33,
-        "ticket_id": "ONEBOARD-882",
-        "ticket_name": "INTEGRATION > LAAFFIC SMS - AW8 (NPR)"
       }
     ]
   },
