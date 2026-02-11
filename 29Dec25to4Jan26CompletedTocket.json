@@ -1,0 +1,257 @@
+{
+  "Manthan": [
+    {
+      "id": "FPT-3691",
+      "name": "[Zbet Deposit] Implementing promotion function to deposit",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3921",
+      "name": "[ZBET] Payment Gateway display QR",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5233",
+      "name": "ADHOC - W52 - Manthan",
+      "type": "FPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-4326",
+      "name": "[Zbet Deposit] Implementing promotion function to deposit",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5640",
+      "name": "TMX CRYPTO - 22WIN (PHP)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5631",
+      "name": "WINPAY - MAGAR33 (NPR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5068",
+      "name": "NEX855 - QPAY (THB) [CHANGE NEW API]",
+      "type": "BPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4878",
+      "name": "[Zbet Deposit and withdraw] UI and color changes",
+      "type": "FPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-5295",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantCockfight",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5296",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantCockfightProvider",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5097",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantRegister",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5255",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantLive",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5256",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantLiveProvider",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5066",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantRebate",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5098",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantRewardCenter",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5067",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantReferral",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5099",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantVIP",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5100",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantVIPContent",
+      "type": "FPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2568",
+      "name": "IT: Open Provider - MOOVEBET USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2565",
+      "name": "IT[Qi Lun]: Open All Games from IBL Lotto to all merchants.",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2564",
+      "name": "IT[Qi Lun]: Deploy Merchant Provider Key for PESO2U Staging and SIAM345 Staging.",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2562",
+      "name": "IT: Create SBO Agent Username - TRACKAUD AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5502",
+      "name": "[MOOVE BET HKD] Member site > Signup page 2, make the fill in Bank section to optional",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2556",
+      "name": "IT: Deploy and Open Provider - MEANCHEY99 USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2558",
+      "name": "IT: Deploy and Open Provider - MOOVEBET USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2527",
+      "name": "IT: Open Provider - JAGAT CUAN IDR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2557",
+      "name": "IT: Create SBO Agent Username - MOOVEBET USD PROD",
+      "type": "PAR"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-5127",
+      "name": "[BOV3] [ALL] Assist - Add Deposit promotion sequence on Promotion Code",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5016",
+      "name": "[ALL BDT] Rename Button in Withdrawal Page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5252",
+      "name": "[AFF] [GOD345 THB] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5251",
+      "name": "[MS] [GOD345 THB] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "PAR-2563",
+      "name": "IT: Aggregator Plug Key - TRACKAUD AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2555",
+      "name": "IT: Aggregator Plug Key - MOOVEBET USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5468",
+      "name": "[ALL] Regenerating menu.json from BO > Web Feature Game",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4951",
+      "name": "[ALL IN-HOUSE BDT] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2529",
+      "name": "IT: Aggregator Plug Key - MEANCHEY99 USD PROD",
+      "type": "PAR"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-5237",
+      "name": "[BO3 IN HOUSE] Reward Event - Mission Tooltips",
+      "type": "FPT"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5585",
+      "name": "[ALL] Add “Player ID” Column to BO VIP Records Pages",
+      "type": "BPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-5630",
+      "name": "[IBST-1289] merchant found out that recently their master meta pixel keep removed",
+      "type": "BPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-4490",
+      "name": "[BOV3] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4489",
+      "name": "[MS] Add “Jackpot” category (BDT only) with provider-fed game list & live jackpot amounts",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-4997",
+      "name": "[ALL][Zbet deposit] Merchant bank setting split from bank transfer",
+      "type": "BPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-5235",
+      "name": "[Rich996] Tune membersite color",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5234",
+      "name": "[Rich996 AUD] Membersite > homepage > change from current slot page to original homepage for mobile view",
+      "type": "FPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-5203",
+      "name": "ADHOC - W52 - Lam",
+      "type": "FPT"
+    }
+  ]
+}
