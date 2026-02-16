@@ -1,0 +1,647 @@
+{
+  "Eric Hong": [
+    {
+      "id": "BPT-5611",
+      "name": "[v3 BO] mission reward history optimize",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5769",
+      "name": "[BO][FR-12466][BO3] Hide Download Link in BO3 > App Packaging > Export",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5538",
+      "name": "[v3 BO] nex191 when no active event in the Period Mission, the End Time still keep updating to the current time",
+      "type": "BPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2648",
+      "name": "IT[Qi Lun]: Deploy Key and Open Provider to Member Site.",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2649",
+      "name": "IT: Create SBO Agent Username - NPL11 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-4375",
+      "name": "THB > SIAM191 (Transfer)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5419",
+      "name": "[AW8 KUSD] Membersite > Add Multi Language and country code",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2642",
+      "name": "IT: Provider Issue Checking - HW99 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2635",
+      "name": "IT: Open Cricket - SGD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2640",
+      "name": "IT: Provider Issue Checking - RICH078 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5393",
+      "name": "[FUJI9 BDT] Member site > Change signup/login template same as 8MBETS",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5723",
+      "name": "[Rich996 AUD] Change provider image for this 2 category live casino and sport provider on Desktop View only",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5724",
+      "name": "[WON66 AUD] Change provider image for this 3 category live casino , sport and cockfight provider on Desktop View only",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2634",
+      "name": "IT: Add game - STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2598",
+      "name": "IT: Open Cricket - BTI, CMD, SABA, LuckySport",
+      "type": "PAR"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-5608",
+      "name": "[MS] [WON66 AUD] Setup membersite & affiliate site and perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5609",
+      "name": "[AFF] [WON66 AUD] Setup membersite & affiliate site and perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5605",
+      "name": "[AFF] [RICH996 AUD] Setup membersite & affiliate site and perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5604",
+      "name": "[MS] [RICH996 AUD] Setup membersite & affiliate site and perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5606",
+      "name": "[MS] [RICH255 AUD] Setup membersite & affiliate site and perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5607",
+      "name": "[AFF] [RICH255 AUD] Setup membersite & affiliate site and perform 301 redirection",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5317",
+      "name": "[BOV1] MYR > Wincash Club",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5313",
+      "name": "[BOV1] AUD > RICH078",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5278",
+      "name": "[ALL] UI Minor tuning on \"Sign-in task\" page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5519",
+      "name": "[JB8 NPR] Add gtm to this domain <https://www.jb8npl.com/en-np>",
+      "type": "FPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-5527",
+      "name": "[AFF] [AW8 KUSD] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4697",
+      "name": "[ALL] Mini Game Settings - Mini Game Preview",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5523",
+      "name": "[FOLLOW UP] [ALL] Fix Period Mission Start/End Date Behavior",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-3787",
+      "name": "[BOV1] THB > SIAM191 (Transfer)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4604",
+      "name": "[BOV1] AUD > RICH996",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1731",
+      "name": "[V2] Membersite - add slackbot alert to channel (API error)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-1730",
+      "name": "[V2] Membersite - add slackbot alert to channel (APP error)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5569",
+      "name": "FE: Open cricket_all.json.gz - SGD",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5324",
+      "name": "[AW8 KUSD] Update domain settings",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5522",
+      "name": "[BO3] Hide Download Link in BO3 > App Packaging > Export",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4900",
+      "name": "[BO3] Reward Event Add New Mission - Daily Turnover",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5530",
+      "name": "FE: Open cricket_all.json.gz",
+      "type": "FPT"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-5318",
+      "name": "[BOV3] MYR > Wincash Club",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5316",
+      "name": "[AFF] MYR > Wincash Club",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5574",
+      "name": "[FUJI9 BDT] Member site > Signup/Login page, change the phone number sample prefix from “0” to “1”",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5476",
+      "name": "ADHOC - W4 - Vivaswan",
+      "type": "FPT"
+    }
+  ],
+  "Phoebe Mah": [
+    {
+      "id": "FPT-5315",
+      "name": "[MS] MYR > Wincash Club",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5314",
+      "name": "[BOV3] AUD > RICH078",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5312",
+      "name": "[AFF] AUD > RICH078",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5603",
+      "name": "[MS] Remove all dev.js env file",
+      "type": "FPT"
+    }
+  ],
+  "Clement Koay": [
+    {
+      "id": "FPT-5311",
+      "name": "[MS] AUD > RICH078",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-3786",
+      "name": "[MS] THB > SIAM191 (Transfer)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4894",
+      "name": "[Zbet withdrawal] Add withdraw condition data",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4927",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantMenuNav",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5284",
+      "name": "[MS] announcement scroll thumb change UI to thin",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5516",
+      "name": "ADD > CRYPTO WALLET ADD NEW PARAMETER > BANK_ID",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4046",
+      "name": "[ALL MERCHANTS] Apply Unique Default Meta Titles for Each Game Providers",
+      "type": "FPT"
+    }
+  ],
+  "vijaya prabakaran": [
+    {
+      "id": "BPT-5795",
+      "name": "BO-v3 get-user-provider-balance",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5749",
+      "name": "Suspect Issue - Report Related - NEP9 NPR",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5734",
+      "name": "BO-V3 BD - Suspect Issue - Report Related - JAYABAJI BDT",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5685",
+      "name": "BO-v3 Add tournament",
+      "type": "BPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4864",
+      "name": "[MS] Account Number Format Setting in BO3 > Bank List Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4602",
+      "name": "[MS] AUD > RICH996",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5514",
+      "name": "[MS] Integrating Laive Chat API",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5279",
+      "name": "[MS] [ALL BDT/NPR IN-HOUSE & PRO Version] Add “JILI Jackpot” category (BDT/NPR) with provider-fed game list & live jackpot amounts",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4608",
+      "name": "[AFF] AUD > RICH996",
+      "type": "FPT"
+    }
+  ],
+  "Chen": [
+    {
+      "id": "FPT-2846",
+      "name": "[MS] Server Layer Api Caching",
+      "type": "FPT"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5725",
+      "name": "Integrating Laive Chat API",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5324",
+      "name": "[Zbet withdrawal] Add withdraw condition data",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5186",
+      "name": "[ALL] Reward Event Token Tally Enhancement (with provider)",
+      "type": "BPT"
+    }
+  ],
+  "KokMin": [
+    {
+      "id": "BPT-5275",
+      "name": "HYPAY - NEX8 (MMK)",
+      "type": "BPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-5451",
+      "name": "[I828 THB] Update domain settings",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5404",
+      "name": "[AFF] [SPEEDAU2 AUD] Setup domain as membersite and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5510",
+      "name": "[AFF] [SANUK99 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5579",
+      "name": "[SIAM369 THB] Update Domain Setting",
+      "type": "FPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5798",
+      "name": "[NPR8 NPR] Add “Shangri-la Development Bank” in Merchant Bank Setting and Bank List Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5771",
+      "name": "INTEGRATION > TANGOPAY - NEX8 (MMK)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5783",
+      "name": "[Eg8 AUD] BO > Merchant bank settings > add \"USDT manual \" to Bank Name list",
+      "type": "BPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-5610",
+      "name": "[Goat77 MYR] Replace Cricket Missing Icon",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5597",
+      "name": "[MS] [JAGAT CUAN IDR] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5598",
+      "name": "[AFF] [JAGAT CUAN IDR] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5594",
+      "name": "[MS] [RW8 NPR] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5601",
+      "name": "[AFF] [RW8 NPR] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5599",
+      "name": "[MS] [RW8 NPR] Setup rw8nepal.com domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5600",
+      "name": "[AFF] [RW8 NPR] Setup rw8nepal.com domain as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5559",
+      "name": "[ALL] input when type=\"text\" need to add autocapitalize=\"off\"",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5580",
+      "name": "[MS] [MAFA191 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5581",
+      "name": "[AFF] [MAFA191 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5552",
+      "name": "[AFF] [JOLIBET PHP]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5551",
+      "name": "[MS] [JOLIBET PHP]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5450",
+      "name": "[AFF] [NEP9 NPR] Change membersite, affiliate site and APK logo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5449",
+      "name": "[MS] [NEP9 NPR] Change membersite, affiliate site and APK logo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5500",
+      "name": "[MS] [WINX8 THB] membersite > remove Chinese language",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5501",
+      "name": "[AFF] [WINX8 THB] membersite > remove Chinese language",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5494",
+      "name": "[AU77 AUD]  membersite > change video link for both mobile and web view",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5547",
+      "name": "[WCC MYR] Update x-default to en-my",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5540",
+      "name": "[MS] [GOD855 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5541",
+      "name": "[AFF] [GOD855 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-5560",
+      "name": "[AW8 NPR] Add OTP Required during registration",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5572",
+      "name": "[RW8 NPR] Add OTP Required during registration",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5586",
+      "name": "[WINX8 THB] membersite > signup > remove full name",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5521",
+      "name": "[All] Standardize the popup message for zbets",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4963",
+      "name": "[FUJI9 BDT] Member site > Change signup/login template same as 8MBETS",
+      "type": "FPT"
+    }
+  ],
+  "Max Tham": [
+    {
+      "id": "FPT-5410",
+      "name": "[MS] [IB Lotto Provider] Split Product and Display Timer",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5520",
+      "name": "[MS] Reward Event Add New Mission - Daily Turnover",
+      "type": "FPT"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5633",
+      "name": "[IB Lotto Provider] Split Product and Display Timer",
+      "type": "BPT"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-5558",
+      "name": "[Aggregator] create the product&Category page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5557",
+      "name": "[Aggregator] bug fix - revamp the passing values of the role actions to api by reversing",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5556",
+      "name": "[Aggregator] bug fix - role table display issue",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5535",
+      "name": "[Aggregator] create the createFreeSpinTemplate functin",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5534",
+      "name": "[Aggregator] Create the createFreeSpinList Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5533",
+      "name": "[Aggregator] Create FreeSpinTemplate Page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5532",
+      "name": "[Aggregator] Create FreeSpinList Page",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5508",
+      "name": "[Aggregator] Change the logic of selecting currency and game sequence in the create HotGame modal",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5507",
+      "name": "[Aggregator] Create delete function for HotGame",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5506",
+      "name": "[Aggregator] Agg BO - Hot Game UI & Logic enhancement",
+      "type": "FPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-5280",
+      "name": "[BOV3] [ALL BDT/NPR IN-HOUSE & PRO Version] Add “JILI Jackpot” category (BDT/NPR) with provider-fed game list & live jackpot amounts",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5504",
+      "name": "[MAMUBAJI BDT] Change 301 redirection preference language to en-bd",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5503",
+      "name": "[Gcwin99] Change background to White",
+      "type": "FPT"
+    }
+  ],
+  "LOOK MUN XUAN": [
+    {
+      "id": "BPT-5721",
+      "name": "[BO][FR-12390][All Merchant] BO > frontend setting > SEO metadata - add new row for \"deposit tutorial\"",
+      "type": "BPT"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-5332",
+      "name": "[BO3] Reward Event Add New Mission - Daily Turnover",
+      "type": "BPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-5440",
+      "name": "[Rich996 AUD] Change provider image for this 2 category live casino and sport provider on Desktop View only",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5439",
+      "name": "[WON66 AUD] Change provider image for this 3 category live casino , sport and cockfight provider on Desktop View only",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5531",
+      "name": "[Rich996 AUD] Update missing provider image",
+      "type": "FPT"
+    }
+  ]
+}
