@@ -1,0 +1,457 @@
+{
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5607",
+      "name": "INTEGRATION > 123PAY NATIVE - 22WIN (PHP)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5712",
+      "name": "[NEX789] Change deposit channel sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5713",
+      "name": "[NEX191] Change deposit channel sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5711",
+      "name": "[NEX855] Change deposit channel sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5688",
+      "name": "INTEGRATION > BD99PAY - JAYABAJI (BDT)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5697",
+      "name": "[AW8 VND] Add bank into BO and MS",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5683",
+      "name": "[NEX191] Change deposit channel sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5682",
+      "name": "[NEX789] Change deposit channel sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5383",
+      "name": "INTEGRATION > WINFAPAY - AW8 (MYR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5544",
+      "name": "[All merchants] Membersite check for bank images",
+      "type": "BPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-5380",
+      "name": "[Balance Notification] Update Prod Stage domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5285",
+      "name": "[JB8 NPR] Change LOGO and create APK",
+      "type": "FPT"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-5437",
+      "name": "[WINX8 THB] Add capture code",
+      "type": "FPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5696",
+      "name": "INTEGRATION - JW8 - AKGPAY (PKR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5698",
+      "name": "[GCWIN99] Change deposit channel sequence",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5254",
+      "name": "INTEGRATION > CYPAY - AW8 (VND)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5486",
+      "name": "[ALL] Add New Setting for Controlling Deposit Promotions Display to FTD Users",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5181",
+      "name": "[Zbet] PG deposit redirection confirmation",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5670",
+      "name": "ADD > GLOBALPAY (THB) TRANSLATE FUNCTION [ALL MERCHANT]",
+      "type": "BPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-5436",
+      "name": "[RICH255 AUD] Clone setting from RIch996",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5292",
+      "name": "[BOV1] AUD > RICH255",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5306",
+      "name": "[BO3 IN HOUSE] Reward Event – Risk Setting",
+      "type": "FPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-5428",
+      "name": "[MS] [WINX8 THB] setup membersite and affiliate domain winx8.cc",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5429",
+      "name": "[AFF] [WINX8 THB] setup membersite and affiliate domain winx8.cc",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5422",
+      "name": "[MS] invite friend page the 'envelop' image tuning for light or dark theme",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5416",
+      "name": "[AFF] [NEP9 NPR]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5417",
+      "name": "[MS] [NEP9 NPR]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5414",
+      "name": "[MS] [MAFA191 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5415",
+      "name": "[AFF] [MAFA191 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5413",
+      "name": "[AW8 NPR] Add gtm to this domain aw8npl2.com",
+      "type": "FPT"
+    }
+  ],
+  "Vijay Poovarasan": [
+    {
+      "id": "BPT-5704",
+      "name": "Mission - get-diary-mission membersite API add the missing language translation",
+      "type": "BPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-1927",
+      "name": "IT[Qi Lun] Sync BTGaming gamelist from 22fun to all merchant",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2232",
+      "name": "IT[Qi Lun] Provider Issue Checking - JW8 INR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5689",
+      "name": "[BO3] Enable to Rearrange RG Provider Display from the BO3 > Provider Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2600",
+      "name": "IT: Add Provider Key and Deploy",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2602",
+      "name": "IT[Qi Lun]: Deploy Merchant Provider Key for Those Merchants.",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2560",
+      "name": "IT: Provider Issue Checking - MEANCHEY99 USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2581",
+      "name": "IT: Deploy and Open Provider - MMK PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2601",
+      "name": "IT: Deploy and Open Provider - WINX8 THB PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2582",
+      "name": "IT: Deploy",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2591",
+      "name": "IT: Provider Issue Checking - RICH255 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2599",
+      "name": "IT: System URL Changes - Nextspin",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2596",
+      "name": "IT: Add game - STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2594",
+      "name": "IT: Create SBO Agent Username - WINX8 THB PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2576",
+      "name": "IT: Provider Issue Checking - SIAM191 THB PROD (TRF)",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2588",
+      "name": "IT: Aggregator Plug Key - RICH255 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2586",
+      "name": "IT: Deploy and Open Provider - RICH255 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2584",
+      "name": "IT: Open Provider - MMK PROD",
+      "type": "PAR"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-5623",
+      "name": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4995",
+      "name": "[v3 cron] revamp report game statistic cron in v3",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5694",
+      "name": "[v3] Bulk write failed due to previous MongoDB",
+      "type": "BPT"
+    }
+  ],
+  "yuankang": [
+    {
+      "id": "BPT-4946",
+      "name": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting",
+      "type": "BPT"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-4448",
+      "name": "[BO3] Add “App Packaging” Menu in BO3 > CMS > Casino Setting",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4009",
+      "name": "[BOV3] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-4010",
+      "name": "[MS] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4414",
+      "name": "[MS] [ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module - part 2",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4730",
+      "name": "[MS Enhancement] [ALL MERCHANTS] CHANGE NEW UI",
+      "type": "FPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "BPT-4598",
+      "name": "[ALL MERCHANTS] BO3 > Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-4770",
+      "name": "[v3 MS] Sync v1 MS API to v3 MS for Add “Claiming Restriction – Device Usage” Setting to Promotion Setting & All Rewards Module",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2595",
+      "name": "IT: Aggregator Plug Key - WINX8 THB PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5667",
+      "name": "[SIAM191 THB] Migration from Seamless to Transfer system",
+      "type": "BPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-4321",
+      "name": "[ALL] Add Favorite Game (bookmark) feature",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5187",
+      "name": "[I828 THB] Mobile > Move “I828 Mall” icon to the 2nd sequence",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-4713",
+      "name": "NEX855 - QPAY (THB) [CHANGE NEW API]",
+      "type": "FPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-5290",
+      "name": "[MS] AUD > RICH255",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5299",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantCricket",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5300",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantCricketProvider",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4911",
+      "name": "[AW8 ] membersite > change primary colour to yellow",
+      "type": "FPT"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-5603",
+      "name": "[Champ191] Add New Currency",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5609",
+      "name": "[BO3 IN HOUSE] Reward Event – Risk Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5668",
+      "name": "[SIAM191 THB] Migration from Seamless to Transfer system",
+      "type": "BPT"
+    }
+  ],
+  "KokMin": [
+    {
+      "id": "BPT-5636",
+      "name": "[QBT-67] [Member > Tag Management > Tag Adjustment History] Before Modify Tag and After modify Tag search will return blank result table",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5555",
+      "name": "[v1 demolition] Member > Member Info > Edit Member pop out tab. Bounty Hunter Analysis > IP Info Analysis tab is not showing any records while in V1 does have items in the tab",
+      "type": "BPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-5358",
+      "name": "[Rich996 AUD] Change provider image for esport and cockfight on desktop view only",
+      "type": "FPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-5103",
+      "name": "[BO3 IN HOUSE] Reward Event add Cycle ID column & filter",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5355",
+      "name": "ADHOC - W2 - Akash",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-5266",
+      "name": "[RW8 NPR] to change *signup* and *login* template ui same like AW8",
+      "type": "FPT"
+    }
+  ],
+  "Allaudhin": [
+    {
+      "id": "BPT-5684",
+      "name": "Verify QA Bug List sheet",
+      "type": "BPT"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5512",
+      "name": "[BO3 IN HOUSE] Reward Event add Cycle ID column & filter",
+      "type": "BPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-5302",
+      "name": "ADHOC - W2 - Kartik",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-5674",
+      "name": "All V3 BO Sync Deposit and QR Deposit ticket status",
+      "type": "BPT"
+    }
+  ]
+}
