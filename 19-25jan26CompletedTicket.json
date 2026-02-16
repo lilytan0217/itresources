@@ -1,0 +1,605 @@
+{
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5343",
+      "name": "INTEGRATION > HQPAY - SIAM855 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5739",
+      "name": "[All INR Currency] BO > add system bank",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5622",
+      "name": "[1Judi MYR] BO > Bank Mapping XXXPAY > Add 3rd Party Bank \" touch n go \"",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5322",
+      "name": "INTEGRATION > H88PAY - JOLIBET (PHP)",
+      "type": "BPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5095",
+      "name": "CYPAY - CHAMP191 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5373",
+      "name": "CHECK > PAYNOW CHANGE SEQUENCE TO NO.2 (SGD) [JW8]",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5772",
+      "name": "INTEGRATION > NOVAPAY - AW8 (MYR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5773",
+      "name": "SHPAY - RICH225 (AUD)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5758",
+      "name": "BITPAYZ - WINX8 (THB)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5753",
+      "name": "[NEP9] > Change SMS Content",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5742",
+      "name": "CHUANX - NEP9 [UEA8] (NPR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5618",
+      "name": "[Part 1][ALL] Deposit PG enhancement",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5701",
+      "name": "INTEGRATION > WGPAY - NEX855 (THB)",
+      "type": "BPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-5457",
+      "name": "[BOV3] Member Detail popup prep structure to receive and handle more granular data from dedicated API",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4714",
+      "name": "[Zbet] PG deposit redirection confirmation",
+      "type": "FPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-5511",
+      "name": "[MS] [AW8 NPR] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5512",
+      "name": "[AFF] [AW8 NPR] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2625",
+      "name": "IT: Create SBO Agent Username - HW99 NPR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5744",
+      "name": "[WON66 AUD] Update to new provider image set",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2617",
+      "name": "IT: Deploy and Open Provider - RICH078 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2618",
+      "name": "IT: Open Provider & Provider Issue Checking - WINCASHCLUB MYR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2610",
+      "name": "IT: Deploy and Open Provider - PICH123 USD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2613",
+      "name": "IT: Deploy and Open Provider - WINCASHCLUB MYR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2614",
+      "name": "IT: Create SBO Agent Username - RICH078 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2606",
+      "name": "IT: Deploy and Open Provider ",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2609",
+      "name": "IT: Create SBO Agent Username - WINCASHCLUB MYR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2605",
+      "name": "IT: Add Provider Key and Deploy",
+      "type": "PAR"
+    }
+  ],
+  "Vivaswan Kurwatti": [
+    {
+      "id": "FPT-5517",
+      "name": "[NEP9 NPR] Add OTP Required during registration",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4290",
+      "name": "[AFF] [ALL BO3] Affiliate Logo Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4291",
+      "name": "[BO] [ALL BO3] Affiliate Logo Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4297",
+      "name": "[BOV3] [ALL BO3] Affiliate Favicon Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4298",
+      "name": "[AFF] [ALL BO3] Affiliate Favicon Function",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5343",
+      "name": "[8MBETS NPR] Member site > Add signup page 2 bank details same as Magar33",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5359",
+      "name": "[NPR8 NPR] Member site > Signup page, remove page 2 bank required",
+      "type": "FPT"
+    }
+  ],
+  "LOOK MUN XUAN": [
+    {
+      "id": "BPT-5741",
+      "name": "[ALL AUD] Add on bank into bank list setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5735",
+      "name": "[BO][IBST-2421][jayabaji] In Provider Report > Evolution, please check why the game name showing with unknown string",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5520",
+      "name": "[ALL BO] Sync \"provider-key\" Hidden Page From BOv1 to BOv3",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5641",
+      "name": "[v3 BO] Activity Report > Member Random Rebate History > Export \"random rebate condition\" showing wrong value",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5675",
+      "name": "[v3 BO][FR-12269][Promotion - 2,3] Promotion",
+      "type": "BPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "BPT-5752",
+      "name": "[RW8 NPR] Change to JB8 Template (Part 2)",
+      "type": "BPT"
+    },
+    {
+      "id": "PAR-2615",
+      "name": "IT: Aggregator Plug Key - RICH078 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2612",
+      "name": "IT: Aggregator Plug Key - WINCASHCLUB MYR PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "BPT-5645",
+      "name": "[Fuji9 PHP] Change Sport category Background Image",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5654",
+      "name": "[JB8 NPR] 2nd batch enhancement",
+      "type": "BPT"
+    }
+  ],
+  "YL LEE": [
+    {
+      "id": "FPT-5488",
+      "name": "[RW8 NPR] Change to JB8 Template (Part 2)",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4856",
+      "name": "[BO3] Reward Event Add New Mission - Verification Rewards",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5361",
+      "name": "[AW8 IDR] Insert link into CERT image",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5433",
+      "name": "[ALL INHOUSE] Scratcher Mini Game Preview Description within Mini Game Settings",
+      "type": "FPT"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-5498",
+      "name": "[WON66 AUD] Update to new provider image set",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5363",
+      "name": "[Won66 AUD] Replace Partnership Icon on membersite",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5153",
+      "name": "[MS] KUSD > Meanchey99",
+      "type": "FPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-5354",
+      "name": "[BOV3] THB > WinX8",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5353",
+      "name": "[BOV1] THB > WinX8",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5352",
+      "name": "[AFF] THB > WinX8",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5463",
+      "name": "[NEX191 THB] Add gtm to this domain <https://www.nex191ec3.com>",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5159",
+      "name": "[BOV1] AUD > TrackAUD",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5464",
+      "name": "[NEX855 THB] Add gtm to this domain <https://www.nex855v2.com>",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5465",
+      "name": "[SIAM191 THB] Add gtm to this domain <https://www.siam191d.com/th-th>",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5141",
+      "name": "[EG8 AUD] Change Template UI",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5107",
+      "name": "[ALL BO] Sync Provider Key Menu From BOv1 to BOv3",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5227",
+      "name": "[ALL] Reward Center > Rebate Page UI Enhancement",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5154",
+      "name": "[BOV1] KUSD > Meanchey99",
+      "type": "FPT"
+    }
+  ],
+  "Phoebe Mah": [
+    {
+      "id": "FPT-5351",
+      "name": "[MS] THB > WinX8",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5434",
+      "name": "[ALL] Change Blog URL Title to mandatory field",
+      "type": "FPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-5459",
+      "name": "[NEP9 NPR] Clone SING55 THB BO department setting to NEP9 NPR",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5158",
+      "name": "[MS] AUD > TrackAUD",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5474",
+      "name": "[Luckystar] Change background to White",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5360",
+      "name": "[BK9 AUD] Change Promotion template to Siam66 version",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5396",
+      "name": "[UF9 MYR] Membersite > change logo",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5398",
+      "name": "[HAOBET77 MMK] Membersite > replace download apk link",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5402",
+      "name": "[MW99 NPR] Remove Top Referral Banner",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5277",
+      "name": "[BETPLUSX KUSD] Setup domain as BO and Disconnect BO&membersite",
+      "type": "FPT"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-5485",
+      "name": "[Aggregator] Toggle the values of the start and end date to null upon second click in the set date/time bar",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5484",
+      "name": "[Aggregator] Change the logic of calling getMonthlyReportPerDay API",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5483",
+      "name": "[Aggregator] Sort the country dropdown list to A-Z order",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5423",
+      "name": "[Aggregator] Hotfixes and API implementation changes",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5347",
+      "name": "[Aggregator] configure environment variable for BO to make docker image building dynamic",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5338",
+      "name": "[BO3] Replace Download Link & Copy Button with Download Icon in BO3 > Casino Setting > App Packaging Table",
+      "type": "FPT"
+    }
+  ],
+  "Christy Liu": [
+    {
+      "id": "FPT-5495",
+      "name": "[MS] [SIAM369 THB]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5496",
+      "name": "[AFF] [SIAM369 THB]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5489",
+      "name": "[MS] [SIAM369 THB]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5490",
+      "name": "[AFF] [SIAM369 THB]  setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5471",
+      "name": "[MS] [JW8 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5472",
+      "name": "[AFF] [JW8 THB] setup membersite and affiliate site domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5185",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantHomeGameContainerMobile",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5184",
+      "name": "[MS Performance] All Components Merchant`s Specific - MerchantHomeGameContainer",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5470",
+      "name": "[Rich255 AUD] Replace Partnership Icon on membersite",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5458",
+      "name": "[RICH255 AUD] Change membersite logo",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-5161",
+      "name": "[BOV3] AUD > TrackAUD",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5337",
+      "name": "[MS] [RW8 NPR] CHANGE TO JB8 TEMPLATE",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5155",
+      "name": "[BOV3] KUSD > Meanchey99",
+      "type": "FPT"
+    }
+  ],
+  "Kai Lun Chew": [
+    {
+      "id": "BPT-5722",
+      "name": "[ALL MERCHANTS] Member site > Promotion, tuning on the “Eligible Platform” position to make it don’t covered by “Apply Now”",
+      "type": "BPT"
+    }
+  ],
+  "Leon": [
+    {
+      "id": "FPT-5310",
+      "name": "[ALL] Change the word “Favourite” to “Unfavourite” after the games have been selected as favourite games.",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5473",
+      "name": "[I828 THB] Bold the ‘i828 ห้าง’ text same as others text In menu bar",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5420",
+      "name": "[JW8 SGD] Membersite > please assist to remove \" XMAS EVENT \" this icon on mobile view and web view",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5419",
+      "name": "[JW8 MYR] Membersite > please assist to remove \" XMAS EVENT \" this icon on mobile view and web view",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5364",
+      "name": "[I828 THB] Update Mobile i828 mall PNG icon and update Web icon",
+      "type": "FPT"
+    }
+  ],
+  "KokMin": [
+    {
+      "id": "BPT-5691",
+      "name": "[BO3][FR-12276] App Domain field should automatically append the fixed query string ?app=1&source=mobileapp1",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5707",
+      "name": "[BO][QBT-29][Member > Member Group] input spacebar into Merchant Bank Name input box and search will result error",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5706",
+      "name": "[BO][QBT-28][Member > Member Group] Purpose column sorting function will return error",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5715",
+      "name": "[BO][QBT-4][Activity Report > Member Instant Rebate History] Category column sorting function will cause error",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5719",
+      "name": "[BO][QBT-7][Activity Report > Member Random Rebate History] Rebate Term and Rebate Title column sorting function will cause error",
+      "type": "BPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-5376",
+      "name": "[BOV3] [ALL] Change Retrieve Contact Us Logic for Community Popup",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5377",
+      "name": "[MS] [ALL] Change Retrieve Contact Us Logic for Community Popup",
+      "type": "FPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-4790",
+      "name": "[ALL BO3] Affiliate Logo Function",
+      "type": "BPT"
+    }
+  ],
+  "Max Tham": [
+    {
+      "id": "FPT-4861",
+      "name": "[MS] Reward Event Add New Mission - Verification Rewards",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5325",
+      "name": "[ALL IN HOUSE] Reward Event Mission UI Revamp",
+      "type": "FPT"
+    }
+  ],
+  "Yap Yee Sheng": [
+    {
+      "id": "BPT-5292",
+      "name": "[BO3] Reward Event Add New Mission - Verification Rewards",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5615",
+      "name": "[ALL IN HOUSE] Reward Event Mission UI Revamp",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5733",
+      "name": "CHANGE > GOAT77 SMS CONTENT [MYR]",
+      "type": "BPT"
+    }
+  ],
+  "Victor Lee Chee Chun": [
+    {
+      "id": "BPT-5716",
+      "name": "[ALL] Change Blog URL Title to mandatory field",
+      "type": "BPT"
+    }
+  ]
+}
