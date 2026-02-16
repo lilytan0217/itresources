@@ -1,0 +1,292 @@
+{
+  "Leon": [
+    {
+      "id": "FPT-2703",
+      "name": "[ALL] Enhancement in Affiliate Site : Dynamic Member & Member Register URL",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5335",
+      "name": "[AFF] [JW8 PKR] Setup domains as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5336",
+      "name": "[MS] [JW8 PKR] Setup domains as member site and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "KokMin": [
+    {
+      "id": "BPT-5620",
+      "name": "[Member > Member Info] Last Deposit column's sorting function did not sort correctly",
+      "type": "BPT"
+    }
+  ],
+  "Qi Lun": [
+    {
+      "id": "PAR-2583",
+      "name": "IT: Create SBO Agent Username - RICH255 AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2578",
+      "name": "IT: Provider Issue Checking - 22WIN PHP STAG",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2580",
+      "name": "IT: Create SBO Agent Username",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2577",
+      "name": "IT: Deploy and Open Provider - 22WIN PHP STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2573",
+      "name": "IT: Open Provider - SIAM191 THB PROD (TRF)",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2574",
+      "name": "IT[Qi Lun]: Export Game Image and Game List for Those Providers",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2569",
+      "name": "IT: Provider Issue Checking - TRACKAUD AUD PROD",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2572",
+      "name": "IT: Deploy",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2510",
+      "name": "IT: Provider Issue Checking - JOLIBET PHP STAGING",
+      "type": "PAR"
+    },
+    {
+      "id": "PAR-2571",
+      "name": "IT: Game Not Found - FUJI9 PHP PROD",
+      "type": "PAR"
+    }
+  ],
+  "Raymond Tam": [
+    {
+      "id": "FPT-5244",
+      "name": "[Won66 AUD] membersite > change template to RICH996",
+      "type": "FPT"
+    }
+  ],
+  "Vijay Poovarasan": [
+    {
+      "id": "BPT-5657",
+      "name": "BOV3 -> Vip -> Update Birthday Bonus Setting",
+      "type": "BPT"
+    }
+  ],
+  "vijaya prabakaran": [
+    {
+      "id": "BPT-5660",
+      "name": "dashboard log storing issue ",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5635",
+      "name": "[IBST-963] Deposit / Withdrawal error in MS",
+      "type": "BPT"
+    }
+  ],
+  "EUGENE TENG ZI HAN": [
+    {
+      "id": "BPT-5663",
+      "name": "CHECK > SEPARATE RAPIDPAY > WAVEPAY & KBZPAY (MMK)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5621",
+      "name": "INTEGRATION > VPAY - JW8 (MYR)",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5655",
+      "name": "FPAY CRYPTO - JW8 (PKR)",
+      "type": "BPT"
+    }
+  ],
+  "Seow Imm Beh": [
+    {
+      "id": "BPT-5658",
+      "name": "[SIAM191 THB] Clone SIAM369 THB BO department setting to SIAM191 THB BO",
+      "type": "BPT"
+    }
+  ],
+  "Cheyenne": [
+    {
+      "id": "FPT-5345",
+      "name": "[Aggregator] Multiple Hot fixes",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5332",
+      "name": "[Aggregator] Agg BO - Get Player Module",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5331",
+      "name": "[Aggregator] Agg BO - New Api Request property in existing Api",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5241",
+      "name": "[Aggregator] CreateKisok enhancement, need to add additional field during creating kiosk",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5240",
+      "name": "[Aggregator] Model Product Key details auto close issue",
+      "type": "FPT"
+    }
+  ],
+  "Danny YKC": [
+    {
+      "id": "FPT-4979",
+      "name": "[BOV1] NPR > JB8",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5150",
+      "name": "[BOV1] NPR > NEP9",
+      "type": "FPT"
+    }
+  ],
+  "Devendran M": [
+    {
+      "id": "FPT-4980",
+      "name": "[BOV3] NPR > JB8",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5149",
+      "name": "[MS] NPR > NEP9",
+      "type": "FPT"
+    }
+  ],
+  "Eason": [
+    {
+      "id": "FPT-4981",
+      "name": "[AFF] NPR > JB8",
+      "type": "FPT"
+    }
+  ],
+  "Chow Chong Bao": [
+    {
+      "id": "BPT-5634",
+      "name": "[ALL] PGSOFT Bet Detail Return Format Changed from URL to HTML",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5617",
+      "name": "[ALL AUD] Add \"Mystate Bank\" in Bank List Setting",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5629",
+      "name": "[Rich996 AUD] Membersite > deposit >change icon for payID, crypto and Online Payment",
+      "type": "BPT"
+    }
+  ],
+  "Phoebe Mah": [
+    {
+      "id": "FPT-5305",
+      "name": "[BOV3] PGSOFT Bet Detail Return Format Changed from URL to HTML",
+      "type": "FPT"
+    }
+  ],
+  "kartik": [
+    {
+      "id": "FPT-5323",
+      "name": "[AW8 THB] Update domain settings",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5322",
+      "name": "[AW8 THB] Update domain settings - change main domain",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5271",
+      "name": "[AFF] [GOD345 THB] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-5270",
+      "name": "[MS] [GOD345 THB] Setup domains below as member site and affiliate site",
+      "type": "FPT"
+    }
+  ],
+  "HING ZI HUI": [
+    {
+      "id": "FPT-5288",
+      "name": "[EP88 MYR] Change member site logo back to original logo",
+      "type": "FPT"
+    }
+  ],
+  "Akash A": [
+    {
+      "id": "FPT-5262",
+      "name": "[TK8 MYR] Remove APK download banner for both desktop and mobile view",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4285",
+      "name": "[BOV3] Web Featured Game (Bug Fixing and Tuning) - Phase 1",
+      "type": "FPT"
+    },
+    {
+      "id": "FPT-4286",
+      "name": "[BOV3] Web Featured Game (Bug Fixing and Tuning) - Phase 2",
+      "type": "FPT"
+    }
+  ],
+  "Manthan": [
+    {
+      "id": "FPT-5269",
+      "name": "[Part 1][Zbet deposit/withdraw]Add 1 buttons on top bar",
+      "type": "FPT"
+    }
+  ],
+  "Eric Hong": [
+    {
+      "id": "BPT-5457",
+      "name": "[v3 demolition] provider report > provider name hyperlink > player id hyperlink > bet history within the same provider will show numbers instead of actual understandable name/info",
+      "type": "BPT"
+    }
+  ],
+  "LOOK MUN XUAN": [
+    {
+      "id": "BPT-5238",
+      "name": "[v3 MS] FR-11771 rebate claim all button new requirement need receive rebate when user click claim button",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5184",
+      "name": "[v3 MS] FR-11771 Rebate Page claim now button need to include instant rebate",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5649",
+      "name": "[QBT-58] [Member > Member Group > Update Group ] Search incomplete name for Merchant Bank Name will return error",
+      "type": "BPT"
+    },
+    {
+      "id": "BPT-5648",
+      "name": "[QBT-53] [Member > Member Info > Edit Member pop out tab] Login IP column in Login Events section is not sorting based on ascending order",
+      "type": "BPT"
+    }
+  ]
+}
